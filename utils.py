@@ -3,6 +3,8 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import re
 import json
+import numpy as np
+
 
 def jsondump(df, name):
     with open(name, "w") as f:
@@ -59,3 +61,12 @@ def itemize_segment_name(name: str):
     items = list(filter(None, items))
 
     return items
+
+
+def get_eu_names():
+    eu_countries = scrape_table("https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:Country_codes").values
+    eu_countries = np.vstack([eu_countries[:, 0:2], eu_countries[:, 2:4], eu_countries[:, 4:6], eu_countries[:-1, 6:8]])
+    eu_countries[:,0] = [countryname.strip().lower() for countryname in eu_countries[:,0]] # format all the names
+    eu_countries[:,1] = [countrycode[1:3] for countrycode in eu_countries[:,1]] # remove parentheses from abbreviations
+    eu_countries = np.vstack([eu_countries, ["europe", "eu"]])
+    return eu_countries
