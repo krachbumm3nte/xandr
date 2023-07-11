@@ -41,11 +41,14 @@ def clean_segment_name(name: str):
 
 
 separator_hierarchy = [
-    r">|:|::|-|–|_|\||\(|\)|\[|\]", # > : :: - – _ | ( ) [ ]
-    r"/", # /
-    r" ", # <space>
-    r",", # ,
+    re.compile(r">|:+| - | – |\[|\]|\(|\)|\|"), # > : :: - – _ | ( ) [ ]
+    re.compile(r"_|-|/"), 
+    # r" ", # <space>
+    # r",", # ,
 ]
+
+useless_segments_re = re.compile(r"\[null\]|\Atest|[^a-z]+test\Z| test |\A[a-z0-9]{0,6}\Z")
+
 
 def itemize_segment_name(name: str):
 
