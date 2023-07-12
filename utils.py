@@ -41,7 +41,7 @@ def clean_segment_name(name: str):
 
 
 separator_hierarchy = [
-    re.compile(r">|:+| - | – |\[|\]|\(|\)|\|"), # > : :: - – _ | ( ) [ ]
+    re.compile(r">|:+| - | – |\[|\]|\(|\)|\||\,"), # > : :: - – _ | ( ) [ ]
     re.compile(r"_|-|/"), 
     # r" ", # <space>
     # r",", # ,
