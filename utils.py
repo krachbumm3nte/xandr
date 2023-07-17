@@ -4,12 +4,14 @@ import pandas as pd
 import re
 import json
 import numpy as np
+from unidecode import unidecode
 
 
+word_separator = r"( ?[\ \-–_\|\,] ?)"
 
 separator_hierarchy = [
-    re.compile(r">|:+| - | – |\[|\]|\(|\)|\||\,"),  # > : :: - – _ | ( ) [ ]
-    re.compile(r"_|-|/"),
+    re.compile(r">|:+| \- | – |\[|\]|\(|\)|\||\,"),  # > : :: - – _ | ( ) [ ]
+    re.compile(r"_|-|–|/"),
     # r" ", # <space>
     # r",", # ,
 ]
@@ -49,7 +51,7 @@ def clean_segment_name(name: str):
     if name[0] == name[-1] == '"':
         name = name[1:-1]
 
-    return name
+    return unidecode(name) # remove diactrics and other non-unicode characters
 
 
 

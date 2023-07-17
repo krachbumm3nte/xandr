@@ -1,8 +1,9 @@
 sex = [
     r"sex",
+    r"gender",
     r"promiscu(ous|ity)",
     r" porn ",
-    r"pornograph(y|ic)"
+    r"pornograph(y|ic)",
     r"erotic",
     r"lgbt",
     r"lesbian",
@@ -51,7 +52,7 @@ latent_racism = [
     r'indian',
     r'pacific islander',
     r'white',
-    r'native',
+    r' native',
 ]
 
 religion = [
@@ -77,9 +78,10 @@ religion = [
 health = [
     r'disease',  # treatment general
     r'illness',
-    r'pain',
+    r' pain ',
     r'fatigue',
     r'surgery',
+    r'medic(al|ine)',
     r'arthritis',
     r'hypertension',
     r'fibromyalgia',
@@ -152,13 +154,13 @@ health = [
     r'anxiety',
     r'psych(olog|iatr)',
     r'depress(ed|ion)',
-    r'mental',
+    r'(?!environ)mental',
     r'addict',
     r'alcohol',
     r'drugs',
     r'cannabis',
     r'painkiller',
-    r'opioid',
+    r'opi(oid|um)',
     r'abuse',
     r'bipolar',
     r'disorder',
@@ -230,6 +232,8 @@ political = [
     r'immigra(nt|tion)',
     r'aslyum',
     r'environment(al)?',
+    r'climate change',
+    r'global warming',
     r'conservation',
     r'organized labor',
     r'pro (choice|life)',
