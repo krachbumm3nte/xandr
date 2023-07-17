@@ -1,29 +1,29 @@
-,country,code,ethnicity
-0,belgium,be,belgian
-1,bulgaria,bg,bulgarian
-2,czechia,cz,czech
-3,denmark,dk,danish
-4,germany,de,german
-5,estonia,ee,estonian
-6,ireland,ie,irish
-7,greece,el,greek
-8,spain,es,spanish
-9,france,fr,french
-10,croatia,hr,croatian
-11,italy,it,italian
-12,cyprus,cy,cypriot
-13,latvia,lv,latvian
-14,lithuania,lt,lithuanian
-15,luxembourg,lu,luxembourgian
-16,hungary,hu,hungarian
-17,malta,mt,maltese
-18,netherlands,nl,dutch
-19,austria,at,austrian
-20,poland,pl,polish
-21,portugal,pt,portuguese
-22,romania,ro,romanian
-23,slovenia,si,slovenian
-24,slovakia,sk,slovak
-25,finland,fi,finnish
-26,sweden,se,swedish
-27,europe,eu,european
+,name,strings,codes,identifiers
+0,belgium,"['belgium', 'belgian']","['be', 'bel']","['xaxisbe', 'xaxisbel']"
+1,bulgaria,"['bulgaria', 'bulgarian']","['bg', 'bgr']","[]"
+2,czechia,"['czechia', 'czech']","['cz', 'cze']","['xaxiscz']"
+3,denmark,"['denmark', 'danish']","['dk', 'dnk']","['xaxisdk']"
+4,germany,"['germany', 'german']","['de', 'deu', 'ger']","['xaxisde']"
+5,estonia,"['estonia', 'estonian']","['ee', 'est']","[]"
+6,ireland,"['ireland', 'irish']","['ie', 'irl']","[]"
+7,greece,"['greece', 'greek']","['el', 'grc']","[]"
+8,spain,"['spain', 'spanish']","['es', 'esp']","['xaxises']"
+9,france,"['france', 'french']","['fr', 'fra']","['xaxisfr']"
+10,croatia,"['croatia', 'croatian']","['hr', 'hrv']","[]"
+11,italy,"['italy', 'italian']","['it', 'ita']","['xaxisit']"
+12,cyprus,"['cyprus', 'cypriot']","['cy', 'cyp']","[]"
+13,latvia,"['latvia', 'latvian']","['lv', 'lva']","[]"
+14,lithuania,"['lithuania', 'lithuanian']","['lt', 'ltu']","[]"
+15,luxembourg,"['luxembourg', 'luxembourgian']","['lu', 'lux']","[]"
+16,hungary,"['hungary', 'hungarian']","['hu', 'hun']","['xaxishu', 'xaxishungar']"
+17,malta,"['malta', 'maltese']","['mt', 'mlt']","[]"
+18,netherlands,"['netherlands', 'dutch']","['nl', 'nld']","['xaxisnl']"
+19,austria,"['austria', 'austrian']","['at', 'aut']","[]"
+20,poland,"['poland', 'polish']","['pl', 'pol']","['xaxispo']"
+21,portugal,"['portugal', 'portuguese']","['pt', 'prt']","['xaxispt']"
+22,romania,"['romania', 'romanian']","['ro', 'rou']","['xaxisro']"
+23,slovenia,"['slovenia', 'slovenian']","['si', 'svn']","[]"
+24,slovakia,"['slovakia', 'slovak']","['sk', 'svk']","[]"
+25,finland,"['finland', 'finnish']","['fi', 'fin']","['xaxisfi']"
+26,sweden,"['sweden', 'swedish']","['se', 'swe']","['xaxisse', 'xaxissweden']"
+27,europe,"['europe', 'european']","['eu', 'eue']","[]"
