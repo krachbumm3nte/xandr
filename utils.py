@@ -7,7 +7,7 @@ import numpy as np
 from unidecode import unidecode
 
 
-word_separator = r"( ?[\ \-–_\|\,] ?)"
+word_separator = r"[\ \-–_\|\,]{1,4}"
 
 separator_hierarchy = [
     re.compile(r">|:+| \- | – |\[|\]|\(|\)|\||\,"),  # > : :: - – _ | ( ) [ ]
