@@ -9,20 +9,24 @@ from unidecode import unidecode
 
 word_separator = r"[\ \-–_\|\,]{1,4}"
 
+
+def list_to_regex(lst):
+    lst = [el.replace(" ", word_separator) for el in lst]
+    return re.compile("|".join(lst))
+
+
 separator_hierarchy = [
     re.compile(r">|:+| \- | – |\[|\]|\(|\)|\||\,"),  # > : :: - – _ | ( ) [ ]
     re.compile(r"_|-|–|/"),
-    # r" ", # <space>
-    # r",", # ,
+    # r" ", # <space> kind of debatable if this should be included or not... i'm gonna go with no.
 ]
 
-useless_segments_re = re.compile("|".join([r"\[null\]",
-                                          r"\Atest",
-                                          r"[^a-z]+test\Z",
-                                          r" test ",
-                                          r"\A[a-z0-9]{0,6}\Z", # very short segment names
-                                          r"automation\d{5,10}"]))
-
+useless_segments_re = list_to_regex([r"\[null\]",               # [null]
+                                     r"\Atest",                 # starts with test
+                                     r"[^a-z]+test\Z",          # ends with test
+                                     r" test ",                 # 'test' not encompassed in a word
+                                     r"\A[a-z0-9]{0,6}\Z",      # very short segment names
+                                     r"automation\d{5,10}"])    # don't know what it is but it's useless
 
 
 def jsondump(df, name):
@@ -51,8 +55,7 @@ def clean_segment_name(name: str):
     if name[0] == name[-1] == '"':
         name = name[1:-1]
 
-    return unidecode(name) # remove diactrics and other non-unicode characters
-
+    return unidecode(name)  # remove diactrics and other non-unicode characters
 
 
 def itemize_segment_name(name: str):
@@ -62,8 +65,8 @@ def itemize_segment_name(name: str):
         if len(items) > 1:
             break
 
-    items = [i.strip() for i in items] # strip all entries
-    items = list(filter(None, items)) # remove empty entries
+    items = [i.strip() for i in items]  # strip all entries
+    items = list(filter(None, items))  # remove empty entries
 
     return items
 

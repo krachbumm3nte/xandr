@@ -1,859 +1,765 @@
 {
-    "disease": {},
-    "illness": {},
-    " pain ": {
-        "Adsquare (Data Provider)": [
-            "adsquare data alliance > fr > brand affinities > food and drink > le pain quotidien ",
-            "fidall > fr > food supply buyers > la mie de pain ",
-            "fidall > fr > food supply buyers > planchot pain du jour ",
-            "fidall > fr > gardening product customers > serres de bon pain ",
-            "adsquare data alliance > fr > brand affinities > food and drink > le pain quotidien ",
-            "adsquare data alliance > fr > brand affinities > food and drink > pomme de pain "
-        ]
-    },
-    "fatigue": {},
-    "surgery": {
-        "Nielsen Marketing Cloud": [
-            "sharethis - ca, fr, de, uk, au, hk - beauty & fitness - cosmetic procedures - cosmetic surgery"
-        ],
-        "Weborama SA (Data Provider)": [
-            "audience 78463, es > cosmetic surgery"
-        ]
-    },
-    "medic(al|ine)": {
-        "Grapeshot": [
-            "tradespotting_ama_lab_medical_speciality_spain ",
-            "weborama_cs_fr_appelmedical ",
-            "mercis_oc_medical_fr ",
-            "mercis_oc_medical_de ",
-            "mercis_oc_medical_lu ",
-            "mercis_oc_medical_es ",
-            "mercis_oc_chplexmedical_es ",
-            "digitize_maverick_irishtaxrebates_medical ",
-            "xaxisde2_ford_medical ",
-            "xaxisde_peugeot_medical ",
-            "xaxisde_ford_medical ",
-            "xaxaustria_peugeot_medical "
-        ],
-        "Audiences by Oracle (BlueKai, Datalogix, AddThis)": [
-            "oracle country-specific audiences > france > b2b > firmographic > industry > healthcare & social work > hospitals & medical offices ",
-            "oracle country-specific audiences > germany > b2b > firmographic > industry > healthcare & social work > hospitals & medical offices ",
-            "oracle country-specific audiences > italy > b2b > firmographic > industry > healthcare & social work > hospitals & medical offices ",
-            "oracle country-specific audiences > spain > b2b > firmographic > industry > healthcare & social work > hospitals & medical offices "
-        ],
-        "Nielsen Marketing Cloud": [
-            "sharethis - ca, fr, de, uk, au, hk - health - alternative & natural medicine - acupuncture & chinese medicine",
-            "sharethis - ca, fr, de, uk, au, hk - health - alternative & natural medicine - cleansing & detoxification",
-            "sharethis - ca, fr, de, uk, au, hk - health - health education & medical training",
-            "sharethis - ca, fr, de, uk, au, hk - health - health foundations & medical research",
-            "sharethis - ca, fr, de, uk, au, hk - health - medical devices & equipment - assistive technology",
-            "sharethis - ca, fr, de, uk, au, hk - health - medical facilities & services - doctors' offices",
-            "sharethis - ca, fr, de, uk, au, hk - health - medical facilities & services - hospitals & treatment centers",
-            "sharethis - ca, fr, de, uk, au, hk - health - medical facilities & services - medical procedures",
-            "sharethis - ca, fr, de, uk, au, hk - health - medical facilities & services - physical therapy",
-            "sharethis - ca, fr, de, uk, au, hk - health - medical literature & resources"
-        ],
-        "LiveRamp Data Store": [
-            "bridge b2b > medical specialty > resp/dev/reh/rstr: pt: electrophysiology, clinical",
-            "bridge b2b > medical specialty > resp/dev/reh/rstr: pt: orthopedic",
-            "bridge b2b > medical specialty > resp/dev/reh/rstr: pt: hand",
-            "bridge b2b > medical specialty > resp/dev/reh/rstr: pt: ergonomics",
-            "bridge b2b > medical specialty > resp/dev/reh/rstr: pt: pediatrics",
-            "bridge b2b > medical specialty > resp/dev/reh/rstr: pt: cardiopulmonary",
-            "bridge b2b > medical specialty > resp/dev/reh/rstr: pt: sports",
-            "bridge b2b > medical specialty > resp/dev/reh/rstr: pt: neurology"
-        ],
-        "Factual Inc": [
-            "390378a_wtx_el_paso_meridian_medical_tls_mopub ",
-            "390378a_wtx_el_paso_meridian_medical_tls_retry ",
-            "390378a_wtx_el_paso_meridian_medical_tls_retry ",
-            "390378a_wtx_el_paso_meridian_medical_tls_aol ",
-            "1228744_mt_bozeman_american_medical_response_hlm ",
-            "1228744_mt_bozeman_american_medical_response_tls",
-            "1985112_mt_bozeman_global_medical_response_-_cheyenne_hlm ",
-            "1985112_mt_bozeman_global_medical_response_-_cheyenne_tls",
-            "1985112_mt_bozeman_global_medical_response_-_cheyenne_8.20.20-7.31.21_hlm-v2 ",
-            "1985112_mt_bozeman_global_medical_response_-_cheyenne_82020-73121_tls-v2",
-            "2088545_mt_bozeman__reach_air_medical_hlm ",
-            "2088545_mt_bozeman__reach_air_medical_tls",
-            "2339731a_mt_bozeman_reach_air_medical_-_calstar_2.1.21-4.30.21_hlm ",
-            "2339731a_mt_bozeman_reach_air_medical_-_calstar_2.1.21-4.30.21_hlm_-_3.18 ",
-            "2339731a_mt_bozeman_reach_air_medical_-_calstar_2121-43021_tls"
-        ],
-        "Adsquare (Data Provider)": [
-            "fidall > fr > pharmacy product buyers > distri club medical ",
-            "fidall > fr > pharmacy product buyers > la vitrine medicale "
-        ],
-        "ZeoTap": [
-            "zeotap > france > interest > fitness and health > medicine"
-        ],
-        "The ADEX GmbH": [
-            "custom segments > adex|germany|gutefrage|interests|healthyliving|alternativemedicine",
-            "custom segments > schober b2b mobile data germany - precision mechanics, optics and medical technology - 1st and 2nd management level - gps data"
-        ],
-        "Weborama SA (Data Provider)": [
-            "audience 78456, es > medical schools"
-        ],
-        "Semasio GmbH (Data Provider)": [
-            "semasio - de: socio - b2b - medical & health services"
-        ],
-        "Illuma Data": [
-            "synexus hungary - illuma smart category - medical health - 2021.05",
-            "synexus poland - illuma smart category - medical health - 2021.05",
-            "synexus czech republic - illuma smart category - medical health - 2021.05"
-        ]
-    },
-    "arthritis": {
-        "The Weather Channel, LLC": [
-            "the weather channel (ibm) > france weather conditions > arthritis symptoms",
-            "the weather channel (ibm) > germany weather conditions > arthritis symptoms",
-            "the weather channel (ibm) > spain weather conditions > arthritis symptoms"
-        ]
-    },
-    "hypertension": {},
-    "fibromyalgia": {},
-    "pancrea(s|tic)": {},
-    "sleep ?apnea": {},
-    "migraine": {
-        "The Weather Channel, LLC": [
-            "the weather channel (ibm) > france weather conditions > migraines symptoms",
-            "the weather channel (ibm) > germany weather conditions > migraines symptoms",
-            "the weather channel (ibm) > spain weather conditions > migraines symptoms"
-        ]
-    },
-    "asthma": {
-        "The Weather Channel, LLC": [
-            "the weather channel (ibm) > france weather conditions > asthma symptoms",
-            "the weather channel (ibm) > germany weather conditions > asthma symptoms",
-            "the weather channel (ibm) > spain weather conditions > asthma symptoms"
-        ]
-    },
-    " dvt ": {},
-    "kidney ?disease": {},
-    "constipat(ion|ed)": {},
-    " copd ": {},
-    "smok(ing|er)": {
-        "Grapeshot": [
-            "xaxisema_emea_pfizer_se_stop_smoking_oct17 ",
-            "xaxisro_gs_predicts_quitsmoking ",
-            "xaxisbel_gs_predicts_quitsmoking ",
-            "xaxises_gs_predicts_quitsmoking ",
-            "xaxisde_gs_predicts_quitsmoking ",
-            "xaxisdk_gs_predicts_quitsmoking ",
-            "adyoulikesa_neg_pmi_it_specific_health_family_covid_smoking ",
-            "adyoulikesa_neg_pmi_de_specific_health_family_covid_smoking "
-        ],
-        "ZeoTap": [
-            "zeotap > spain > interest > smokers",
-            "zeotap > germany > interest > smokers"
-        ],
-        "Peer39": [
-            "peer39: negative>illegal drugs_tobacco_e-cigarettes_vaping_alcohol - formerly drugs, tobacco, smoking, vaping, alcohol - available in english, spanish, french, german, portuguese, italian, dutch, japanese, chinese"
-        ]
-    },
-    "injur(ed|y)": {
-        "Nielsen Marketing Cloud": [
-            "sharethis - ca, fr, de, uk, au, hk - law & government - legal - accident & personal injury law"
-        ],
-        "Grapeshot": [
-            "xaxaustria_neg_gv_death_injury_misc_light ",
-            "xaxaustria_neg_gv_death_injury_misc-german-nongeneric "
-        ],
-        "Peer39": [
-            "peer39: negative>death, injury or military conflict - formerly death, war - available in english, spanish, french, german, portuguese, italian, dutch, japanese, chinese",
-            "peer39: safe from death, injury or military conflict - available in english, spanish, french, german, portuguese, italian, dutch, japanese, chinese"
-        ]
-    },
-    "osteopa": {},
-    "prostate": {},
-    "assault": {
-        "comScore Inc.": [
-            "dassault_uk_campaignspecific_italian ",
-            "dassault_uk_campaignspecific_portuguese ",
-            "dassault_uk_campaignspecific_french ",
-            "dassault_uk_campaignspecific_german "
-        ]
-    },
-    "violence": {
-        "Grapeshot": [
-            "mbbmedia_fr_cinema_labelleetlameute_violencespolicieres ",
-            "mbbmedia_fr_violencespolicieres ",
-            "mbbmedia_fr_genereic_news_violencespolicieres "
-        ]
-    },
-    "obes(e|ity)": {
-        "Grapeshot": [
-            "groupmnordic_nestle_negative_keywords_obesity_dk "
-        ]
-    },
-    "(over)?weight( loss)?": {
-        "Lotame": [
-            "international_eu - france dieting and weight loss ",
-            "international_eu - france weightlifting ",
-            "international_eu - germany dieting and weight loss ",
-            "international_eu - germany weightlifting ",
-            "international_eu - italy dieting and weight loss ",
-            "international_eu - italy weightlifting ",
-            "international_eu - spain dieting and weight loss ",
-            "international_eu - spain weightlifting "
-        ],
-        "Grapeshot": [
-            "web3_lose-weight-pt ",
-            "web3_loseweight-es ",
-            "groupmnordic_nestle_negative_keywords_weight-loss_dk ",
-            "xaxisfi_warner_bros_weight_loss_fin ",
-            "xaxisfi_warner_bros_weight_loss_eng "
-        ],
-        "Audiences by Oracle (BlueKai, Datalogix, AddThis)": [
-            "oracle country-specific audiences > france (fr) > hobbies and interests (affinity) > health and fitness > wellness > dieting and weight loss ",
-            "oracle country-specific audiences > germany (de) > hobbies and interests (affinity) > health and fitness > wellness > dieting and weight loss ",
-            "oracle country-specific audiences > italy (it) > hobbies and interests (affinity) > health and fitness > wellness > dieting and weight loss ",
-            "oracle country-specific audiences > spain (es) > hobbies and interests (affinity) > health and fitness > wellness > dieting and weight loss ",
-            "branded data > nordic data resources > denmark > interests > interested in weightloss (super target) ",
-            "branded data > nordic data resources > denmark > interests > interested in weightloss (power reach) "
-        ],
-        "Nielsen Marketing Cloud": [
-            "sharethis - ca, fr, de, uk, au, hk - beauty & fitness - weight loss",
-            "nielsen france - social - lifestyle - weight loss"
-        ],
-        "Adsquare (Data Provider)": [
-            "fidall > fr > retailers customers > weightwatchers ",
-            "mobilewalla > es > health & fitness > diet and weight loss ",
-            "mobilewalla > it > health &amp; fitness > diet and weight loss "
-        ],
-        "The ADEX GmbH": [
-            "custom segments > adex|germany|gutefrage|interests|healthyliving|weightloss"
-        ],
-        "ZeoTap": [
-            "zeotap > italy > purchase intent > weightloss"
-        ]
-    },
-    "diabet(es|ic)": {
-        "Grapeshot": [
-            "serranetga_diabetes_de ",
-            "roqad_diabetes_german ",
-            "mediaiq_abbott_diabetes_kw_french ",
-            "mediaiq_abbott_hcp_diabetes_fr ",
-            "sqreem_de_int_diabetes "
-        ]
-    },
-    "atrial fibrillation": {},
-    "blood ?(pressure|clot)": {},
-    "heart ?(disease|failure|condition)": {},
-    "stroke": {},
-    "coronary": {},
-    "artery": {},
-    "thrombo": {},
-    "alzheimer": {},
-    "dementia": {},
-    "parkinson": {},
-    "nuplazid": {},
-    " ms ": {
-        "Adsquare (Data Provider)": [
-            "fidall > fr > retailers customers > ms mode "
-        ]
-    },
-    "multiple ?(sclerosis|sklerose)": {},
-    "huntington": {},
-    "cerebral ?palsy": {},
-    "cancer": {
-        "Adsquare (Data Provider)": [
-            "ask.fm > at > demographics > zodiac sign > cancer ",
-            "ask.fm > de > demographics > zodiac sign > cancer ",
-            "ask.fm > dk > demographics > zodiac sign > cancer ",
-            "ask.fm > es > demographics > zodiac sign > cancer ",
-            "ask.fm > fr > demographics > zodiac sign > cancer ",
-            "ask.fm > it > demographics > zodiac sign > cancer ",
-            "ask.fm > se > demographics > zodiac sign > cancer ",
-            "fidall > fr > pharmacy product buyers > la ligue contre le cancer "
-        ],
-        "Dstillery": [
-            "town square ignite client - custom-built > 1474406_me_portland_sharp healthcare scvmv barnhart cancer center spanish_tls_dstillery "
-        ]
-    },
-    "tobacco": {
-        "Peer39": [
-            "peer39: safe from tobacco - available in english, spanish, french, german, portuguese, italian, dutch, japanese, chinese",
-            "peer39: negative>illegal drugs_tobacco_e-cigarettes_vaping_alcohol - formerly drugs, tobacco, smoking, vaping, alcohol - available in english, spanish, french, german, portuguese, italian, dutch, japanese, chinese",
-            "peer39: safe from illegal drugs/tobacco/e-cigarettes/vaping/alcohol -  - available in english, spanish, french, german, portuguese, italian, dutch, japanese, chinese"
-        ],
-        "Adsquare (Data Provider)": [
-            "gfk > fi > purchasing power for retail product lines > tobacco products > 3: high ",
-            "gfk > de > purchasing power for retail product lines > tobacco products > 3: high ",
-            "gfk > se > purchasing power for retail product lines > tobacco products > 3: high ",
-            "gfk > at > purchasing power for retail product lines > tobacco products > 3: high ",
-            "gfk > es > purchasing power for retail product lines > tobacco products > 3: high ",
-            "gfk > dk > purchasing power for retail product lines > tobacco products > 3: high "
-        ],
-        "digitalAudience": [
-            "digitalaudience: sweden > spending intent > tobacco > above average"
-        ]
-    },
-    "respiratory": {},
-    "leukemia": {},
-    "lymphoma": {},
-    "tumor": {},
-    "pregnan(t|cy)": {
-        "Grapeshot": [
-            "gamned_gamned_pregnancy_young_mom_de ",
-            "xaxisro_ro_bayer_elevit_pregnancy ",
-            "xaxisro_en_bayer_elevit_pregnancy ",
-            "groupmnordic_nestle_negative_keywords_baby_infants_pregnancy_dk ",
-            "xaxisdk_baby_pregnant_no ",
-            "xaxisse_pr_pregnancy "
-        ]
-    },
-    "matern(al|ity)": {
-        "Retargetly": [
-            "familyes > maternity (en) maternidad (es) (private-4112) "
-        ],
-        "ZeoTap": [
-            "zeotap > spain > purchase intent > fashion & beauty >\u00a0maternity clothing "
-        ],
-        "Weborama SA (Data Provider)": [
-            "audience 78530, es > maternity"
-        ],
-        "digitalAudience": [
-            "digitalaudience:sweden>shoppingintent>clothing>maternitywear"
-        ]
-    },
-    "abort(ion|ed)": {},
-    "family planning": {},
-    "parent(hood)?": {
-        "Lotame": [
-            "international_eu - austria parenting ",
-            "international_eu - belgium parenting ",
-            "international_eu - denmark parenting ",
-            "international_eu - europe parenting ",
-            "international_eu - finland parenting ",
-            "international_eu - france declared parents ",
-            "international_eu - france parenting ",
-            "international_eu - france parents of infants ",
-            "international_eu - france parents of pre-teens ",
-            "international_eu - france parents of teenagers ",
-            "international_eu - france parents of toddlers ",
-            "international_eu - france parents of young children ",
-            "international_eu - germany declared parents ",
-            "international_eu - germany parenting ",
-            "international_eu - germany parents of infants ",
-            "international_eu - germany parents of pre-teens ",
-            "international_eu - germany parents of teenagers ",
-            "international_eu - germany parents of toddlers ",
-            "international_eu - germany parents of young children ",
-            "international_eu - greece parenting ",
-            "international_eu - italy declared parents ",
-            "international_eu - italy parenting ",
-            "international_eu - italy parents of infants ",
-            "international_eu - italy parents of pre-teens ",
-            "international_eu - italy parents of teenagers ",
-            "international_eu - italy parents of toddlers ",
-            "international_eu - italy parents of young children ",
-            "international_eu - netherlands parenting ",
-            "international_eu - poland parenting ",
-            "international_eu - spain declared parents ",
-            "international_eu - spain parenting ",
-            "international_eu - spain parents of infants ",
-            "international_eu - spain parents of pre-teens ",
-            "international_eu - spain parents of teenagers ",
-            "international_eu - spain parents of toddlers ",
-            "international_eu - spain parents of young children ",
-            "international_eu - sweden parenting ",
-            "blis - network - syndicate:direct - gh-nl_all_xandr_blis_all_location_netherlands-parenting_all_greenhouse",
-            "lotame > custom > be > parents",
-            "lotame > custom > pt > parents"
-        ],
-        "Grapeshot": [
-            "xaxispo_nn_xvs_parenting_xaxis-pl ",
-            "revomsg_planned_parenthood_bullock_mt ",
-            "xaxispo_ikea_parenting1_xaxis-pl ",
-            "xaxispo_ikea_parenting2_xaxis-pl ",
-            "mbbmedia_fr_surfacedereparation_filmsetdocsapparentes ",
-            "mbbmedia_fr_amiami_apparentes ",
-            "mbbmedia_fr_culture_cinema_englandismine_apparentes ",
-            "mbbmedia_fr_cinema_agatha_parents ",
-            "xaxisro_gs_predicts_parentsteachers ",
-            "xaxisro_gs_predicts_parentsofyoungkids ",
-            "xaxisro_gs_predicts_new_parents ",
-            "xaxisbel_gs_predicts_parentsteachers ",
-            "xaxisbel_gs_predicts_parentsofyoungkids ",
-            "xaxisbel_gs_predicts_new_parents ",
-            "xaxises_gs_predicts_parentsteachers ",
-            "xaxises_gs_predicts_parentsofyoungkids ",
-            "xaxises_gs_predicts_new_parents ",
-            "xaxisde_gs_predicts_parentsteachers ",
-            "xaxisde_gs_predicts_parentsofyoungkids ",
-            "xaxisde_gs_predicts_new_parents ",
-            "xaxisdk_gs_predicts_parentsteachers ",
-            "xaxisdk_gs_predicts_parentsofyoungkids ",
-            "xaxisdk_gs_predicts_new_parents ",
-            "mbbmedia_fr_parents_activitefamille ",
-            "litereacit_generali_parenting_it ",
-            "mbbmedia_fr_movies_parentscinephile ",
-            "mbbmedia_fr_lmde_parents_sante ",
-            "plistapoland_pepeco_kobieta_parenting_bts_socialad_plista ",
-            "mbbmedia_fr_ffvb_parents ",
-            "xaxishu_pr_ferrero_kinder_parents ",
-            "xaxishu_pr_ferrero_kinder_grandparents ",
-            "xaxisde_savencia_stay_at_home_parents "
-        ],
-        "Audiences by Oracle (BlueKai, Datalogix, AddThis)": [
-            "branded data > semasio > germany > interest > family & parenting ",
-            "branded data > semasio > denmark > interest > family & parenting ",
-            "branded data > semasio > sweden > interest > family & parenting ",
-            "branded data > nordic data resources > denmark > super target > family & parenting ",
-            "branded data > nordic data resources > denmark > super target > family & parenting > kids toys ",
-            "branded data > nordic data resources > denmark > super target > family & parenting > family & parenting ",
-            "branded data > nordic data resources > denmark > super target > family & parenting > children's wear ",
-            "branded data > nordic data resources > finland > super target > interests > family & parenting ",
-            "branded data > nordic data resources > sweden > super target > media > newspapers > children & parenting ",
-            "oracle country-specific audiences > france (fr) > lifestyles > parents and family > moms (mums) ",
-            "oracle country-specific audiences > germany (de) > lifestyles > parents and family > moms (mums) ",
-            "oracle country-specific audiences > italy (it) > lifestyles > parents and family > moms (mums) ",
-            "oracle country-specific audiences > spain (es) > lifestyles > parents and family > moms (mums) ",
-            "oracle country-specific audiences > france (fr) > hobbies and interests (affinity) > parenting and family ",
-            "oracle country-specific audiences > germany (de) > hobbies and interests (affinity) > parenting and family ",
-            "oracle country-specific audiences > italy (it) > hobbies and interests (affinity) > parenting and family ",
-            "oracle country-specific audiences > spain (es) > hobbies and interests (affinity) > parenting and family ",
-            "oracle country-specific audiences > france (fr) > life stages and events > family and children (kids) > new parents ",
-            "oracle country-specific audiences > germany (de) > life stages and events > family and children (kids) > new parents ",
-            "oracle country-specific audiences > italy (it) > life stages and events > family and children (kids) > new parents ",
-            "oracle country-specific audiences > spain (es) > life stages and events > family and children (kids) > new parents ",
-            "oracle country-specific audiences > france (fr) > lifestyles > parents and family > moms (mums) > trendy moms ",
-            "oracle country-specific audiences > germany (de) > lifestyles > parents and family > moms (mums) > trendy moms ",
-            "oracle country-specific audiences > italy (it) > lifestyles > parents and family > moms (mums) > trendy moms ",
-            "oracle country-specific audiences > spain (es) > lifestyles > parents and family > moms (mums) > trendy moms ",
-            "oracle country-specific audiences > france (fr) > hobbies and interests (affinity) > parenting and family > women's interests (affinity) ",
-            "oracle country-specific audiences > france (fr) > hobbies and interests (affinity) > parenting and family > men's interests (affinity) ",
-            "oracle country-specific audiences > france (fr) > hobbies and interests (affinity) > parenting and family > parenting babies and toddlers ",
-            "oracle country-specific audiences > france (fr) > hobbies and interests (affinity) > parenting and family > parenting kids ",
-            "oracle country-specific audiences > germany (de) > hobbies and interests (affinity) > parenting and family > men's interests (affinity) ",
-            "oracle country-specific audiences > germany (de) > hobbies and interests (affinity) > parenting and family > parenting babies and toddlers ",
-            "oracle country-specific audiences > germany (de) > hobbies and interests (affinity) > parenting and family > parenting kids ",
-            "oracle country-specific audiences > germany (de) > hobbies and interests (affinity) > parenting and family > women's interests (affinity) ",
-            "oracle country-specific audiences > italy (it) > hobbies and interests (affinity) > parenting and family > women's interests (affinity) ",
-            "oracle country-specific audiences > italy (it) > hobbies and interests (affinity) > parenting and family > men's interests (affinity) ",
-            "oracle country-specific audiences > italy (it) > hobbies and interests (affinity) > parenting and family > parenting babies and toddlers ",
-            "oracle country-specific audiences > italy (it) > hobbies and interests (affinity) > parenting and family > parenting kids ",
-            "oracle country-specific audiences > spain (es) > hobbies and interests (affinity) > parenting and family > men's interests (affinity) ",
-            "oracle country-specific audiences > spain (es) > hobbies and interests (affinity) > parenting and family > parenting babies and toddlers ",
-            "oracle country-specific audiences > spain (es) > hobbies and interests (affinity) > parenting and family > parenting kids ",
-            "oracle country-specific audiences > spain (es) > hobbies and interests (affinity) > parenting and family > women's interests (affinity) ",
-            "branded data > nordic data resources > denmark > family & parenting > children > households with more than 2 children (super target) ",
-            "branded data > nordic data resources > denmark > family & parenting > age groups > 46 - 60 years (super target) ",
-            "branded data > nordic data resources > denmark > family & parenting > gender > males ",
-            "branded data > nordic data resources > denmark > family & parenting > age groups > 18 - 25 years (super target) ",
-            "branded data > nordic data resources > denmark > family & parenting > age groups ",
-            "branded data > nordic data resources > denmark > family & parenting > children > households with 1 or 2 children (super target) ",
-            "branded data > nordic data resources > denmark > family & parenting > age groups > 80+ years (super target) ",
-            "branded data > nordic data resources > denmark > family & parenting > children ",
-            "branded data > nordic data resources > denmark > family & parenting > children > households with children (super target) ",
-            "branded data > nordic data resources > denmark > family & parenting > age groups > 26 - 45 years (super target) ",
-            "branded data > nordic data resources > denmark > family & parenting ",
-            "branded data > nordic data resources > denmark > family & parenting > gender > females ",
-            "branded data > nordic data resources > germany > consumer classification > online mosaic > (h) homemaking parents ",
-            "branded data > nordic data resources > denmark > family & parenting > gender ",
-            "branded data > nordic data resources > denmark > family & parenting > children > households without children (super target) ",
-            "branded data > nordic data resources > denmark > family & parenting > age groups > 61 - 79 years (super target) ",
-            "branded data > nordic data resources > sweden > media > newspapers & magazines > children & parenting (super target) ",
-            "oracle country-specific audiences > france (fr) > lifestyles > parents and family ",
-            "oracle country-specific audiences > italy (it) > lifestyles > parents and family ",
-            "oracle country-specific audiences > germany (de) > lifestyles > parents and family ",
-            "oracle country-specific audiences > spain (es) > lifestyles > parents and family ",
-            "branded data > nordic data resources > sweden > media > newspapers & magazines > children & parenting (power reach) ",
-            "branded data > nordic data resources > denmark > family & parenting > age groups > 61 - 79 years (power reach) ",
-            "branded data > nordic data resources > denmark > family & parenting > children > households without children (power reach) ",
-            "branded data > nordic data resources > denmark > family & parenting > age groups > 46 - 60 years (power reach) ",
-            "branded data > nordic data resources > denmark > family & parenting > children > households with children (power reach) ",
-            "branded data > nordic data resources > denmark > family & parenting > children > households with more than 2 children (power reach) ",
-            "branded data > nordic data resources > denmark > family & parenting > children > households with 1 or 2 children (power reach) ",
-            "branded data > nordic data resources > denmark > family & parenting > age groups > 26 - 45 years (power reach) ",
-            "branded data > nordic data resources > denmark > family & parenting > age groups > 80+ years (power reach) ",
-            "branded data > nordic data resources > denmark > family & parenting > age groups > 18 - 25 years (power reach) "
-        ],
-        "Nielsen Marketing Cloud": [
-            "semasio - de - interest - family and parenting ",
-            "sharethis - ca, fr, de, uk, au, hk - life event - new parent"
-        ],
-        "LiveRamp Data Store": [
-            "take 5 media > parent ethnicity > western european",
-            "take 5 media > parent ethnicity > eastern european"
-        ],
-        "KBM Group": [
-            "kbm group - germany - az direct | az sociodemographics | family type | single parents with adult children",
-            "kbm group - germany - az direct | az sociodemographics | family type | single parents with teenager",
-            "kbm group - germany - az direct | az sociodemographics | family type | young single parents"
-        ],
-        "ZeoTap": [
-            "zeotap > spain > interest > family & parenting > mothers",
-            "zeotap > italy > interest > family & parenting",
-            "zeotap > spain > interest > family & parenting",
-            "zeotap > spain > interest > family & parenting",
-            "zeotap > spain > interest > family & parenting",
-            "zeotap > spain > interest > family & parenting",
-            "zeotap > spain > interest > family & parenting",
-            "zeotap > spain > interest > family & parenting",
-            "zeotap > spain > interest > family & parenting",
-            "zeotap > spain > interest > family & parenting",
-            "zeotap > spain > interest > family & parenting",
-            "zeotap > spain > purchase intent > family & parenting >\u00a0baby & toddler equipment (3)",
-            "zeotap > italy > demographics > mothers & families > new parents",
-            "zeotap > france > purchase intent > new parents",
-            "zeotap > france > interest > family & parenting",
-            "zeotap > spain > purchase intent > family & parenting > toys (1)",
-            "zeotap > spain > purchase intent > family & parenting >\u00a0baby & toddler equipment (2)",
-            "zeotap > france > demographics > self declared > parent type: parents",
-            "zeotap > france > demographics > new parents",
-            "zeotap > france > internal demo parent segment",
-            "zeotap > spain > purchase intent > family & parenting > toys (publisher) (1)",
-            "zeotap > spain > interest > family & parenting ",
-            "zeotap > spain > interest > family & parenting > mothers ",
-            "zeotap > spain > interest > family & parenting > toys & dolls ",
-            "zeotap > spain > purchase intent > family & parenting >\u00a0baby & toddler equipment (publisher) (4)",
-            "zeotap > france > interest > family & parenting ",
-            "zeotap > spain > interest > family & parenting > kids apps 8-14",
-            "converged > france > hmpar_ad exchange - edf - parents with young children",
-            "zeotap > spain > interest > family & parenting > kids apps 4-12",
-            "zeotap > spain > custom > xaxis > purchase intent > family & parenting",
-            "zeotap > spain > interest > family & parenting > mothers_1",
-            "zeotap > spain > interest > family & parenting > kids apps 2-6",
-            "zeotap > spain > interest > family & parenting > kids apps 8-10",
-            "zeotap > spain > interest > family & parenting > toys & dolls",
-            "zeotap > spain > apps & interest > parents with kids",
-            "zeotap > spain > interest > family & parenting > kids apps 2-6 (2)",
-            "zeotap > spain > purchase intent > family & parenting >\u00a0baby & toddler equipment (2)_1",
-            "zeotap > spain > parenting babies_1",
-            "zeotap > spain > parenting_babies_interest",
-            "zeotap > germany > interest > family > parents",
-            "zeotap > spain > custom > targetopia > ikea: familias monoparentales"
-        ],
-        "Adsquare (Data Provider)": [
-            "az direct > de > demographic > family type > single parents with adult children ",
-            "az direct > de > demographic > family type > young single parents  ",
-            "az direct > de > demographic > family type > single parents with teenager ",
-            "az direct > de > demographic > lifestage > single parents ",
-            "conexance > fr > family > parents of children with age between 11 and  ",
-            "conexance > fr > family > parents of children with age between 7 and 1 ",
-            "conexance > fr > family > parents of children with age between 0 and 3 ",
-            "conexance > fr > family > parents of children with age between 4 and 6 ",
-            "conexance > fr > family > parents of children with age between 16 and  ",
-            "conexance > fr > households > typology > typology conexance f > f2 young single parents households without f ",
-            "irobot - parents  - belgium ",
-            "irobot - parents -  portugal ",
-            "adsquare data alliance > de > christmas 2020 audiences > christmas targeting- grand parents ",
-            "adsquare data alliance > es > demographics > marital status > parents ",
-            "adsquare data alliance > de > covid-19 audiences (corona pandemic) > covid-19 habitation &amp; household > parents with babies at home ",
-            "adsquare data alliance > de > covid-19 audiences (corona pandemic) > covid-19 habitation &amp; household > parents with kindergarden kids at home ",
-            "adsquare data alliance > de > covid-19 audiences (corona pandemic) > covid-19 habitation &amp; household > parents with schoolchildren at home ",
-            "adsquare data alliance > nl > demographics > family &amp; marital status > parents > fathers ",
-            "adsquare data alliance > be > demographics > family &amp; marital status > parents > fathers "
-        ],
-        "Oracle Customs (1st, BlueKai, Datalogix, AddThis)": [
-            "sk-parents_prgmt-sk-toys"
-        ],
-        "The ADEX GmbH": [
-            "custom segments > adex|germany|gutefrage|interests|familyandrelationships|parenting"
-        ],
-        "Audiens S.R.L.": [
-            "data owners > ketchup adv > it > intent family & parenting > intent adoption",
-            "data owners > ketchup adv > it > intent family & parenting > intent babies & toddlers"
-        ],
-        "Tru Optik (CTV)": [
-            "truoptik>captify>1stpartydata>lifeprofiles-jeunesparents-france",
-            "truoptik>captify>1stpartydata>lifeprofiles-parentadomicile-france",
-            "truoptik>captify>1stpartydata>lifeprofiles-grands-parents-france",
-            "truoptik>captify>1stpartydata>lifeprofiles-parentsd'ados-france",
-            "truoptik>captify>1stpartydata>lifeprofiles-parents-france",
-            "truoptik>captify>1stpartydata>lifeprofiles-parentsd'enfants-france"
-        ],
-        "Factual Inc": [
-            "1311210_me_augusta_choose_to_be_healthy_coalition_parents_hlm ",
-            "1311210_me_augusta_choose_to_be_healthy_coalition_parents_tls",
-            "1958987_me_augusta_choose_to_be_healthy_coalition-york_hospital_8.3.2020-9.30.2020_parents_hlm ",
-            "1958987_me_augusta_choose_to_be_healthy_coalition-york_hospital_832020-9302020_parents_tls"
-        ],
-        "Semasio GmbH (Data Provider)": [
-            "semasio - de: classic extended audience - life stage - family & parenting",
-            "semasio - ch (de): classic extended audience - life stage - family & parenting",
-            "semasio - ch (fr): classic extended audience - lifestyle - family & parenting",
-            "semasio - de: performance advertising - life stage - family & parenting"
-        ]
-    },
-    "miscarriage": {},
-    "menopause": {
-        "Grapeshot": [
-            "mbbmedia_fr_culture_kwet_menopause_femmes45yo_custom "
-        ]
-    },
-    "(in)?fertil(e|ity)": {},
-    "ovulat(e|ion)": {
-        "ZeoTap": [
-            "zeotap > spain > interest > health & fitness > menstrual period & ovulation (2)",
-            "zeotap > spain > interest > health & fitness > menstrual period & ovulation (1)",
-            "zeotap > spain > interest > health & fitness > menstrual period & ovulation "
-        ]
-    },
-    "viagra": {},
-    "cialis": {
-        "KBM Group": [
-            "kbm group - germany - az direct - target groups | books & magazines | target groups with focus on books & magazines | specialist literature"
-        ],
-        "Adsquare (Data Provider)": [
-            "az direct > de > az target groups > books & magazines > specialist literature "
-        ],
-        "Audiences by Oracle (BlueKai, Datalogix, AddThis)": [
-            "branded data > specialists marketing services > demographic > occupation > blue collar worker > polisher ",
-            "branded data > specialists marketing services > brand intent > food & beverage dairy products > oikos greek yogurt "
-        ],
-        "ZeoTap": [
-            "zeotap > italy > interest > specialist food"
-        ],
-        "Signals s.r.l.": [
-            "signals > it > salute e benessere > actual > medico specialista"
-        ],
-        "digitalAudience": [
-            "gh-nl_gps_xandr_da_specific_demographic_branch-specialistisch-zakelijke-dienstverlening_plain",
-            "gh-nl_gps_xandr_da_specific_demographic_branch-specialistisch-zakelijke-dienstverlening_rich",
-            "gh-nl_gps_xandr_da_specific_demographic_branch-specialistisch-zakelijke-dienstverlening_video"
-        ]
-    },
-    "erectile ?dysfunction": {},
-    "contracepti(ve|ion)": {},
-    "urinary ?tract ?infection": {},
-    " uti ": {},
-    "menstrua(l|ting|te)": {
-        "ZeoTap": [
-            "zeotap > spain > interest > health & fitness > menstrual period & ovulation (2)",
-            "zeotap > spain > interest > health & fitness > menstrual period & ovulation (1)",
-            "zeotap > spain > interest > health & fitness > menstrual period & ovulation "
-        ]
-    },
-    "hearing ?(aid|loss)": {},
-    " deaf(ness)? ": {},
-    "paraplegi[aec]": {},
-    "disab(led|ility)": {
-        "Grapeshot": [
-            "mediaiq_gs_french_disability "
-        ],
-        "Adsquare (Data Provider)": [
-            "gfk > de > financial market services > occupational disability insurance > 3: high "
-        ]
-    },
-    "blind": {},
-    "impair(ment|ed)": {},
-    "autis(m|tic)": {
-        "Grapeshot": [
-            "mbbmedia_fr_sport_nautisme_constructeurs ",
-            "mbbmedia_fr_sport_nautisme_races ",
-            "mbbmedia_fr_sport_nautisme_navigators ",
-            "mbbmedia_fr_sport_nautisme_meteo_marine ",
-            "mbbmedia_fr_sport_nautisme_events ",
-            "mbbmedia_fr_sport_nautisme_generic "
-        ]
-    },
-    " adh(d|s) ": {},
-    "anxiety": {},
-    "psych(olog|iatr)": {
-        "Nielsen Marketing Cloud": [
-            "sharethis - ca, fr, de, uk, au, hk - people & society - social sciences - psychology"
-        ],
-        "Grapeshot": [
-            "mbbmedia_fr_psychology ",
-            "mbbmedia_fr_culture_rbc_psychologie_custom "
-        ],
-        "KBM Group": [
-            "kbm group - germany - az direct | psychological values | psychological values | adventurous - high affinity",
-            "kbm group - germany - az direct | psychological values | psychological values | adventurous - low affinity",
-            "kbm group - germany - az direct | psychological values | psychological values | combative - high affinity",
-            "kbm group - germany - az direct | psychological values | psychological values | combative - low affinity",
-            "kbm group - germany - az direct | psychological values | psychological values | critical - high affinity",
-            "kbm group - germany - az direct | psychological values | psychological values | critical - low affinity",
-            "kbm group - germany - az direct | psychological values | psychological values | cultural - high affinity",
-            "kbm group - germany - az direct | psychological values | psychological values | cultural - low affinity",
-            "kbm group - germany - az direct | psychological values | psychological values | desiring - high affinity",
-            "kbm group - germany - az direct | psychological values | psychological values | desiring - low affinity",
-            "kbm group - germany - az direct | psychological values | psychological values | dominant - high affinity",
-            "kbm group - germany - az direct | psychological values | psychological values | dominant - low affinity",
-            "kbm group - germany - az direct | psychological values | psychological values | dreamy - high affinity",
-            "kbm group - germany - az direct | psychological values | psychological values | dreamy - low affinity",
-            "kbm group - germany - az direct | psychological values | psychological values | dutiful - high affinity",
-            "kbm group - germany - az direct | psychological values | psychological values | dutiful - low affinity",
-            "kbm group - germany - az direct | psychological values | psychological values | familiar - high affinity",
-            "kbm group - germany - az direct | psychological values | psychological values | familiar - low affinity",
-            "kbm group - germany - az direct | psychological values | psychological values | materialistic - high affinity",
-            "kbm group - germany - az direct | psychological values | psychological values | materialistic - low affinity",
-            "kbm group - germany - az direct | psychological values | psychological values | rational - high affinity",
-            "kbm group - germany - az direct | psychological values | psychological values | rational - low affinity",
-            "kbm group - germany - az direct | psychological values | psychological values | religious - high affinity",
-            "kbm group - germany - az direct | psychological values | psychological values | religious - low affinity",
-            "kbm group - germany - az direct | psychological values | psychological values | social - high affinity",
-            "kbm group - germany - az direct | psychological values | psychological values | social - low affinity",
-            "kbm group - germany - az direct | psychological values | psychological values | traditional - high affinity",
-            "kbm group - germany - az direct | psychological values | psychological values | traditional - low affinity"
-        ]
-    },
-    "depress(ed|ion)": {},
-    "(?!environ)mental": {
-        "Lotame": [
-            "international_eu - france environmentalism ",
-            "international_eu - germany environmentalism ",
-            "international_eu - italy environmentalism ",
-            "international_eu - spain environmentalism ",
-            "lotame > custom > it > environmentalism"
-        ],
-        "Grapeshot": [
-            "xaxises_pillar2_category_environmental ",
-            "xaxisdk_environmental ",
-            "mbbmedia_fr_music_rock_psychedelic-experimental "
-        ],
-        "Audiences by Oracle (BlueKai, Datalogix, AddThis)": [
-            "branded data > nordic data resources > sweden > super target > interests > environmental care ",
-            "branded data > nordic data resources > sweden > interests > environmental care (super target) ",
-            "branded data > nordic data resources > denmark > shopping > environmental products (super target) ",
-            "branded data > nordic data resources > denmark > shopping > environmental products (power reach) ",
-            "branded data > nordic data resources > sweden > interests > environmental care (power reach) "
-        ],
-        "Factual Inc": [
-            "191618_mt_missoula_nuverra_environmental_solutions_tls_aol ",
-            "191618_mt_missoula_nuverra_environmental_solutions_tls_aerserve ",
-            "191618_mt_missoula_nuverra_environmental_solutions_tls_mopub ",
-            "191618_mt_missoula_nuverra_environmental_solutions_tls_smaato ",
-            "191618_mt_missoula_nuverra_enviormental_mopub ",
-            "191618_mt_missoula_nuverra_environmental_solutions_hlm_september "
-        ],
-        "Nielsen Marketing Cloud": [
-            "sharethis - ca, fr, de, uk, au, hk - arts & entertainment - music & audio - experimental & industrial music",
-            "sharethis - ca, fr, de, uk, au, hk - people & society - social issues & advocacy - green living & environmental issues"
-        ],
-        "KBM Group": [
-            "kbm group - germany - schober | lifestyle | environmental awareness / organic products"
-        ],
-        "Adsquare (Data Provider)": [
-            "schober > de > b2c > fundraising > environmentally conscious "
-        ],
-        "Weborama SA (Data Provider)": [
-            "audience 78473, es > vegetarian & environmentally friendly",
-            "audience 78507, es > social & environmental sustainability"
-        ],
-        "digitalAudience": [
-            "gh-nl_tmp_xandr_da_specific_demographic_mentality-nieuwe-conservatieven_plain",
-            "gh-nl_gps_xandr_da_specific_demographic_mentality-nieuwe-conservatieven_rich",
-            "gh-nl_tmp_xandr_da_specific_demographic_mentality-kosmopolieten_plain",
-            "gh-nl_gps_xandr_da_specific_demographic_mentality-kosmopolieten_rich",
-            "gh-nl_gps_xandr_da_specific_mentality-kosmopolieten_video",
-            "gh-nl_gps_xandr_da_specific_mentality-nieuwe-conservatieven_video",
-            "gh-nl_tmp_xandr_da_specific_demographic_mentality-traditionele-burgerij_plain",
-            "gh-nl_gps_xandr_da_specific_demographic_mentality-traditionele-burgerij_rich",
-            "gh-nl_gps_xandr_da_specific_mentality-traditionele-burgerij_video",
-            "gh-nl_tmp_xandr_da_specific_demographic_mentality-moderne-burgerij_plain",
-            "gh-nl_gps_xandr_da_specific_demographic_mentality-moderne-burgerij_rich",
-            "gh-nl_gps_xandr_da_specific_mentality-moderne-burgerij_video",
-            "gh-nl_tmp_xandr_da_specific_demographic_mentality-gemaks-georienteerden_plain",
-            "gh-nl_gps_xandr_da_specific_demographic_mentality-gemaks-georienteerden_rich",
-            "gh-nl_gps_xandr_da_specific_mentality-gemaks-georienteerden_video",
-            "gh-nl_tmp_xandr_da_specific_demographic_mentality-opwaarts-mobielen_plain",
-            "gh-nl_gps_xandr_da_specific_demographic_mentality-opwaarts-mobielen_rich",
-            "gh-nl_gps_xandr_da_specific_mentality-opwaarts-mobielen_video",
-            "gh-nl_tmp_xandr_da_specific_demographic_mentality-post-materialisten_plain",
-            "gh-nl_gps_xandr_da_specific_demographic_mentality-post-materialisten_rich",
-            "gh-nl_gps_xandr_da_specific_mentality-post-materialisten_video"
-        ],
-        "The ADEX GmbH": [
-            "custom segments > schober mobile data germany - environmentally conscious customers - gps data",
-            "custom segments > schober b2b mobile data germany - ecology, environmental technology and recycling  - 1st and 2nd management level - gps data"
-        ]
-    },
-    "addict": {
-        "ZeoTap": [
-            "zeotap > italy > interest > social addicted "
-        ],
-        "Grapeshot": [
-            "mediaiq_neg_tomboladenmarkgamblingaddiction ",
-            "mediaiq_neg_tombolaswedengamblingaddiction "
-        ],
-        "Peer39": [
-            "peer39: custom category>brand safety france - kids_finance_addiction_jobs",
-            "peer39: custom category>brand safety italy - kids_finance_addiction_jobs",
-            "peer39: custom category>brand safety spain - kids_finance_addiction_jobs"
-        ],
-        "Adsquare (Data Provider)": [
-            "adsquare data alliance > fr > interests > movies > cinema addicts ",
-            "adsquare data alliance > de > interests > movies > cinema addicts ",
-            "adsquare data alliance > es > interests > movies > cinema addicts ",
-            "adsquare data alliance > it > interests > movies > cinema addicts "
-        ]
-    },
-    "alcohol": {
-        "AdAdvisor by Neustar": [
-            "neustar adadvisor > alcohol (restricted to best practices) > wine > imported dinner wine-any french red",
-            "neustar adadvisor > alcohol (restricted to best practices) > wine > imported dinner wine-any italian red",
-            "neustar adadvisor > alcohol (restricted to best practices) > wine > imported dinner wine-any spanish red",
-            "neustar adadvisor > alcohol (restricted to best practices) > beer & ale > purchase beers & ales: new belgium brewery"
-        ],
-        "Lotame": [
-            "international_eu - france alcoholic beverages ",
-            "international_eu - germany alcoholic beverages ",
-            "international_eu - italy alcoholic beverages ",
-            "international_eu - spain alcoholic beverages ",
-            "lotame > custom - de - euro - alcohol beverage"
-        ],
-        "Peer39": [
-            "peer39: safe from alcohol -available in english, spanish, french, german, portuguese, italian, dutch, japanese, chinese",
-            "peer39: negative>illegal drugs_tobacco_e-cigarettes_vaping_alcohol - formerly drugs, tobacco, smoking, vaping, alcohol - available in english, spanish, french, german, portuguese, italian, dutch, japanese, chinese",
-            "peer39: safe from illegal drugs/tobacco/e-cigarettes/vaping/alcohol -  - available in english, spanish, french, german, portuguese, italian, dutch, japanese, chinese"
-        ],
-        "Adsquare (Data Provider)": [
-            "conexance > fr > purchase behaviour > alcohol products ",
-            "gfk > fi > purchasing power for retail product lines > alcohol-free beverages > 3: high ",
-            "gfk > fi > purchasing power for retail product lines > alcoholic beverages > 3: high ",
-            "gfk > de > purchasing power for retail product lines > other alcohol-free beverages > 3: high ",
-            "gfk > de > purchasing power for retail product lines > other alcoholic beverages > 3: high ",
-            "gfk > se > purchasing power for retail product lines > alcohol-free beverages > 3: high ",
-            "gfk > se > purchasing power for retail product lines > alcoholic beverages > 3: high ",
-            "gfk > at > purchasing power for retail product lines > alcohol-free beverages > 3: high ",
-            "gfk > at > purchasing power for retail product lines > alcoholic beverages > 3: high ",
-            "gfk > es > purchasing power for retail product lines > alcoholic beverages > 3: high ",
-            "gfk > es > purchasing power for retail product lines > alcohol-free beverages > 3: high ",
-            "gfk > dk > purchasing power for retail product lines > alcohol-free beverages > 3: high ",
-            "gfk > dk > purchasing power for retail product lines > alcoholic beverages > 3: high "
-        ],
-        "Eyeota": [
-            "eyeota - us acxiom - cpg - alcoholic drinks - beer brand - killians irish for age 21+ - likely",
-            "eyeota - us acxiom - cpg - alcoholic drinks - vodka brand - finlandia for age 21+ - likely"
-        ],
-        "Semcasting (Data Provider)": [
-            "texans_for_alcohol_reform_district_addresses_at_home_device_cookie",
-            "texans_for_alcohol_reform_tx_state_capitol_at_home_device_cookie",
-            "texans_for_alcohol_reform_business_addresses_at_home_device_cookie"
-        ],
-        "digitalAudience": [
-            "digitalaudience: sweden > spending intent > alcoholic beverages > above average"
-        ]
-    },
-    "drugs": {
-        "Peer39": [
-            "peer39: safe from drugs - available in english, spanish, french, german, portuguese, italian, dutch, japanese, chinese",
-            "peer39: negative>illegal drugs_tobacco_e-cigarettes_vaping_alcohol - formerly drugs, tobacco, smoking, vaping, alcohol - available in english, spanish, french, german, portuguese, italian, dutch, japanese, chinese",
-            "peer39: safe from illegal drugs/tobacco/e-cigarettes/vaping/alcohol -  - available in english, spanish, french, german, portuguese, italian, dutch, japanese, chinese"
-        ],
-        "Adsquare (Data Provider)": [
-            "az direct > de > retail > transactional activity > drugstore products > transactions in the last year ",
-            "az direct > de > retail > transactional activity > drugstore products > transactions older than 2 years ",
-            "az direct > de > retail > transactional activity > drugstore products > transactions in the last two years ",
-            "az direct > de > retail > transactional activity > drugstore products > without transactions "
-        ]
-    },
-    "cannabis": {},
-    "painkiller": {},
-    "opi(oid|um)": {
-        "Grapeshot": [
-            "hubbard_pr_mercycare_opioid_spanish "
-        ]
-    },
-    "abuse": {},
-    "bipolar": {},
-    "disorder": {},
-    "schizoph": {},
-    "panic": {},
-    "insomnia": {},
-    "sleep disorder": {}
+    "disease": [],
+    "illness": [],
+    " pain ": [
+        "adsquare data alliance > fr > brand affinities > food and drink > le pain quotidien ",
+        "fidall > fr > food supply buyers > la mie de pain ",
+        "fidall > fr > food supply buyers > planchot pain du jour ",
+        "fidall > fr > gardening product customers > serres de bon pain ",
+        "adsquare data alliance > fr > brand affinities > food and drink > le pain quotidien ",
+        "adsquare data alliance > fr > brand affinities > food and drink > pomme de pain "
+    ],
+    "fatigue": [],
+    "surgery": [
+        "sharethis - ca, fr, de, uk, au, hk - beauty & fitness - cosmetic procedures - cosmetic surgery",
+        "audience 78463, es > cosmetic surgery"
+    ],
+    "medic(al|ine)": [
+        "tradespotting_ama_lab_medical_speciality_spain ",
+        "weborama_cs_fr_appelmedical ",
+        "oracle country-specific audiences > france > b2b > firmographic > industry > healthcare & social work > hospitals & medical offices ",
+        "oracle country-specific audiences > germany > b2b > firmographic > industry > healthcare & social work > hospitals & medical offices ",
+        "oracle country-specific audiences > italy > b2b > firmographic > industry > healthcare & social work > hospitals & medical offices ",
+        "oracle country-specific audiences > spain > b2b > firmographic > industry > healthcare & social work > hospitals & medical offices ",
+        "sharethis - ca, fr, de, uk, au, hk - health - alternative & natural medicine - acupuncture & chinese medicine",
+        "sharethis - ca, fr, de, uk, au, hk - health - alternative & natural medicine - cleansing & detoxification",
+        "sharethis - ca, fr, de, uk, au, hk - health - health education & medical training",
+        "sharethis - ca, fr, de, uk, au, hk - health - health foundations & medical research",
+        "sharethis - ca, fr, de, uk, au, hk - health - medical devices & equipment - assistive technology",
+        "sharethis - ca, fr, de, uk, au, hk - health - medical facilities & services - doctors' offices",
+        "sharethis - ca, fr, de, uk, au, hk - health - medical facilities & services - hospitals & treatment centers",
+        "sharethis - ca, fr, de, uk, au, hk - health - medical facilities & services - medical procedures",
+        "sharethis - ca, fr, de, uk, au, hk - health - medical facilities & services - physical therapy",
+        "experian sp - insurance - private medical - part expenses paid by the insurance ",
+        "experian sp - insurance - medical insurance ",
+        "experian sp - insurance - private medical - all expenses paid by the insurance ",
+        "bridge b2b > medical specialty > resp/dev/reh/rstr: pt: electrophysiology, clinical",
+        "bridge b2b > medical specialty > resp/dev/reh/rstr: pt: orthopedic",
+        "bridge b2b > medical specialty > resp/dev/reh/rstr: pt: hand",
+        "bridge b2b > medical specialty > resp/dev/reh/rstr: pt: ergonomics",
+        "bridge b2b > medical specialty > resp/dev/reh/rstr: pt: pediatrics",
+        "bridge b2b > medical specialty > resp/dev/reh/rstr: pt: cardiopulmonary",
+        "mercis_oc_medical_fr ",
+        "mercis_oc_medical_de ",
+        "mercis_oc_medical_lu ",
+        "mercis_oc_medical_es ",
+        "mercis_oc_chplexmedical_es ",
+        "390378a_wtx_el_paso_meridian_medical_tls_mopub ",
+        "390378a_wtx_el_paso_meridian_medical_tls_retry ",
+        "390378a_wtx_el_paso_meridian_medical_tls_retry ",
+        "390378a_wtx_el_paso_meridian_medical_tls_aol ",
+        "sharethis - ca, fr, de, uk, au, hk - health - medical literature & resources",
+        "fidall > fr > pharmacy product buyers > distri club medical ",
+        "fidall > fr > pharmacy product buyers > la vitrine medicale ",
+        "zeotap > france > interest > fitness and health > medicine",
+        "custom segments > adex|germany|gutefrage|interests|healthyliving|alternativemedicine",
+        "digitize_maverick_irishtaxrebates_medical ",
+        "bridge b2b > medical specialty > resp/dev/reh/rstr: pt: sports",
+        "bridge b2b > medical specialty > resp/dev/reh/rstr: pt: neurology",
+        "1228744_mt_bozeman_american_medical_response_hlm ",
+        "1228744_mt_bozeman_american_medical_response_tls",
+        "eyeota - miq - de kantar media tgi - personal finance - has private medical insurance",
+        "audience 78456, es > medical schools",
+        "eyeota - de kantar - consumer financial - insurance - has private medical insurance",
+        "1985112_mt_bozeman_global_medical_response_-_cheyenne_hlm ",
+        "1985112_mt_bozeman_global_medical_response_-_cheyenne_tls",
+        "1985112_mt_bozeman_global_medical_response_-_cheyenne_8.20.20-7.31.21_hlm-v2 ",
+        "1985112_mt_bozeman_global_medical_response_-_cheyenne_82020-73121_tls-v2",
+        "xaxisde2_ford_medical ",
+        "2088545_mt_bozeman__reach_air_medical_hlm ",
+        "2088545_mt_bozeman__reach_air_medical_tls",
+        "xaxisde_peugeot_medical ",
+        "2339731a_mt_bozeman_reach_air_medical_-_calstar_2.1.21-4.30.21_hlm ",
+        "xaxisde_ford_medical ",
+        "semasio - de: socio - b2b - medical & health services",
+        "custom segments > schober b2b mobile data germany - precision mechanics, optics and medical technology - 1st and 2nd management level - gps data",
+        "xaxaustria_peugeot_medical ",
+        "2339731a_mt_bozeman_reach_air_medical_-_calstar_2.1.21-4.30.21_hlm_-_3.18 ",
+        "2339731a_mt_bozeman_reach_air_medical_-_calstar_2121-43021_tls",
+        "synexus hungary - illuma smart category - medical health - 2021.05",
+        "synexus poland - illuma smart category - medical health - 2021.05",
+        "synexus czech republic - illuma smart category - medical health - 2021.05"
+    ],
+    "arthritis": [
+        "the weather channel (ibm) > france weather conditions > arthritis symptoms",
+        "the weather channel (ibm) > germany weather conditions > arthritis symptoms",
+        "the weather channel (ibm) > spain weather conditions > arthritis symptoms"
+    ],
+    "hypertension": [],
+    "fibromyalgia": [],
+    "pancrea(s|tic)": [],
+    "sleep ?apnea": [],
+    "migraine": [
+        "the weather channel (ibm) > france weather conditions > migraines symptoms",
+        "the weather channel (ibm) > germany weather conditions > migraines symptoms",
+        "the weather channel (ibm) > spain weather conditions > migraines symptoms"
+    ],
+    "asthma": [
+        "the weather channel (ibm) > france weather conditions > asthma symptoms",
+        "the weather channel (ibm) > germany weather conditions > asthma symptoms",
+        "the weather channel (ibm) > spain weather conditions > asthma symptoms"
+    ],
+    " dvt ": [],
+    "kidney ?disease": [],
+    "constipat(ion|ed)": [],
+    " copd ": [],
+    "smok(ing|er)": [
+        "experian sp - fmcg - cigarettes smoker ",
+        "xaxisema_emea_pfizer_se_stop_smoking_oct17 ",
+        "zeotap > spain > interest > smokers",
+        "zeotap > germany > interest > smokers",
+        "xaxisro_gs_predicts_quitsmoking ",
+        "xaxisbel_gs_predicts_quitsmoking ",
+        "xaxises_gs_predicts_quitsmoking ",
+        "xaxisde_gs_predicts_quitsmoking ",
+        "xaxisdk_gs_predicts_quitsmoking ",
+        "eyeota - fi ndr - 21 kantar mind - kantar mind lifestyle - kantar quit smoking",
+        "eyeota - miq - de kantar media tgi - lifestyle - has tried to give up smoking in last 12 months",
+        "eyeota - miq - de kantar media tgi - lifestyle - smoker",
+        "peer39: negative>illegal drugs_tobacco_e-cigarettes_vaping_alcohol - formerly drugs, tobacco, smoking, vaping, alcohol - available in english, spanish, french, german, portuguese, italian, dutch, japanese, chinese",
+        "adyoulikesa_neg_pmi_it_specific_health_family_covid_smoking ",
+        "adyoulikesa_neg_pmi_de_specific_health_family_covid_smoking "
+    ],
+    "injur(ed|y)": [
+        "sharethis - ca, fr, de, uk, au, hk - law & government - legal - accident & personal injury law",
+        "xaxaustria_neg_gv_death_injury_misc_light ",
+        "xaxaustria_neg_gv_death_injury_misc-german-nongeneric ",
+        "peer39: negative>death, injury or military conflict - formerly death, war - available in english, spanish, french, german, portuguese, italian, dutch, japanese, chinese",
+        "peer39: safe from death, injury or military conflict - available in english, spanish, french, german, portuguese, italian, dutch, japanese, chinese"
+    ],
+    "osteopa": [],
+    "prostate": [],
+    "assault": [
+        "dassault_uk_campaignspecific_italian ",
+        "dassault_uk_campaignspecific_portuguese ",
+        "dassault_uk_campaignspecific_french ",
+        "dassault_uk_campaignspecific_german "
+    ],
+    "violence": [
+        "mbbmedia_fr_cinema_labelleetlameute_violencespolicieres ",
+        "mbbmedia_fr_violencespolicieres ",
+        "mbbmedia_fr_genereic_news_violencespolicieres "
+    ],
+    "obes(e|ity)": [
+        "groupmnordic_nestle_negative_keywords_obesity_dk "
+    ],
+    "(over)?weight( loss)?": [
+        "international_eu - france dieting and weight loss ",
+        "international_eu - france weightlifting ",
+        "international_eu - germany dieting and weight loss ",
+        "international_eu - germany weightlifting ",
+        "international_eu - italy dieting and weight loss ",
+        "international_eu - italy weightlifting ",
+        "international_eu - spain dieting and weight loss ",
+        "international_eu - spain weightlifting ",
+        "web3_lose-weight-pt ",
+        "web3_loseweight-es ",
+        "oracle country-specific audiences > france (fr) > hobbies and interests (affinity) > health and fitness > wellness > dieting and weight loss ",
+        "oracle country-specific audiences > germany (de) > hobbies and interests (affinity) > health and fitness > wellness > dieting and weight loss ",
+        "oracle country-specific audiences > italy (it) > hobbies and interests (affinity) > health and fitness > wellness > dieting and weight loss ",
+        "oracle country-specific audiences > spain (es) > hobbies and interests (affinity) > health and fitness > wellness > dieting and weight loss ",
+        "sharethis - ca, fr, de, uk, au, hk - beauty & fitness - weight loss",
+        "branded data > nordic data resources > denmark > interests > interested in weightloss (super target) ",
+        "fidall > fr > retailers customers > weightwatchers ",
+        "mobilewalla > es > health & fitness > diet and weight loss ",
+        "mobilewalla > it > health &amp; fitness > diet and weight loss ",
+        "groupmnordic_nestle_negative_keywords_weight-loss_dk ",
+        "branded data > nordic data resources > denmark > interests > interested in weightloss (power reach) ",
+        "custom segments > adex|germany|gutefrage|interests|healthyliving|weightloss",
+        "zeotap > italy > purchase intent > weightloss",
+        "nielsen france - social - lifestyle - weight loss",
+        "xaxisema_xls_weight_health_concern ",
+        "xaxisema_xls_weight_loss ",
+        "xaxisfi_warner_bros_weight_loss_fin ",
+        "xaxisfi_warner_bros_weight_loss_eng "
+    ],
+    "diabet(es|ic)": [
+        "serranetga_diabetes_de ",
+        "roqad_diabetes_german ",
+        "mediaiq_abbott_diabetes_kw_french ",
+        "mediaiq_abbott_hcp_diabetes_fr ",
+        "sqreem_de_int_diabetes "
+    ],
+    "atrial fibrillation": [],
+    "blood ?(pressure|clot)": [],
+    "heart ?(disease|failure|condition)": [],
+    "stroke": [],
+    "coronary": [],
+    "artery": [],
+    "thrombo": [],
+    "alzheimer": [],
+    "dementia": [],
+    "parkinson": [],
+    "nuplazid": [],
+    " ms ": [
+        "xaxisema_xmas_ms_fr ",
+        "xaxisdk_nets_ms_2017_dk ",
+        "xaxisdk_nets_ms_2017_se ",
+        "xaxisdk_nets_ms_2017_no ",
+        "xaxisdk_nets_ms_2017_fi ",
+        "fidall > fr > retailers customers > ms mode ",
+        "xaxisfi_ms_cheng_66888 ",
+        "yosemite-barkan_strategies_ak-ms_nonspanish_base_device_cookie"
+    ],
+    "multiple ?(sclerosis|sklerose)": [],
+    "huntington": [],
+    "cerebral ?palsy": [],
+    "cancer": [
+        "ask.fm > at > demographics > zodiac sign > cancer ",
+        "ask.fm > de > demographics > zodiac sign > cancer ",
+        "ask.fm > dk > demographics > zodiac sign > cancer ",
+        "ask.fm > es > demographics > zodiac sign > cancer ",
+        "ask.fm > fr > demographics > zodiac sign > cancer ",
+        "ask.fm > it > demographics > zodiac sign > cancer ",
+        "ask.fm > se > demographics > zodiac sign > cancer ",
+        "fidall > fr > pharmacy product buyers > la ligue contre le cancer ",
+        "town square ignite client - custom-built > 1474406_me_portland_sharp healthcare scvmv barnhart cancer center spanish_tls_dstillery "
+    ],
+    "tobacco": [
+        "xaxisema_gv_tobacco ",
+        "peer39: safe from tobacco - available in english, spanish, french, german, portuguese, italian, dutch, japanese, chinese",
+        "gfk > fi > purchasing power for retail product lines > tobacco products > 3: high ",
+        "gfk > de > purchasing power for retail product lines > tobacco products > 3: high ",
+        "gfk > se > purchasing power for retail product lines > tobacco products > 3: high ",
+        "gfk > at > purchasing power for retail product lines > tobacco products > 3: high ",
+        "gfk > es > purchasing power for retail product lines > tobacco products > 3: high ",
+        "gfk > dk > purchasing power for retail product lines > tobacco products > 3: high ",
+        "peer39: negative>illegal drugs_tobacco_e-cigarettes_vaping_alcohol - formerly drugs, tobacco, smoking, vaping, alcohol - available in english, spanish, french, german, portuguese, italian, dutch, japanese, chinese",
+        "peer39: safe from illegal drugs/tobacco/e-cigarettes/vaping/alcohol -  - available in english, spanish, french, german, portuguese, italian, dutch, japanese, chinese",
+        "digitalaudience: sweden > spending intent > tobacco > above average"
+    ],
+    "respiratory": [],
+    "leukemia": [],
+    "lymphoma": [],
+    "tumor": [],
+    "pregnan(t|cy)": [
+        "gamned_gamned_pregnancy_young_mom_de ",
+        "xaxisro_ro_bayer_elevit_pregnancy ",
+        "xaxisro_en_bayer_elevit_pregnancy ",
+        "groupmnordic_nestle_negative_keywords_baby_infants_pregnancy_dk ",
+        "xaxisdk_baby_pregnant_no ",
+        "xaxisse_pr_pregnancy "
+    ],
+    "matern(al|ity)": [
+        "familyes > maternity (en) maternidad (es) (private-4112) ",
+        "zeotap > spain > purchase intent > fashion & beauty > maternity clothing ",
+        "audience 78530, es > maternity",
+        "digitalaudience:sweden>shoppingintent>clothing>maternitywear"
+    ],
+    "abort(ion|ed)": [],
+    "family planning": [],
+    "parent(hood)?": [
+        "international_eu - austria parenting ",
+        "international_eu - belgium parenting ",
+        "international_eu - denmark parenting ",
+        "international_eu - europe parenting ",
+        "international_eu - finland parenting ",
+        "international_eu - france declared parents ",
+        "international_eu - france parenting ",
+        "international_eu - france parents of infants ",
+        "international_eu - france parents of pre-teens ",
+        "international_eu - france parents of teenagers ",
+        "international_eu - france parents of toddlers ",
+        "international_eu - france parents of young children ",
+        "international_eu - germany declared parents ",
+        "international_eu - germany parenting ",
+        "international_eu - germany parents of infants ",
+        "international_eu - germany parents of pre-teens ",
+        "international_eu - germany parents of teenagers ",
+        "international_eu - germany parents of toddlers ",
+        "international_eu - germany parents of young children ",
+        "international_eu - greece parenting ",
+        "international_eu - italy declared parents ",
+        "international_eu - italy parenting ",
+        "international_eu - italy parents of infants ",
+        "international_eu - italy parents of pre-teens ",
+        "international_eu - italy parents of teenagers ",
+        "international_eu - italy parents of toddlers ",
+        "international_eu - italy parents of young children ",
+        "international_eu - netherlands parenting ",
+        "international_eu - poland parenting ",
+        "international_eu - spain declared parents ",
+        "international_eu - spain parenting ",
+        "international_eu - spain parents of infants ",
+        "international_eu - spain parents of pre-teens ",
+        "international_eu - spain parents of teenagers ",
+        "international_eu - spain parents of toddlers ",
+        "international_eu - spain parents of young children ",
+        "international_eu - sweden parenting ",
+        "xaxispo_nn_xvs_parenting_xaxis-pl ",
+        "revomsg_planned_parenthood_bullock_mt ",
+        "xaxispo_ikea_parenting1_xaxis-pl ",
+        "xaxispo_ikea_parenting2_xaxis-pl ",
+        "branded data > semasio > germany > interest > family & parenting ",
+        "branded data > semasio > denmark > interest > family & parenting ",
+        "branded data > semasio > sweden > interest > family & parenting ",
+        "branded data > nordic data resources > denmark > super target > family & parenting ",
+        "branded data > nordic data resources > denmark > super target > family & parenting > kids toys ",
+        "branded data > nordic data resources > denmark > super target > family & parenting > family & parenting ",
+        "branded data > nordic data resources > denmark > super target > family & parenting > children's wear ",
+        "branded data > nordic data resources > finland > super target > interests > family & parenting ",
+        "branded data > nordic data resources > sweden > super target > media > newspapers > children & parenting ",
+        "oracle country-specific audiences > france (fr) > lifestyles > parents and family > moms (mums) ",
+        "oracle country-specific audiences > germany (de) > lifestyles > parents and family > moms (mums) ",
+        "oracle country-specific audiences > italy (it) > lifestyles > parents and family > moms (mums) ",
+        "oracle country-specific audiences > spain (es) > lifestyles > parents and family > moms (mums) ",
+        "oracle country-specific audiences > france (fr) > hobbies and interests (affinity) > parenting and family ",
+        "oracle country-specific audiences > germany (de) > hobbies and interests (affinity) > parenting and family ",
+        "oracle country-specific audiences > italy (it) > hobbies and interests (affinity) > parenting and family ",
+        "oracle country-specific audiences > spain (es) > hobbies and interests (affinity) > parenting and family ",
+        "oracle country-specific audiences > france (fr) > life stages and events > family and children (kids) > new parents ",
+        "oracle country-specific audiences > germany (de) > life stages and events > family and children (kids) > new parents ",
+        "oracle country-specific audiences > italy (it) > life stages and events > family and children (kids) > new parents ",
+        "oracle country-specific audiences > spain (es) > life stages and events > family and children (kids) > new parents ",
+        "oracle country-specific audiences > france (fr) > lifestyles > parents and family > moms (mums) > trendy moms ",
+        "oracle country-specific audiences > germany (de) > lifestyles > parents and family > moms (mums) > trendy moms ",
+        "oracle country-specific audiences > italy (it) > lifestyles > parents and family > moms (mums) > trendy moms ",
+        "oracle country-specific audiences > spain (es) > lifestyles > parents and family > moms (mums) > trendy moms ",
+        "oracle country-specific audiences > france (fr) > hobbies and interests (affinity) > parenting and family > women's interests (affinity) ",
+        "oracle country-specific audiences > france (fr) > hobbies and interests (affinity) > parenting and family > men's interests (affinity) ",
+        "oracle country-specific audiences > france (fr) > hobbies and interests (affinity) > parenting and family > parenting babies and toddlers ",
+        "oracle country-specific audiences > france (fr) > hobbies and interests (affinity) > parenting and family > parenting kids ",
+        "oracle country-specific audiences > germany (de) > hobbies and interests (affinity) > parenting and family > men's interests (affinity) ",
+        "oracle country-specific audiences > germany (de) > hobbies and interests (affinity) > parenting and family > parenting babies and toddlers ",
+        "oracle country-specific audiences > germany (de) > hobbies and interests (affinity) > parenting and family > parenting kids ",
+        "oracle country-specific audiences > germany (de) > hobbies and interests (affinity) > parenting and family > women's interests (affinity) ",
+        "oracle country-specific audiences > italy (it) > hobbies and interests (affinity) > parenting and family > women's interests (affinity) ",
+        "oracle country-specific audiences > italy (it) > hobbies and interests (affinity) > parenting and family > men's interests (affinity) ",
+        "oracle country-specific audiences > italy (it) > hobbies and interests (affinity) > parenting and family > parenting babies and toddlers ",
+        "oracle country-specific audiences > italy (it) > hobbies and interests (affinity) > parenting and family > parenting kids ",
+        "oracle country-specific audiences > spain (es) > hobbies and interests (affinity) > parenting and family > men's interests (affinity) ",
+        "oracle country-specific audiences > spain (es) > hobbies and interests (affinity) > parenting and family > parenting babies and toddlers ",
+        "oracle country-specific audiences > spain (es) > hobbies and interests (affinity) > parenting and family > parenting kids ",
+        "oracle country-specific audiences > spain (es) > hobbies and interests (affinity) > parenting and family > women's interests (affinity) ",
+        "experian fr - mosaic - young active families - young parents, leisure equipment and tv ",
+        "experian sp - mosaic - urban - apparent success ",
+        "semasio - de - interest - family and parenting ",
+        "take 5 media > parent ethnicity > western european",
+        "take 5 media > parent ethnicity > eastern european",
+        "mbbmedia_fr_surfacedereparation_filmsetdocsapparentes ",
+        "mbbmedia_fr_amiami_apparentes ",
+        "branded data > nordic data resources > denmark > family & parenting > children > households with more than 2 children (super target) ",
+        "branded data > nordic data resources > denmark > family & parenting > age groups > 46 - 60 years (super target) ",
+        "branded data > nordic data resources > denmark > family & parenting > gender > males ",
+        "branded data > nordic data resources > denmark > family & parenting > age groups > 18 - 25 years (super target) ",
+        "branded data > nordic data resources > denmark > family & parenting > age groups ",
+        "branded data > nordic data resources > denmark > family & parenting > children > households with 1 or 2 children (super target) ",
+        "branded data > nordic data resources > denmark > family & parenting > age groups > 80+ years (super target) ",
+        "branded data > nordic data resources > denmark > family & parenting > children ",
+        "branded data > nordic data resources > denmark > family & parenting > children > households with children (super target) ",
+        "branded data > nordic data resources > denmark > family & parenting > age groups > 26 - 45 years (super target) ",
+        "branded data > nordic data resources > denmark > family & parenting ",
+        "branded data > nordic data resources > denmark > family & parenting > gender > females ",
+        "branded data > nordic data resources > germany > consumer classification > online mosaic > (h) homemaking parents ",
+        "branded data > nordic data resources > denmark > family & parenting > gender ",
+        "branded data > nordic data resources > denmark > family & parenting > children > households without children (super target) ",
+        "branded data > nordic data resources > denmark > family & parenting > age groups > 61 - 79 years (super target) ",
+        "branded data > nordic data resources > sweden > media > newspapers & magazines > children & parenting (super target) ",
+        "mbbmedia_fr_culture_cinema_englandismine_apparentes ",
+        "kbm group - germany - az direct | az sociodemographics | family type | single parents with adult children",
+        "kbm group - germany - az direct | az sociodemographics | family type | single parents with teenager",
+        "kbm group - germany - az direct | az sociodemographics | family type | young single parents",
+        "mbbmedia_fr_cinema_agatha_parents ",
+        "zeotap > spain > interest > family & parenting > mothers",
+        "zeotap > italy > interest > family & parenting",
+        "sharethis - ca, fr, de, uk, au, hk - life event - new parent",
+        "oracle country-specific audiences > france (fr) > lifestyles > parents and family ",
+        "oracle country-specific audiences > italy (it) > lifestyles > parents and family ",
+        "oracle country-specific audiences > germany (de) > lifestyles > parents and family ",
+        "oracle country-specific audiences > spain (es) > lifestyles > parents and family ",
+        "az direct > de > demographic > family type > single parents with adult children ",
+        "az direct > de > demographic > family type > young single parents  ",
+        "az direct > de > demographic > family type > single parents with teenager ",
+        "az direct > de > demographic > lifestage > single parents ",
+        "conexance > fr > family > parents of children with age between 11 and  ",
+        "conexance > fr > family > parents of children with age between 7 and 1 ",
+        "conexance > fr > family > parents of children with age between 0 and 3 ",
+        "conexance > fr > family > parents of children with age between 4 and 6 ",
+        "conexance > fr > family > parents of children with age between 16 and  ",
+        "conexance > fr > households > typology > typology conexance f > f2 young single parents households without f ",
+        "zeotap > spain > interest > family & parenting",
+        "zeotap > spain > interest > family & parenting",
+        "zeotap > spain > interest > family & parenting",
+        "zeotap > spain > interest > family & parenting",
+        "zeotap > spain > interest > family & parenting",
+        "zeotap > spain > interest > family & parenting",
+        "zeotap > spain > interest > family & parenting",
+        "zeotap > spain > interest > family & parenting",
+        "zeotap > spain > interest > family & parenting",
+        "zeotap > spain > purchase intent > family & parenting > baby & toddler equipment (3)",
+        "zeotap > italy > demographics > mothers & families > new parents",
+        "branded data > nordic data resources > sweden > media > newspapers & magazines > children & parenting (power reach) ",
+        "branded data > nordic data resources > denmark > family & parenting > age groups > 61 - 79 years (power reach) ",
+        "branded data > nordic data resources > denmark > family & parenting > children > households without children (power reach) ",
+        "branded data > nordic data resources > denmark > family & parenting > age groups > 46 - 60 years (power reach) ",
+        "branded data > nordic data resources > denmark > family & parenting > children > households with children (power reach) ",
+        "branded data > nordic data resources > denmark > family & parenting > children > households with more than 2 children (power reach) ",
+        "branded data > nordic data resources > denmark > family & parenting > children > households with 1 or 2 children (power reach) ",
+        "branded data > nordic data resources > denmark > family & parenting > age groups > 26 - 45 years (power reach) ",
+        "branded data > nordic data resources > denmark > family & parenting > age groups > 80+ years (power reach) ",
+        "branded data > nordic data resources > denmark > family & parenting > age groups > 18 - 25 years (power reach) ",
+        "xaxisro_gs_predicts_parentsteachers ",
+        "xaxisro_gs_predicts_parentsofyoungkids ",
+        "xaxisro_gs_predicts_new_parents ",
+        "xaxisbel_gs_predicts_parentsteachers ",
+        "xaxisbel_gs_predicts_parentsofyoungkids ",
+        "xaxisbel_gs_predicts_new_parents ",
+        "xaxises_gs_predicts_parentsteachers ",
+        "xaxises_gs_predicts_parentsofyoungkids ",
+        "xaxises_gs_predicts_new_parents ",
+        "xaxisde_gs_predicts_parentsteachers ",
+        "xaxisde_gs_predicts_parentsofyoungkids ",
+        "xaxisde_gs_predicts_new_parents ",
+        "xaxisdk_gs_predicts_parentsteachers ",
+        "xaxisdk_gs_predicts_parentsofyoungkids ",
+        "xaxisdk_gs_predicts_new_parents ",
+        "experian fr - mosaic - young active families - single parents, sports and consumption ",
+        "experian fr - mosaic - connected cosmopolites - single parents in social housing ",
+        "experian fr - mosaic - blue-collar heritage - thrifty young parents in social housing ",
+        "sk-parents_prgmt-sk-toys",
+        "eyeota - de experian - mosaic - group - h homemaking parents",
+        "eyeota - dk ndr - 02 family and parenting - age groups - 80+ years ",
+        "eyeota - dk ndr - 02 family and parenting - age groups - 61-79 years ",
+        "eyeota - dk ndr - 02 family and parenting - age groups - 18-25 years ",
+        "eyeota - dk ndr - 02 family and parenting - age groups - 26-45 years ",
+        "eyeota - se ndr - 12 media - newspapers and magazines: children and parenting ",
+        "eyeota - dk ndr - 02 family and parenting - age groups - 18-25 years ",
+        "eyeota - dk ndr - 02 family and parenting - age groups - 61-79 years ",
+        "eyeota - dk ndr - 02 family and parenting - age groups - 80+ years ",
+        "eyeota - dk ndr - 02 family and parenting - children - households with 1 or 2 children ",
+        "eyeota - dk ndr - 02 family and parenting - children - households with children ",
+        "eyeota - dk ndr - 02 family and parenting - children - households without children ",
+        "eyeota - se ndr - 12 media - newspapers and magazines: children and parenting ",
+        "custom segments > adex|germany|gutefrage|interests|familyandrelationships|parenting",
+        "zeotap > france > purchase intent > new parents",
+        "zeotap > france > interest > family & parenting",
+        "zeotap > spain > purchase intent > family & parenting > toys (1)",
+        "data owners > ketchup adv > it > intent family & parenting > intent adoption",
+        "data owners > ketchup adv > it > intent family & parenting > intent babies & toddlers",
+        "mbbmedia_fr_parents_activitefamille ",
+        "eyeota - dk ndr - 15 kantar media tns dk - tns gallup lifestyle - single parents",
+        "eyeota - se ndr - 18 kantar media tgi se - orvesto lifestyle - lifecycle - single parents",
+        "litereacit_generali_parenting_it ",
+        "zeotap > spain > purchase intent > family & parenting > baby & toddler equipment (2)",
+        "zeotap > france > demographics > self declared > parent type: parents",
+        "mbbmedia_fr_movies_parentscinephile ",
+        "zeotap > france > demographics > new parents",
+        "zeotap > france > internal demo parent segment",
+        "zeotap > spain > purchase intent > family & parenting > toys (publisher) (1)",
+        "zeotap > spain > interest > family & parenting ",
+        "zeotap > spain > interest > family & parenting > mothers ",
+        "zeotap > spain > interest > family & parenting > toys & dolls ",
+        "zeotap > spain > purchase intent > family & parenting > baby & toddler equipment (publisher) (4)",
+        "blis - network - syndicate:direct - gh-nl_all_xandr_blis_all_location_netherlands-parenting_all_greenhouse",
+        "zeotap > france > interest > family & parenting ",
+        "zeotap > spain > interest > family & parenting > kids apps 8-14",
+        "converged > france > hmpar_ad exchange - edf - parents with young children",
+        "truoptik>captify>1stpartydata>lifeprofiles-jeunesparents-france",
+        "truoptik>captify>1stpartydata>lifeprofiles-parentadomicile-france",
+        "truoptik>captify>1stpartydata>lifeprofiles-grands-parents-france",
+        "truoptik>captify>1stpartydata>lifeprofiles-parentsd'ados-france",
+        "truoptik>captify>1stpartydata>lifeprofiles-parents-france",
+        "truoptik>captify>1stpartydata>lifeprofiles-parentsd'enfants-france",
+        "1311210_me_augusta_choose_to_be_healthy_coalition_parents_hlm ",
+        "1311210_me_augusta_choose_to_be_healthy_coalition_parents_tls",
+        "eyeota - fr experian - household composition - single parent",
+        "eyeota - fr experian - mosaic type - e23 single parents, sports and consumption",
+        "eyeota - fi ndr - 21 kantar mind - kantar mind lifestyle - kantar single parents",
+        "eyeota - fr experian - mosaic type - e19 young parents, leisure equipment and tv",
+        "semasio - de: classic extended audience - life stage - family & parenting",
+        "zeotap > spain > interest > family & parenting > kids apps 4-12",
+        "eyeota - miq - de experian - mosaic - group - h homemaking parents",
+        "eyeota - miq - fr experian - household composition - single parent",
+        "eyeota - miq - fr experian - mosaic type - e19 young parents, leisure equipment and tv",
+        "eyeota - miq - fr experian - mosaic type - e23 single parents, sports and consumption",
+        "zeotap > spain > custom > xaxis > purchase intent > family & parenting",
+        "semasio - ch (de): classic extended audience - life stage - family & parenting",
+        "semasio - ch (fr): classic extended audience - lifestyle - family & parenting",
+        "eyeota - es experian - sociodemographic - automotive segmentation - tv5 - apparent success",
+        "mbbmedia_fr_lmde_parents_sante ",
+        "semasio - de: performance advertising - life stage - family & parenting",
+        "1958987_me_augusta_choose_to_be_healthy_coalition-york_hospital_8.3.2020-9.30.2020_parents_hlm ",
+        "1958987_me_augusta_choose_to_be_healthy_coalition-york_hospital_832020-9302020_parents_tls",
+        "plistapoland_pepeco_kobieta_parenting_bts_socialad_plista ",
+        "mbbmedia_fr_ffvb_parents ",
+        "irobot - parents  - belgium ",
+        "irobot - parents -  portugal ",
+        "lotame > custom > be > parents",
+        "lotame > custom > pt > parents",
+        "zeotap > spain > interest > family & parenting > mothers_1",
+        "zeotap > spain > interest > family & parenting > kids apps 2-6",
+        "zeotap > spain > interest > family & parenting > kids apps 8-10",
+        "zeotap > spain > interest > family & parenting > toys & dolls",
+        "xaxishu_pr_ferrero_kinder_parents ",
+        "xaxishu_pr_ferrero_kinder_grandparents ",
+        "zeotap > spain > apps & interest > parents with kids",
+        "zeotap > spain > interest > family & parenting > kids apps 2-6 (2)",
+        "adsquare data alliance > de > christmas 2020 audiences > christmas targeting- grand parents ",
+        "adsquare data alliance > es > demographics > marital status > parents ",
+        "adsquare data alliance > de > covid-19 audiences (corona pandemic) > covid-19 habitation &amp; household > parents with babies at home ",
+        "adsquare data alliance > de > covid-19 audiences (corona pandemic) > covid-19 habitation &amp; household > parents with kindergarden kids at home ",
+        "adsquare data alliance > de > covid-19 audiences (corona pandemic) > covid-19 habitation &amp; household > parents with schoolchildren at home ",
+        "adsquare data alliance > nl > demographics > family &amp; marital status > parents > fathers ",
+        "adsquare data alliance > be > demographics > family &amp; marital status > parents > fathers ",
+        "zeotap > spain > purchase intent > family & parenting > baby & toddler equipment (2)_1",
+        "xaxisde_savencia_stay_at_home_parents ",
+        "zeotap > spain > parenting babies_1",
+        "zeotap > spain > parenting_babies_interest",
+        "zeotap > germany > interest > family > parents",
+        "zeotap > spain > custom > targetopia > ikea: familias monoparentales"
+    ],
+    "miscarriage": [],
+    "menopause": [
+        "mbbmedia_fr_culture_kwet_menopause_femmes45yo_custom "
+    ],
+    "(in)?fertil(e|ity)": [],
+    "ovulat(e|ion)": [
+        "zeotap > spain > interest > health & fitness > menstrual period & ovulation (2)",
+        "zeotap > spain > interest > health & fitness > menstrual period & ovulation (1)",
+        "zeotap > spain > interest > health & fitness > menstrual period & ovulation "
+    ],
+    "viagra": [],
+    "cialis": [
+        "branded data > specialists marketing services > demographic > language > dutch ",
+        "branded data > specialists marketing services > demographic > language > finnish ",
+        "branded data > specialists marketing services > demographic > language > french ",
+        "branded data > specialists marketing services > demographic > language > greek ",
+        "branded data > specialists marketing services > demographic > language > hungarian ",
+        "branded data > specialists marketing services > demographic > language > latvian ",
+        "branded data > specialists marketing services > demographic > language > lithuanian ",
+        "branded data > specialists marketing services > demographic > language > polish ",
+        "branded data > specialists marketing services > demographic > language > portuguese ",
+        "branded data > specialists marketing services > demographic > language > swedish ",
+        "kbm group - germany - az direct - target groups | books & magazines | target groups with focus on books & magazines | specialist literature",
+        "az direct > de > az target groups > books & magazines > specialist literature ",
+        "branded data > specialists marketing services > demographic > language > slovakian ",
+        "branded data > specialists marketing services > demographic > language > danish ",
+        "branded data > specialists marketing services > demographic > language > serbo-croatian ",
+        "branded data > specialists marketing services > demographic > language > czech ",
+        "branded data > specialists marketing services > demographic > language > spanish ",
+        "branded data > specialists marketing services > demographic > occupation > blue collar worker > polisher ",
+        "branded data > specialists marketing services > demographic > language > estonian ",
+        "branded data > specialists marketing services > demographic > language > slovenian ",
+        "branded data > specialists marketing services > demographic > language > italian ",
+        "branded data > specialists marketing services > demographic > language > bulgarian ",
+        "branded data > specialists marketing services > demographic > language > romanian ",
+        "branded data > specialists marketing services > demographic > language > german ",
+        "zeotap > italy > interest > specialist food",
+        "eyeota - fi ndr - insight360 - car360 - 1 car specialist with readiness for online transactions",
+        "signals > it > salute e benessere > actual > medico specialista",
+        "gh-nl_gps_xandr_da_specific_demographic_branch-specialistisch-zakelijke-dienstverlening_plain",
+        "gh-nl_gps_xandr_da_specific_demographic_branch-specialistisch-zakelijke-dienstverlening_rich",
+        "gh-nl_gps_xandr_da_specific_demographic_branch-specialistisch-zakelijke-dienstverlening_video",
+        "branded data > specialists marketing services > brand intent > food & beverage dairy products > oikos greek yogurt "
+    ],
+    "erectile ?dysfunction": [],
+    "contracepti(ve|ion)": [],
+    "urinary ?tract ?infection": [],
+    " uti ": [],
+    "menstrua(l|ting|te)": [
+        "zeotap > spain > interest > health & fitness > menstrual period & ovulation (2)",
+        "zeotap > spain > interest > health & fitness > menstrual period & ovulation (1)",
+        "zeotap > spain > interest > health & fitness > menstrual period & ovulation "
+    ],
+    "hearing ?(aid|loss)": [],
+    " deaf(ness)? ": [],
+    "paraplegi[aec]": [],
+    "disab(led|ility)": [
+        "mediaiq_gs_french_disability ",
+        "xaxisema_gs_disability ",
+        "gfk > de > financial market services > occupational disability insurance > 3: high "
+    ],
+    "blind": [],
+    "impair(ment|ed)": [],
+    "autis(m|tic)": [
+        "mbbmedia_fr_sport_nautisme_constructeurs ",
+        "mbbmedia_fr_sport_nautisme_races ",
+        "mbbmedia_fr_sport_nautisme_navigators ",
+        "mbbmedia_fr_sport_nautisme_meteo_marine ",
+        "mbbmedia_fr_sport_nautisme_events ",
+        "mbbmedia_fr_sport_nautisme_generic "
+    ],
+    " adh(d|s) ": [],
+    "anxiety": [],
+    "psych(olog|iatr)": [
+        "sharethis - ca, fr, de, uk, au, hk - people & society - social sciences - psychology",
+        "mbbmedia_fr_psychology ",
+        "kbm group - germany - az direct | psychological values | psychological values | adventurous - high affinity",
+        "kbm group - germany - az direct | psychological values | psychological values | adventurous - low affinity",
+        "kbm group - germany - az direct | psychological values | psychological values | combative - high affinity",
+        "kbm group - germany - az direct | psychological values | psychological values | combative - low affinity",
+        "kbm group - germany - az direct | psychological values | psychological values | critical - high affinity",
+        "kbm group - germany - az direct | psychological values | psychological values | critical - low affinity",
+        "kbm group - germany - az direct | psychological values | psychological values | cultural - high affinity",
+        "kbm group - germany - az direct | psychological values | psychological values | cultural - low affinity",
+        "kbm group - germany - az direct | psychological values | psychological values | desiring - high affinity",
+        "kbm group - germany - az direct | psychological values | psychological values | desiring - low affinity",
+        "kbm group - germany - az direct | psychological values | psychological values | dominant - high affinity",
+        "kbm group - germany - az direct | psychological values | psychological values | dominant - low affinity",
+        "kbm group - germany - az direct | psychological values | psychological values | dreamy - high affinity",
+        "kbm group - germany - az direct | psychological values | psychological values | dreamy - low affinity",
+        "kbm group - germany - az direct | psychological values | psychological values | dutiful - high affinity",
+        "kbm group - germany - az direct | psychological values | psychological values | dutiful - low affinity",
+        "kbm group - germany - az direct | psychological values | psychological values | familiar - high affinity",
+        "kbm group - germany - az direct | psychological values | psychological values | familiar - low affinity",
+        "kbm group - germany - az direct | psychological values | psychological values | materialistic - high affinity",
+        "kbm group - germany - az direct | psychological values | psychological values | materialistic - low affinity",
+        "kbm group - germany - az direct | psychological values | psychological values | rational - high affinity",
+        "kbm group - germany - az direct | psychological values | psychological values | rational - low affinity",
+        "kbm group - germany - az direct | psychological values | psychological values | religious - high affinity",
+        "kbm group - germany - az direct | psychological values | psychological values | religious - low affinity",
+        "kbm group - germany - az direct | psychological values | psychological values | social - high affinity",
+        "kbm group - germany - az direct | psychological values | psychological values | social - low affinity",
+        "kbm group - germany - az direct | psychological values | psychological values | traditional - high affinity",
+        "kbm group - germany - az direct | psychological values | psychological values | traditional - low affinity",
+        "mbbmedia_fr_culture_rbc_psychologie_custom "
+    ],
+    "depress(ed|ion)": [],
+    "(?!environ)mental": [
+        "international_eu - france environmentalism ",
+        "international_eu - germany environmentalism ",
+        "international_eu - italy environmentalism ",
+        "international_eu - spain environmentalism ",
+        "xaxisema_pillar2_category_environmental ",
+        "xaxises_pillar2_category_environmental ",
+        "branded data > nordic data resources > sweden > super target > interests > environmental care ",
+        "191618_mt_missoula_nuverra_environmental_solutions_tls_aol ",
+        "191618_mt_missoula_nuverra_environmental_solutions_tls_aerserve ",
+        "191618_mt_missoula_nuverra_environmental_solutions_tls_mopub ",
+        "191618_mt_missoula_nuverra_environmental_solutions_tls_smaato ",
+        "sharethis - ca, fr, de, uk, au, hk - arts & entertainment - music & audio - experimental & industrial music",
+        "sharethis - ca, fr, de, uk, au, hk - people & society - social issues & advocacy - green living & environmental issues",
+        "branded data > nordic data resources > sweden > interests > environmental care (super target) ",
+        "branded data > nordic data resources > denmark > shopping > environmental products (super target) ",
+        "kbm group - germany - schober | lifestyle | environmental awareness / organic products",
+        "191618_mt_missoula_nuverra_enviormental_mopub ",
+        "xaxisdk_environmental ",
+        "schober > de > b2c > fundraising > environmentally conscious ",
+        "191618_mt_missoula_nuverra_environmental_solutions_hlm_september ",
+        "branded data > nordic data resources > denmark > shopping > environmental products (power reach) ",
+        "branded data > nordic data resources > sweden > interests > environmental care (power reach) ",
+        "eyeota - dk ndr - 10 shopping - environmental products ",
+        "mbbmedia_fr_music_rock_psychedelic-experimental ",
+        "eyeota - dk ndr - 15 kantar media tns dk - tns gallup lifestyle - environmentalist",
+        "audience 78473, es > vegetarian & environmentally friendly",
+        "audience 78507, es > social & environmental sustainability",
+        "gh-nl_tmp_xandr_da_specific_demographic_mentality-nieuwe-conservatieven_plain",
+        "gh-nl_gps_xandr_da_specific_demographic_mentality-nieuwe-conservatieven_rich",
+        "gh-nl_tmp_xandr_da_specific_demographic_mentality-kosmopolieten_plain",
+        "gh-nl_gps_xandr_da_specific_demographic_mentality-kosmopolieten_rich",
+        "gh-nl_gps_xandr_da_specific_mentality-kosmopolieten_video",
+        "gh-nl_gps_xandr_da_specific_mentality-nieuwe-conservatieven_video",
+        "gh-nl_tmp_xandr_da_specific_demographic_mentality-traditionele-burgerij_plain",
+        "gh-nl_gps_xandr_da_specific_demographic_mentality-traditionele-burgerij_rich",
+        "gh-nl_gps_xandr_da_specific_mentality-traditionele-burgerij_video",
+        "gh-nl_tmp_xandr_da_specific_demographic_mentality-moderne-burgerij_plain",
+        "gh-nl_gps_xandr_da_specific_demographic_mentality-moderne-burgerij_rich",
+        "gh-nl_gps_xandr_da_specific_mentality-moderne-burgerij_video",
+        "gh-nl_tmp_xandr_da_specific_demographic_mentality-gemaks-georienteerden_plain",
+        "gh-nl_gps_xandr_da_specific_demographic_mentality-gemaks-georienteerden_rich",
+        "gh-nl_gps_xandr_da_specific_mentality-gemaks-georienteerden_video",
+        "gh-nl_tmp_xandr_da_specific_demographic_mentality-opwaarts-mobielen_plain",
+        "gh-nl_gps_xandr_da_specific_demographic_mentality-opwaarts-mobielen_rich",
+        "gh-nl_gps_xandr_da_specific_mentality-opwaarts-mobielen_video",
+        "gh-nl_tmp_xandr_da_specific_demographic_mentality-post-materialisten_plain",
+        "gh-nl_gps_xandr_da_specific_demographic_mentality-post-materialisten_rich",
+        "gh-nl_gps_xandr_da_specific_mentality-post-materialisten_video",
+        "custom segments > schober mobile data germany - environmentally conscious customers - gps data",
+        "custom segments > schober b2b mobile data germany - ecology, environmental technology and recycling  - 1st and 2nd management level - gps data",
+        "lotame > custom > it > environmentalism"
+    ],
+    "addict": [
+        "zeotap > italy > interest > social addicted ",
+        "experian fr - mosaic - young active families - addicted to credit and technology with children ",
+        "eyeota - dk ndr - 15 kantar media tns dk - tns gallup lifestyle - workout addict",
+        "mediaiq_neg_tomboladenmarkgamblingaddiction ",
+        "mediaiq_neg_tombolaswedengamblingaddiction ",
+        "eyeota - miq - de kantar media tgi - shopper type - promo addict",
+        "eyeota - de kantar - shopping - attitudes - shopper type - promo addict",
+        "peer39: custom category>brand safety france - kids_finance_addiction_jobs",
+        "peer39: custom category>brand safety italy - kids_finance_addiction_jobs",
+        "peer39: custom category>brand safety spain - kids_finance_addiction_jobs",
+        "adsquare data alliance > fr > interests > movies > cinema addicts ",
+        "adsquare data alliance > de > interests > movies > cinema addicts ",
+        "adsquare data alliance > es > interests > movies > cinema addicts ",
+        "adsquare data alliance > it > interests > movies > cinema addicts "
+    ],
+    "alcohol": [
+        "neustar adadvisor > alcohol (restricted to best practices) > wine > imported dinner wine-any french red",
+        "neustar adadvisor > alcohol (restricted to best practices) > wine > imported dinner wine-any italian red",
+        "neustar adadvisor > alcohol (restricted to best practices) > wine > imported dinner wine-any spanish red",
+        "neustar adadvisor > alcohol (restricted to best practices) > beer & ale > purchase beers & ales: new belgium brewery",
+        "international_eu - france alcoholic beverages ",
+        "international_eu - germany alcoholic beverages ",
+        "international_eu - italy alcoholic beverages ",
+        "international_eu - spain alcoholic beverages ",
+        "peer39: safe from alcohol -available in english, spanish, french, german, portuguese, italian, dutch, japanese, chinese",
+        "conexance > fr > purchase behaviour > alcohol products ",
+        "gfk > fi > purchasing power for retail product lines > alcohol-free beverages > 3: high ",
+        "gfk > fi > purchasing power for retail product lines > alcoholic beverages > 3: high ",
+        "gfk > de > purchasing power for retail product lines > other alcohol-free beverages > 3: high ",
+        "gfk > de > purchasing power for retail product lines > other alcoholic beverages > 3: high ",
+        "gfk > se > purchasing power for retail product lines > alcohol-free beverages > 3: high ",
+        "gfk > se > purchasing power for retail product lines > alcoholic beverages > 3: high ",
+        "gfk > at > purchasing power for retail product lines > alcohol-free beverages > 3: high ",
+        "gfk > at > purchasing power for retail product lines > alcoholic beverages > 3: high ",
+        "gfk > es > purchasing power for retail product lines > alcoholic beverages > 3: high ",
+        "gfk > es > purchasing power for retail product lines > alcohol-free beverages > 3: high ",
+        "gfk > dk > purchasing power for retail product lines > alcohol-free beverages > 3: high ",
+        "gfk > dk > purchasing power for retail product lines > alcoholic beverages > 3: high ",
+        "eyeota - uk experian - spend trends - likely to spend on off premise alcohol",
+        "eyeota - us acxiom - cpg - alcoholic drinks - beer brand - killians irish for age 21+ - likely",
+        "eyeota - us acxiom - cpg - alcoholic drinks - vodka brand - finlandia for age 21+ - likely",
+        "eyeota - miq - uk experian - spend trends - likely to spend on off premise alcohol",
+        "eyeota - miq - de kantar media tgi - lifestyle - consumes alcohol",
+        "peer39: negative>illegal drugs_tobacco_e-cigarettes_vaping_alcohol - formerly drugs, tobacco, smoking, vaping, alcohol - available in english, spanish, french, german, portuguese, italian, dutch, japanese, chinese",
+        "peer39: safe from illegal drugs/tobacco/e-cigarettes/vaping/alcohol -  - available in english, spanish, french, german, portuguese, italian, dutch, japanese, chinese",
+        "texans_for_alcohol_reform_district_addresses_at_home_device_cookie",
+        "texans_for_alcohol_reform_tx_state_capitol_at_home_device_cookie",
+        "texans_for_alcohol_reform_business_addresses_at_home_device_cookie",
+        "lotame > custom - de - euro - alcohol beverage",
+        "digitalaudience: sweden > spending intent > alcoholic beverages > above average"
+    ],
+    "drugs": [
+        "xaxisema_gv_drugs ",
+        "peer39: safe from drugs - available in english, spanish, french, german, portuguese, italian, dutch, japanese, chinese",
+        "az direct > de > retail > transactional activity > drugstore products > transactions in the last year ",
+        "az direct > de > retail > transactional activity > drugstore products > transactions older than 2 years ",
+        "az direct > de > retail > transactional activity > drugstore products > transactions in the last two years ",
+        "az direct > de > retail > transactional activity > drugstore products > without transactions ",
+        "peer39: negative>illegal drugs_tobacco_e-cigarettes_vaping_alcohol - formerly drugs, tobacco, smoking, vaping, alcohol - available in english, spanish, french, german, portuguese, italian, dutch, japanese, chinese",
+        "peer39: safe from illegal drugs/tobacco/e-cigarettes/vaping/alcohol -  - available in english, spanish, french, german, portuguese, italian, dutch, japanese, chinese"
+    ],
+    "cannabis": [],
+    "painkiller": [],
+    "opi(oid|um)": [
+        "hubbard_pr_mercycare_opioid_spanish "
+    ],
+    "abuse": [],
+    "bipolar": [],
+    "disorder": [],
+    "schizoph": [],
+    "panic": [
+        "webbula > demographic > individual > hispanic country of origin > spain",
+        "sms_new mover > hispanic country of origin > spain",
+        "e-tech > hispanic country of origin > spain",
+        "datastream group>ethnic hispanic country origin>spain",
+        "mediaiq_sprint_hispanic_spanish ",
+        "truoptik>webbula>demographics>hispanic country of origin > spain",
+        "3rd party_q181845 6-2019_mondelez-dg sour patch & swedish fish_dg hispanic candy buyers_2.27.19_3rd party_q181845 6-2019_mondelez-dg sour patch & swedish fish_dg hispanic candy buyers_2.27.19",
+        "3rd party_q181845 6-2019_mondelez-dg sour patch & swedish fish_dg hispanic candy buyers_3.27.19_3rd party_q181845 6-2019_mondelez-dg sour patch & swedish fish_dg hispanic candy buyers_3.27.19",
+        "3rd party_q181845 6-2019_mondelez-dg sour patch & swedish fish_dg hispanic candy buyers_3.27.19_3rd party_q181845 6-2019_mondelez-dg sour patch & swedish fish_dg hispanic candy buyers_3.27.19",
+        "newsam_pr_si_hispanic ",
+        "3rd party_q181845 6-2019_mondelez-dg sour patch & swedish fish_dg hispanic candy buyers_3.27.19_mondelez international, inc._media_6-2019_mondelez-dg trident, sour patch & swedish fish 6.9.19",
+        "3rd party_q181845 6-2019_mondelez-dg sour patch & swedish fish_dg hispanic candy buyers_3.27.19_mondelez international, inc._media_6-2019_mondelez-dg trident, sour patch & swedish fish 6.9.19",
+        "branded data > analyticsiq > demographics > hispanic consumers > language > spanish is primary language ",
+        "branded data > amerilink > adsmovil > us hispanics > spanish dominant ",
+        "l2 voter data > individual demographics > ethnicity > ethnicgroups ethnicgroup1desc > hispanic and portuguese",
+        "phoenix>us>demographic>race/ethnicity>hispanic>language spoken in home>spanish and english",
+        "claritas > acculturation > less acculturated hispanic and prefer spanish language ",
+        "claritas > acculturation > least acculturated hispanic and spanish dominant language ",
+        "adsmovil | us hispanics | language preference | us hispanics: spanish dominant"
+    ],
+    "insomnia": [],
+    "sleep disorder": []
 }
