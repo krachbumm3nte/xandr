@@ -1,0 +1,195 @@
+{
+    "religio(n|ous)": {
+        "Grapeshot": [
+            "mediaiq_gs_french_religion ",
+            "nike_nike_religion_kwb_fr ",
+            "nike_nike_religion_kwb_es ",
+            "nike_nike_religion_kwb_de ",
+            "nike_nike_religion_kwb_it ",
+            "nike_nike_religion_kwb_nl ",
+            "nike_nike_religion_kwb_dk ",
+            "nike_nike_religion_kwb_fi ",
+            "nike_nike_religion_kwb_se ",
+            "mbbmedia_fr_religion_theologie "
+        ],
+        "Audiences by Oracle (BlueKai, Datalogix, AddThis)": [
+            "branded data > nordic data resources > sweden > super target > interests > religion "
+        ],
+        "Epsilon Data Management, LLC.": [
+            "epsilon: demographics > religion > greek orthodox"
+        ],
+        "Nielsen Marketing Cloud": [
+            "sharethis - ca, fr, de, uk, au, hk - people & society - religion & belief - self-help & motivational"
+        ],
+        "LiveRamp Data Store": [
+            "180bytwo > cookie > b2c > religion > greek orthodox",
+            "infogroup > b2c > demographics > religion > greek orthodox",
+            "webbula > demographic > individual > religion > greek orthodox",
+            "businesswatch network > b2c > religion > greek orthodox",
+            "180bytwo > b2c > web > religion > greek orthodox",
+            "datastream group>religion>greek orthodox"
+        ],
+        "Tru Optik (CTV)": [
+            "truoptik>webbula>demographics>religion > greek orthodox"
+        ],
+        "The ADEX GmbH": [
+            "custom segments > adex|germany|gutefrage|interests|religionandspirituality"
+        ],
+        "Skydeo, Inc.": [
+            "skydeo > demographics > religion > greek orthodox"
+        ]
+    },
+    " faith": {
+        "Dstillery": [
+            "lifestyle > faith > uk & portugal christianity - extreme confidence ",
+            "lifestyle > faith > uk & portugal christianity - extended scale "
+        ]
+    },
+    "christian": {
+        "Adsquare (Data Provider)": [
+            "fidall > fr > beauty products buyers > christian dior very dior "
+        ],
+        "Dstillery": [
+            "lifestyle > faith > uk & portugal christianity - extreme confidence ",
+            "lifestyle > faith > uk & portugal christianity - extended scale "
+        ]
+    },
+    "catholic": {
+        "Grapeshot": [
+            "mbbmedia_fr_catholicism "
+        ]
+    },
+    "protestant": {},
+    "muslim": {},
+    "islam": {},
+    " jew": {
+        "Lotame": [
+            "international_eu - france jewelry and fashion accessories ",
+            "international_eu - germany jewelry and fashion accessories ",
+            "international_eu - italy jewelry and fashion accessories ",
+            "international_eu - spain jewelry and fashion accessories "
+        ],
+        "Audiences by Oracle (BlueKai, Datalogix, AddThis)": [
+            "oracle country-specific audiences > france (fr) > hobbies and interests (affinity) > beauty and style > fashion and accessories > jewelry (jewellery) ",
+            "oracle country-specific audiences > germany (de) > hobbies and interests (affinity) > beauty and style > fashion and accessories > jewelry (jewellery) ",
+            "oracle country-specific audiences > italy (it) > hobbies and interests (affinity) > beauty and style > fashion and accessories > jewelry (jewellery) ",
+            "oracle country-specific audiences > spain (es) > hobbies and interests (affinity) > beauty and style > fashion and accessories > jewelry (jewellery) ",
+            "oracle country-specific audiences > france (fr) > retail > in-market > fashion and clothing > accessories > jewelry and watches ",
+            "branded data > nordic data resources > denmark > interests > interested in watches & jewelry (super target) ",
+            "branded data > nordic data resources > denmark > interests > interested in watches & jewelry (power reach) "
+        ],
+        "KBM Group": [
+            "kbm group - germany - panadress consumer data | target groups | consumer preferences | jewellery, clocks and watches"
+        ],
+        "Adsquare (Data Provider)": [
+            "ask.fm > de > iab interests > style & fashion > jewelry lovers ",
+            "ask.fm > it > iab interests > style & fashion > jewelry lovers ",
+            "fidall > fr > jewellery shops customers > histoire d'or ",
+            "fidall > fr > jewellery shops customers > listed brands plus others ",
+            "fidall > fr > associations > jewellery shops customers ",
+            "fidall > fr > jewellery shops customers > narbonne accessoires ",
+            "fidall > fr > jewellery shops customers > poussieres d'etoiles ",
+            "fidall > fr > jewellery shops customers > jean delatour client privilegie ",
+            "fidall > fr > jewellery shops customers > marc orian silver ",
+            "fidall > fr > jewellery shops customers > gemme ",
+            "fidall > fr > jewellery shops customers > or et pierres jaune ",
+            "fidall > fr > jewellery shops customers > eric duny ",
+            "fidall > fr > jewellery shops customers > swarovski crystal society ",
+            "fidall > fr > jewellery shops customers > cleor diamant ",
+            "fidall > fr > jewellery shops customers > eliot ",
+            "fidall > fr > jewellery shops customers > or et pierres rouge ",
+            "fidall > fr > jewellery shops customers > 18k ",
+            "fidall > fr > jewellery shops customers > piery ",
+            "fidall > fr > jewellery shops customers > actu'or ",
+            "fidall > fr > jewellery shops customers > tresor ventes privees ",
+            "fidall > fr > jewellery shops customers > marc orian or ",
+            "fidall > fr > jewellery shops customers > comptoirs de paris ",
+            "fidall > fr > jewellery shops customers > carre d'or carte de fidelite ",
+            "fidall > fr > jewellery shops customers > bijouterie schnellbach ",
+            "fidall > fr > jewellery shops customers > or et pierres bleu ",
+            "fidall > fr > jewellery shops customers > schnellbach ",
+            "gfk > fi > purchasing power for retail product lines > watches and jewelry > 3: high ",
+            "gfk > se > purchasing power for retail product lines > watches and jewelry > 3: high ",
+            "gfk > at > purchasing power for retail product lines > watches and jewelry > 3: high ",
+            "gfk > es > purchasing power for retail product lines > watches, jewelry > 3: high ",
+            "gfk > dk > purchasing power for retail product lines > watches and jewelry > 3: high ",
+            "adsquare data alliance > es > place visits > retail > fashion > jewelry and watches > bijou brigitte ",
+            "adsquare data alliance > fr > interests > style and fashion > jewellery and luxury watch buyers ",
+            "adsquare data alliance > de > interests > style and fashion > jewellery and luxury watch buyers ",
+            "adsquare data alliance > es > interests > style and fashion > jewellery and luxury watch buyers ",
+            "adsquare data alliance > it > interests > style and fashion > jewellery and luxury watch buyers ",
+            "adsquare data alliance > es > place visits > retail > fashion > jewelry and watches > swarovski ",
+            "adsquare data alliance > es > place visits > retail > fashion > jewelry and watches > tous ",
+            "adsquare data alliance > se > interests > shopping > fashion > jewellery and watch buyers ",
+            "adsquare data alliance > be > interests > shopping > fashion > jewellery and watch buyers ",
+            "adsquare data alliance > de > valentines day 2021 audiences > jewelry shoppers "
+        ],
+        "ZeoTap": [
+            "zeotap > italy > purchase intent > jewelry",
+            "zeotap > germany > purchase intent > jewelry/ watches_1",
+            "zeotap > germany > purchase intent > jewelry/ watches"
+        ],
+        "Audiens S.R.L.": [
+            "data owners > ketchup adv > it > intent style & fashion > intent jewelry"
+        ],
+        "Semasio GmbH (Data Provider)": [
+            "semasio - at: classic extended audience - fashion & shopping - interest in jewellery",
+            "semasio - fr: classic extended audience - fashion & shopping - interest in jewellery",
+            "semasio - ch (fr): classic extended audience - fashion & shopping - interest in jewellery",
+            "semasio - de: performance advertising - fashion & shopping - interest in jewellery",
+            "semasio - ch (de): classic extended audience - fashion & shopping - interest in jewellery",
+            "semasio - de: fashion & shopping - interest in jewellery"
+        ],
+        "Nielsen Marketing Cloud": [
+            "exelate germany (de) intent - german retailers - clothing and jewellery",
+            "exelate germany (de) intent - german retailers - clothing and jewellery - bijou brigitte",
+            "exelate germany (de) intent - german retailers - clothing and jewellery - ernsting's family",
+            "exelate germany (de) intent - german retailers - clothing and jewellery - esprit",
+            "exelate germany (de) intent - german retailers - clothing and jewellery - gerry weber",
+            "exelate germany (de) intent - german retailers - clothing and jewellery - s. oliver",
+            "exelate germany (de) intent - german retailers - clothing and jewellery - strenesse",
+            "exelate germany (de) intent - german retailers - clothing and jewellery - ulla popken"
+        ],
+        "Weborama SA (Data Provider)": [
+            "audience 78360, es > jewelry"
+        ],
+        "The ADEX GmbH": [
+            "custom segments > schober b2b mobile data germany - watch and jewellery - 1st and 2nd management level - gps data"
+        ]
+    },
+    "judais": {},
+    "buddhis[tm]": {},
+    "hinduis[tm]": {},
+    "atheis[tm]": {},
+    "spiritual": {
+        "Audiences by Oracle (BlueKai, Datalogix, AddThis)": [
+            "branded data > nordic data resources > denmark > interests > interested in spiritual, religious (super target) "
+        ],
+        "The ADEX GmbH": [
+            "custom segments > adex|germany|gutefrage|interests|religionandspirituality"
+        ],
+        "Signals s.r.l.": [
+            "signals > it > lovers > spiritualit\u00e0"
+        ]
+    },
+    "church": {
+        "Grapeshot": [
+            "xaxisdk_churchill_direct_line_negative_segment ",
+            "xaxisde_neg_churchdwight_corona_2020 ",
+            "xaxisde_neg_churchdwight_2020de_corona "
+        ],
+        "The ADEX GmbH": [
+            "custom segments > schober b2b mobile data germany - churches and religious groups - 1st and 2nd management level - gps data"
+        ]
+    },
+    "mosque": {},
+    "synagog": {},
+    "temple": {
+        "Adsquare (Data Provider)": [
+            "fidall > fr > automotive product customer > le temple automobile "
+        ],
+        "Factual Inc": [
+            "119628a_etx_killeen-temple_express_hr-_harker_heights_tls"
+        ]
+    }
+}

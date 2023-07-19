@@ -207,7 +207,7 @@ personality = [
     r'social',
     r'shopper',
     r'extraver(sion|t)',
-    r'neuroticis(m|t',
+    r'neuroticis(m|t)',
     r'openness',
     r'conscientious(ness)?',
     r'agreeable(ness)?',

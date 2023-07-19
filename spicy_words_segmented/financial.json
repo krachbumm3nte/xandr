@@ -1,0 +1,858 @@
+{
+    "poor": {
+        "Lotame": [
+            "international_eu - france credit level - poor ",
+            "international_eu - germany credit level - poor ",
+            "international_eu - italy credit level - poor ",
+            "international_eu - spain credit level - poor "
+        ],
+        "Adsquare (Data Provider)": [
+            "adsquare data alliance > fr > demographics > income > poor "
+        ],
+        "Digiseg": [
+            "household income > a: poorer\u00a0households - lowest 20% (digiseg is a real-time data provider = no loads displayed but full reach in spain, netherland, sweden, norway, denmark, hungary (es nl se no dk hu) incl. ios safari ctv audio video mobile and display)"
+        ]
+    },
+    "poverty": {
+        "Nielsen Marketing Cloud": [
+            "sharethis - ca, fr, de, uk, au, hk - people & society - social issues & advocacy - poverty & hunger"
+        ]
+    },
+    "struggl(ing|er)": {
+        "Audiences by Oracle (BlueKai, Datalogix, AddThis)": [
+            "branded data > nordic data resources > denmark > mosaic > (g) urban strugglers ",
+            "branded data > nordic data resources > sweden > mosaic > (f) struggling followers ",
+            "branded data > nordic data resources > sweden > mosaic > (j) struggling latecomers ",
+            "branded data > nordic data resources > denmark > online mosaic > (g) urban strugglers ",
+            "branded data > nordic data resources > sweden > online mosaic > (f) struggling followers ",
+            "branded data > nordic data resources > sweden > online mosaic > (j) struggling latecomers "
+        ],
+        "Adsquare (Data Provider)": [
+            "nordic data resources > dk > g urban strugglers > g23 less affluent service workers ",
+            "nordic data resources > dk > g urban strugglers > g24 struggling families ",
+            "nordic data resources > dk > g urban strugglers > g24 struggling families ",
+            "nordic data resources > dk > g urban strugglers > g25 less affluent manual workers ",
+            "nordic data resources > se > f struggling followers > f21 ethnic urban life ",
+            "nordic data resources > se > f struggling followers > f19 bright young things ",
+            "nordic data resources > se > j struggling latecomers > j31 low-key starters ",
+            "nordic data resources > se > j struggling latecomers > j30 lottery ticket and tenement living ",
+            "nordic data resources > se > f struggling followers > f20 multicultural towers "
+        ]
+    },
+    "wealth(y|iest)": {
+        "KBM Group": [
+            "kbm group - france - conexance demographics | lifestyle | promising active youth | wealthy young people living in large cities"
+        ],
+        "Audiences by Oracle (BlueKai, Datalogix, AddThis)": [
+            "branded data > nordic data resources > denmark > power reach > financial services > wealthy ",
+            "branded data > nordic data resources > finland > power reach > financial services > wealthy ",
+            "branded data > nordic data resources > sweden > power reach > financial services > wealthy ",
+            "branded data > conexance > france - conexance demographics > lifestyle > successful mature families > wealthy retirees "
+        ],
+        "Adsquare (Data Provider)": [
+            "nordic data resources > se > a affluent pioneers > a01 scandinavia's wealthiest "
+        ],
+        "ZeoTap": [
+            "zeotap > france > interest > wealthy and rural"
+        ]
+    },
+    "gambl(ing|er)": {
+        "Lotame": [
+            "international_eu - france gambling ",
+            "international_eu - germany gambling ",
+            "international_eu - italy gambling ",
+            "international_eu - spain gambling "
+        ],
+        "Grapeshot": [
+            "mediaiq_gs_french_gambling ",
+            "socreal_gambling_ita ",
+            "suite66_enter_gambling_fr ",
+            "xaxisdk_gambling_predicted ",
+            "unibet_ger_gambling ",
+            "echteliebe_gambling_de ",
+            "groupmnordic_nestle_negative_keywords_gambling_dk ",
+            "datawrkz2_pr_gambling_se ",
+            "mediaiq_neg_tomboladenmarkgamblingaddiction ",
+            "mediaiq_neg_tombolaswedengamblingaddiction "
+        ],
+        "Audiences by Oracle (BlueKai, Datalogix, AddThis)": [
+            "branded data > nordic data resources > sweden > super target > media > tv > games/gambling ",
+            "branded data > nordic data resources > sweden > tv programs > games/gambling (super target) ",
+            "branded data > nordic data resources > sweden > tv programs > games/gambling (power reach) "
+        ],
+        "Peer39": [
+            "peer39: safe from gambling - available in english, spanish, french, german, portuguese, italian, dutch, japanese, chinese",
+            "peer39: custom category>swedish_sportsgamblinggaming",
+            "peer39: custom category>danish_sportsgamblinggaming",
+            "peer39: custom category>romanian_sportsgamblinggaming",
+            "peer39: custom category>greek_sportsgamblinggaming"
+        ],
+        "ZeoTap": [
+            "zeotap > france > interest > gamblers",
+            "zeotap > france > interest > gamblers",
+            "zeotap > france > interest > gamblers"
+        ],
+        "Weborama SA (Data Provider)": [
+            "audience 78409, es > gambling"
+        ],
+        "LiveRamp Data Store": [
+            "bridge > custom segment > france > parions sport en ligne > gambling"
+        ],
+        "Adsquare (Data Provider)": [
+            "startapp_gamblers croatia ",
+            "adsquare data alliance > de > covid-19 audiences (corona pandemic) > covid-19 interests &amp; activities  > gambling & betting enthusiasts ",
+            "start.io > hr > custom > redview media > startapp_gamblers croatia ",
+            "adsquare data alliance > se > place visits > by category > going out-entertainment > gambling-lottery-betting > casino "
+        ],
+        "Nielsen Marketing Cloud": [
+            "exelate interest - gambling - uk - sports betting - european football",
+            "msft - gambling - fr"
+        ],
+        "The ADEX GmbH": [
+            "custom segments > schober mobile data germany - gamblers - gps data"
+        ]
+    },
+    "betting": {
+        "Grapeshot": [
+            "xaxisro_ro_sports_betting ",
+            "tradespottinges_es_sport_bettings ",
+            "tradespottinges_es_sports_bettings ",
+            "unibet_fi_generic_betting ",
+            "mbbmedia_fr_betting_poker_generic ",
+            "mbbmedia_fr_betting_poker_joueurs ",
+            "mbbmedia_fr_betting "
+        ],
+        "ZeoTap": [
+            "zeotap > italy > interest > betting ",
+            "zeotap > italy > interest > betting > casin\u00f2",
+            "zeotap > italy > interest > betting > football/soccer",
+            "zeotap > italy > purchase intent > casino & sports betting",
+            "zeotap > italy > purchase intent > betting > casino",
+            "zeotap > germany > interest > betting apps"
+        ],
+        "Audiens S.R.L.": [
+            "data owners > ketchup adv > it > intent betting > intent betting"
+        ],
+        "LiveRamp Data Store": [
+            "it > zeotap > purchase intent > casino & sports betting",
+            "it > zeotap > custom > sports betting & casino"
+        ],
+        "Nielsen Marketing Cloud": [
+            "exelate interest - gambling - uk - sports betting - european football"
+        ],
+        "Adsquare (Data Provider)": [
+            "adsquare data alliance > de > covid-19 audiences (corona pandemic) > covid-19 interests &amp; activities  > gambling & betting enthusiasts ",
+            "adsquare data alliance > de > interests > sports  > 2018 soccer world cup in russia > world cup sports betting enthusiasts ",
+            "adsquare data alliance > se > place visits > by category > going out-entertainment > gambling-lottery-betting > casino "
+        ]
+    },
+    " credit ?(level|score|crunched)?": {
+        "Lotame": [
+            "international_eu - france credit level - excellent ",
+            "international_eu - france credit level - good ",
+            "international_eu - france credit level - poor ",
+            "international_eu - germany credit level - excellent ",
+            "international_eu - germany credit level - good ",
+            "international_eu - germany credit level - poor ",
+            "international_eu - italy credit level - excellent ",
+            "international_eu - italy credit level - good ",
+            "international_eu - italy credit level - poor ",
+            "international_eu - spain credit level - excellent ",
+            "international_eu - spain credit level - good ",
+            "international_eu - spain credit level - poor "
+        ],
+        "Audiences by Oracle (BlueKai, Datalogix, AddThis)": [
+            "oracle country-specific audiences > france (fr) > financial services > credit cards > account holders > types ",
+            "oracle country-specific audiences > germany > financial services > financial planning > credit reporting ",
+            "oracle country-specific audiences > italy > financial services > financial planning > credit reporting ",
+            "oracle country-specific audiences > spain > financial services > financial planning > credit reporting ",
+            "oracle country-specific audiences > france > financial services > financial planning > credit reporting ",
+            "oracle country-specific audiences > france > financial services > credit cards > holders > brands ",
+            "oracle country-specific audiences > france > b2b > firmographic > industry > financial & insurance services > banking & credit ",
+            "oracle country-specific audiences > germany > b2b > firmographic > industry > financial & insurance services > banking & credit ",
+            "oracle country-specific audiences > italy > b2b > firmographic > industry > financial & insurance services > banking & credit ",
+            "oracle country-specific audiences > spain > b2b > firmographic > industry > financial & insurance services > banking & credit ",
+            "oracle country-specific audiences > france > financial services > credit cards > holders > types > rewards cards ",
+            "oracle country-specific audiences > france > financial services > credit cards > holders > types > prepaid cards ",
+            "oracle country-specific audiences > france > financial services > credit cards > holders > types > premium cards ",
+            "oracle country-specific audiences > france > financial services > credit cards > holders > types > store cards ",
+            "oracle country-specific audiences > france > financial services > credit cards > holders > brands > visa ",
+            "oracle country-specific audiences > france > financial services > credit cards > holders > brands > mastercard ",
+            "oracle country-specific audiences > france > financial services > credit cards > holders > brands > discover ",
+            "oracle country-specific audiences > france > financial services > credit cards > holders > brands > american express ",
+            "branded data > nordic data resources > denmark > super target > loans & pensions > loans & credit ",
+            "branded data > affinity answers > brands > financial services > credit agricole france ",
+            "oracle country-specific audiences > france (fr) > financial services > credit cards ",
+            "oracle country-specific audiences > france (fr) > financial services > credit cards > account holders ",
+            "oracle country-specific audiences > france (fr) > financial services > credit cards > in-market ",
+            "oracle country-specific audiences > france (fr) > financial services > credit cards > interest (affinity) ",
+            "oracle country-specific audiences > germany (de) > financial services > credit cards ",
+            "oracle country-specific audiences > germany (de) > financial services > credit cards > in-market ",
+            "oracle country-specific audiences > germany (de) > financial services > credit cards > interest (affinity) ",
+            "oracle country-specific audiences > italy (it) > financial services > credit cards ",
+            "oracle country-specific audiences > italy (it) > financial services > credit cards > in-market ",
+            "oracle country-specific audiences > italy (it) > financial services > credit cards > interest (affinity) ",
+            "oracle country-specific audiences > spain (es) > financial services > credit cards ",
+            "oracle country-specific audiences > spain (es) > financial services > credit cards > in-market ",
+            "oracle country-specific audiences > spain (es) > financial services > credit cards > interest (affinity) "
+        ],
+        "Oracle Customs (1st, BlueKai, Datalogix, AddThis)": [
+            "italian credit cards intent_finance italy display"
+        ],
+        "Nielsen Marketing Cloud": [
+            "sharethis - ca, fr, de, uk, au, hk - finance - credit & lending - credit cards",
+            "sharethis - ca, fr, de, uk, au, hk - finance - credit & lending - debt management",
+            "sharethis - ca, fr, de, uk, au, hk - finance - credit & lending - loans",
+            "nielsen france - social - finance - credit & lending",
+            "nielsen restaurants - credit card data - carrabbas italian grill",
+            "nielsen restaurants - credit card data - carrabbas italian grill - all credit/debit buyers ",
+            "nielsen restaurants - credit card data - carrabbas italian grill - heavy credit/debit buyer ",
+            "nielsen restaurants - credit card data - carrabbas italian grill - light credit/debit buyer ",
+            "nielsen restaurants - credit card data - carrabbas italian grill - medium credit/debit buyer "
+        ],
+        "KBM Group": [
+            "kbm group - germany - az direct - target groups | finance | target groups with focus on finance | credit card",
+            "kbm group - germany - az direct - target groups | finance | target groups with focus on finance | installment credit",
+            "kbm group - germany - panadress consumer data | target groups | finance | deferred payment credit",
+            "kbm group - germany - panadress consumer data | target groups | finance | housing credits",
+            "kbm group - germany - schober | shopping | credit cards"
+        ],
+        "Adsquare (Data Provider)": [
+            "az direct > de > az target groups > finance > credit card ",
+            "az direct > de > az target groups > finance > installment credit ",
+            "bisnode > se > creditworthy > 3: medium high ",
+            "bisnode > se > creditworthy > 2: medium low ",
+            "bisnode > se > creditworthy > 1: low ",
+            "bisnode > se > creditworthy > 4: high ",
+            "fidall > fr > home furniture buyers > conforama confo+ credit ",
+            "gfk > de > financial market services > installment credit > 3: high ",
+            "adsquare data alliance > de > place visits  > businesses and services > financial > banks & credit unions > bank ",
+            "adsquare data alliance > es > place visits > businesses and services > financial > banks & credit unions > bank ",
+            "adsquare data alliance > es > place visits > businesses and services > financial > banks & credit unions > caja rural de navarra ",
+            "adsquare data alliance > de > place visits  > businesses and services > financial > banks & credit unions > commerzbank ",
+            "adsquare data alliance > de > covid-19 audiences (corona pandemic) > covid-19 personal finance  > credit loan seekers ",
+            "adsquare data alliance > it > place visits > businesses and services > financial > banks & credit unions > fineco ",
+            "adsquare data alliance > it > place visits > businesses and services > financial > banks & credit unions > unicredit banca ",
+            "adsquare data alliance > it > place visits > businesses and services > financial > banks & credit unions > unicredit banca di roma ",
+            "adsquare data alliance > it > place visits > by brand > business and services > banking > bank > banca di credito cooperativo ",
+            "adsquare data alliance > it > place visits > by brand > business and services > banking > bank > bcc credito cooperativo roma ",
+            "adsquare data alliance > it > place visits > by brand > business and services > banking > bank > banca di credito popolare ",
+            "adsquare data alliance > it > place visits > by brand > business and services > banking > bank > credito bergamasco ",
+            "adsquare data alliance > it > place visits > by brand > business and services > banking > bank > credito cooperativo ",
+            "adsquare data alliance > it > place visits > by brand > business and services > banking > bank > credito emiliano ",
+            "adsquare data alliance > it > place visits > by brand > business and services > banking > bank > credito siciliano ",
+            "adsquare data alliance > it > place visits > by brand > business and services > banking > bank > credito valtellinese "
+        ],
+        "ZeoTap": [
+            "zeotap > france > back to school > loans & credits",
+            "zeotap > france > back to school > loans & credits",
+            "zeotap > france > back to school > loans & credits",
+            "zeotap > spain > seasonal > back to school > loans & credits",
+            "zeotap > spain > seasonal > back to school > loans & credits",
+            "zeotap > spain > seasonal > back to school > loans & credits",
+            "zeotap > spain > interest > personal finance > loans & credits"
+        ],
+        "Peer39": [
+            "peer39: custom category>bank of ireland | credit card"
+        ]
+    },
+    "(un)?insured": {},
+    "insurance": {
+        "Lotame": [
+            "international_eu - france auto insurance ",
+            "international_eu - france homeowners insurance ",
+            "international_eu - france life insurance ",
+            "international_eu - germany auto insurance ",
+            "international_eu - germany homeowners insurance ",
+            "international_eu - germany life insurance ",
+            "international_eu - italy auto insurance ",
+            "international_eu - italy homeowners insurance ",
+            "international_eu - italy life insurance ",
+            "international_eu - spain auto insurance ",
+            "international_eu - spain homeowners insurance ",
+            "international_eu - spain life insurance "
+        ],
+        "Grapeshot": [
+            "batanga_btg_health_insurance_es ",
+            "mediaiq_gs_french_insurance ",
+            "xaxisdk_insurance ",
+            "gamned_health_insurance_fr ",
+            "xaxises_finance_insurance ",
+            "yd_adv_ergo_de_insurance ",
+            "mediaiq_sk_insurance ",
+            "weborama_aviva_auto_insurance_fr ",
+            "xaxisro_gs_predicts_insurance ",
+            "xaxisbel_gs_predicts_insurance ",
+            "xaxises_gs_predicts_insurance ",
+            "xaxisde_gs_predicts_insurance ",
+            "xaxisdk_gs_predicts_insurance ",
+            "litereacit_generali_life_insurance_it ",
+            "litereacit_generali_auto_insurance_it ",
+            "xaxisse_manypets_catinsurance ",
+            "xaxisse_manypets_doginsurance ",
+            "xaxisse_manypets_petinsurance ",
+            "xaxisse_neg_manypets_petinsurance ",
+            "xaxisse_pr_manypets_petinsurance ",
+            "xaxisse_pr_manypets_petinsurance_seed "
+        ],
+        "Audiences by Oracle (BlueKai, Datalogix, AddThis)": [
+            "branded data > semasio > germany > intent > insurance ",
+            "oracle country-specific audiences > germany (de) > financial services > insurance > in-market > auto insurance ",
+            "oracle country-specific audiences > germany > financial services > insurance > interest > health insurance ",
+            "oracle country-specific audiences > germany (de) > financial services > insurance > interest (affinity) > home and property insurance ",
+            "oracle country-specific audiences > germany (de) > financial services > insurance > interest (affinity) > life insurance ",
+            "oracle country-specific audiences > germany (de) > financial services > insurance > interest (affinity) > auto insurance ",
+            "oracle country-specific audiences > italy (it) > financial services > insurance > interest (affinity) > life insurance ",
+            "oracle country-specific audiences > italy (it) > financial services > insurance > interest (affinity) > auto insurance ",
+            "oracle country-specific audiences > italy > financial services > insurance > interest > health insurance ",
+            "oracle country-specific audiences > italy (it) > financial services > insurance > interest (affinity) > home and property insurance ",
+            "oracle country-specific audiences > italy (it) > financial services > insurance > in-market > home and property insurance ",
+            "oracle country-specific audiences > spain > financial services > insurance > interest > health insurance ",
+            "oracle country-specific audiences > france (fr) > business (b2b) > firmographic > company industry > financial and insurance services ",
+            "oracle country-specific audiences > germany (de) > business (b2b) > firmographic > company industry > financial and insurance services ",
+            "oracle country-specific audiences > italy (it) > business (b2b) > firmographic > company industry > financial and insurance services ",
+            "oracle country-specific audiences > spain (es) > business (b2b) > firmographic > company industry > financial and insurance services ",
+            "oracle country-specific audiences > france (fr) > financial services > insurance > in-market > auto insurance ",
+            "oracle country-specific audiences > france (fr) > financial services > insurance > interest (affinity) > auto insurance ",
+            "oracle country-specific audiences > france (fr) > financial services > insurance > in-market > home and property insurance ",
+            "oracle country-specific audiences > france (fr) > financial services > insurance > interest (affinity) > home and property insurance ",
+            "oracle country-specific audiences > france > financial services > insurance > interest > health insurance ",
+            "oracle country-specific audiences > france > financial services > insurance > holders ",
+            "oracle country-specific audiences > germany > financial services > insurance > in-market > health insurance ",
+            "oracle country-specific audiences > germany > financial services > insurance > in-market > home & property insurance ",
+            "oracle country-specific audiences > germany > financial services > insurance > in-market > life insurance ",
+            "oracle country-specific audiences > italy > financial services > insurance > in-market > auto insurance ",
+            "oracle country-specific audiences > italy > financial services > insurance > in-market > health insurance ",
+            "oracle country-specific audiences > italy (it) > financial services > insurance > in-market > life insurance ",
+            "oracle country-specific audiences > spain > financial services > insurance > interest > life insurance ",
+            "oracle country-specific audiences > spain > financial services > insurance > in-market > life insurance ",
+            "oracle country-specific audiences > spain > financial services > insurance > in-market > health insurance ",
+            "oracle country-specific audiences > france > financial services > insurance > in-market > health insurance ",
+            "oracle country-specific audiences > france > financial services > insurance > holders > life insurance ",
+            "oracle country-specific audiences > france > financial services > insurance > in-market > life insurance ",
+            "oracle country-specific audiences > france > financial services > insurance > holders > home & property insurance ",
+            "oracle country-specific audiences > france > financial services > insurance > holders > health insurance ",
+            "oracle country-specific audiences > france > financial services > insurance > holders > auto insurance ",
+            "oracle country-specific audiences > france > financial services > insurance > interest > life insurance ",
+            "oracle country-specific audiences > france > b2b > firmographic > industry > financial & insurance services > investment banking ",
+            "oracle country-specific audiences > france > b2b > firmographic > industry > financial & insurance services > securities & commodities brokerage ",
+            "oracle country-specific audiences > france > b2b > firmographic > industry > financial & insurance services > wealth management ",
+            "oracle country-specific audiences > france > b2b > firmographic > industry > financial & insurance services > banking & credit ",
+            "oracle country-specific audiences > france > b2b > firmographic > industry > financial & insurance services > fund management ",
+            "oracle country-specific audiences > france > b2b > firmographic > industry > financial & insurance services > insurance ",
+            "oracle country-specific audiences > germany > b2b > firmographic > industry > financial & insurance services > investment banking ",
+            "oracle country-specific audiences > germany > b2b > firmographic > industry > financial & insurance services > securities & commodities brokerage ",
+            "oracle country-specific audiences > germany > b2b > firmographic > industry > financial & insurance services > wealth management ",
+            "oracle country-specific audiences > germany > b2b > firmographic > industry > financial & insurance services > banking & credit ",
+            "oracle country-specific audiences > germany > b2b > firmographic > industry > financial & insurance services > fund management ",
+            "oracle country-specific audiences > germany > b2b > firmographic > industry > financial & insurance services > insurance ",
+            "oracle country-specific audiences > italy > b2b > firmographic > industry > financial & insurance services > investment banking ",
+            "oracle country-specific audiences > italy > b2b > firmographic > industry > financial & insurance services > securities & commodities brokerage ",
+            "oracle country-specific audiences > italy > b2b > firmographic > industry > financial & insurance services > wealth management ",
+            "oracle country-specific audiences > italy > b2b > firmographic > industry > financial & insurance services > banking & credit ",
+            "oracle country-specific audiences > italy > b2b > firmographic > industry > financial & insurance services > fund management ",
+            "oracle country-specific audiences > italy > b2b > firmographic > industry > financial & insurance services > insurance ",
+            "oracle country-specific audiences > spain > b2b > firmographic > industry > financial & insurance services > investment banking ",
+            "oracle country-specific audiences > spain > b2b > firmographic > industry > financial & insurance services > securities & commodities brokerage ",
+            "oracle country-specific audiences > spain > b2b > firmographic > industry > financial & insurance services > wealth management ",
+            "oracle country-specific audiences > spain > b2b > firmographic > industry > financial & insurance services > banking & credit ",
+            "oracle country-specific audiences > spain > b2b > firmographic > industry > financial & insurance services > fund management ",
+            "oracle country-specific audiences > spain > b2b > firmographic > industry > financial & insurance services > insurance ",
+            "branded data > nordic data resources > germany > financial services > financial products > home buildings/contents insurance (super target) ",
+            "branded data > nordic data resources > sweden > online shopping > insurances (super target) ",
+            "branded data > nordic data resources > denmark > economy > insurance ",
+            "branded data > nordic data resources > denmark > economy > insurance > has an unemployment insurance (super target) ",
+            "branded data > nordic data resources > denmark > economy > insurance > no unemployment insurance (super target) ",
+            "branded data > nordic data resources > denmark > economy > insurance > has a private health insurance (super target) ",
+            "branded data > nordic data resources > denmark > economy > insurance > has an auto help insurence (super target) ",
+            "branded data > nordic data resources > germany > financial services > financial products > motor insurance (super target) ",
+            "branded data > nordic data resources > germany > financial services > financial products > other insurance (super target) ",
+            "branded data > nordic data resources > denmark > economy > insurance > has an auto help insurance (power reach) ",
+            "branded data > nordic data resources > denmark > economy > insurance > has an unemployment insurance (power reach) ",
+            "branded data > nordic data resources > sweden > online shopping > insurances (power reach) ",
+            "oracle country-specific audiences > france (fr) > financial services > insurance ",
+            "oracle country-specific audiences > france (fr) > financial services > insurance > in-market ",
+            "oracle country-specific audiences > france (fr) > financial services > insurance > interest (affinity) ",
+            "oracle country-specific audiences > germany (de) > financial services > insurance ",
+            "oracle country-specific audiences > germany (de) > financial services > insurance > in-market ",
+            "oracle country-specific audiences > germany (de) > financial services > insurance > interest (affinity) ",
+            "oracle country-specific audiences > italy (it) > financial services > insurance ",
+            "oracle country-specific audiences > italy (it) > financial services > insurance > in-market ",
+            "oracle country-specific audiences > italy (it) > financial services > insurance > interest (affinity) ",
+            "oracle country-specific audiences > spain (es) > financial services > insurance ",
+            "oracle country-specific audiences > spain (es) > financial services > insurance > in-market ",
+            "oracle country-specific audiences > spain (es) > financial services > insurance > in-market > auto insurance ",
+            "oracle country-specific audiences > spain (es) > financial services > insurance > in-market > home and property insurance ",
+            "oracle country-specific audiences > spain (es) > financial services > insurance > interest (affinity) ",
+            "oracle country-specific audiences > spain (es) > financial services > insurance > interest (affinity) > auto insurance ",
+            "oracle country-specific audiences > spain (es) > financial services > insurance > interest (affinity) > home and property insurance ",
+            "branded data > sirdata > affinity > bank & insurance > bank > french prelevement a la source "
+        ],
+        "Nielsen Marketing Cloud": [
+            "sharethis - ca, fr, de, uk, au, hk - finance - insurance - health insurance",
+            "sharethis - ca, fr, de, uk, au, hk - finance - insurance - home insurance",
+            "sharethis - ca, fr, de, uk, au, hk - finance - insurance - life insurance",
+            "sharethis - ca, fr, de, uk, au, hk - finance - insurance - vehicle insurance",
+            "semasio - de - intent - insurance ",
+            "nielsen france - social - finance - insurance",
+            "nielsen france - social - finance - insurance - home",
+            "nielsen france - social - finance - insurance - auto",
+            "fifty custom segments - audiences by fifty > allianz car insurance > french motorists - fr"
+        ],
+        "KBM Group": [
+            "kbm group - germany - az direct - target groups | insurance | target groups with focus on insurance | best ager",
+            "kbm group - germany - az direct - target groups | insurance | target groups with focus on insurance | families",
+            "kbm group - germany - az direct - target groups | insurance | target groups with focus on insurance | individualistic about risk-taking",
+            "kbm group - germany - az direct - target groups | insurance | target groups with focus on insurance | job starter",
+            "kbm group - germany - az direct - target groups | insurance | target groups with focus on insurance | social security-oriented people",
+            "kbm group - germany - panadress consumer data | target groups | insurance | automobile insurance",
+            "kbm group - germany - panadress consumer data | target groups | insurance | legal protection insurance",
+            "kbm group - germany - panadress consumer data | target groups | insurance | personal accident insurance",
+            "kbm group - germany - panadress consumer data | target groups | insurance | private health insurance",
+            "kbm group - germany - schober | finance | insurance superconsumer"
+        ],
+        "ZeoTap": [
+            "zeotap > spain > interest > automotive > car insurance (1)",
+            "zeotap > spain > interest > car insurance",
+            "zeotap > spain > interest > car insurance",
+            "zeotap > italy > interest > banking (loans/real estate/bank account/investments/debts/insurance)",
+            "zeotap > italy > interest > banking (loans/real estate/bank account/investments/debts/insurance)",
+            "zeotap > italy > interest > banking (loans/real estate/bank account/investments/debts/insurance)",
+            "zeotap > italy > interest > banking (loans/real estate/bank account/investments/debts/insurance)",
+            "zeotap > italy > interest > banking (loans/real estate/bank account/investments/debts/insurance)",
+            "zeotap > italy > interest > banking (loans/real estate/bank account/investments/debts/insurance)",
+            "zeotap > italy > interest > banking (loans/real estate/bank account/investments/debts/insurance)",
+            "zeotap > italy > interest > banking (loans/real estate/bank account/investments/debts/insurance)",
+            "zeotap > italy > interest > banking (loans/real estate/bank account/investments/debts/insurance)",
+            "zeotap > italy > interest > banking (loans/real estate/bank account/investments/debts/insurance)",
+            "zeotap > italy > interest > banking (loans/real estate/bank account/investments/debts/insurance)",
+            "zeotap > france > back to school > auto insurance",
+            "zeotap > italy > purchase intent > insurance",
+            "zeotap > italy > interest > insurance",
+            "zeotap > spain > interest > automotive > car insurance (2)",
+            "zeotap > italy > purchase intent > finance & investment > banking (real estate/investments/insurance/credits/debts/bank account)",
+            "zeotap > spain > purchase intent > insurance_",
+            "zeotap > france > interest > auto & vehicles > car insurance",
+            "zeotap > spain > purchase intent > personal finance > insurance (publisher) (2)",
+            "zeotap > spain > purchase intent > automotive > car insurance ",
+            "zeotap > spain > custom > sunmedia > automotive > car insurance",
+            "zeotap > spain > custom > sunmedia > purchase intent > automotive > auto insurance",
+            "zeotap > spain > segmento_intent insurance",
+            "zeotap > spain > purchase intent > personal finance > insurance"
+        ],
+        "Adsquare (Data Provider)": [
+            "az direct > de > financial > currentness of the last transaction > insurance > \u22642 years ",
+            "az direct > de > financial > transactional activity > insurance > last 24 months > high ",
+            "az direct > de > financial > transactional activity > insurance > last 12 months > high ",
+            "az direct > de > financial > transactional activity > insurance > last 12 months > no activity ",
+            "az direct > de > financial > transactional activity > insurance > transactions in the last year ",
+            "az direct > de > financial > transactional activity > insurance > last 24 months > low  ",
+            "az direct > de > financial > currentness of the last transaction > insurance > \u22641 year ",
+            "az direct > de > financial > transactional activity > insurance > last 12 months > low  ",
+            "az direct > de > az target groups > insurance > individualistic about risk-taking ",
+            "az direct > de > financial > transactional activity > insurance > transactions older than 2 years ",
+            "az direct > de > az target groups > insurance > best ager ",
+            "az direct > de > az target groups > insurance > social security-oriented people ",
+            "az direct > de > az target groups > insurance > job starter ",
+            "az direct > de > az target groups > insurance > families ",
+            "az direct > de > financial > currentness of the last transaction > insurance > \u22643 years  ",
+            "az direct > de > financial > currentness of the last transaction > insurance > no activity ",
+            "az direct > de > financial > transactional activity > insurance > last 24 months > no activity ",
+            "az direct > de > financial > transactional activity > insurance > transactions in the last two years ",
+            "az direct > de > financial > transactional activity > insurance > without transactions ",
+            "gfk > de > financial market services > private pension insurance > 3: high ",
+            "gfk > de > financial market services > occupational disability insurance > 3: high ",
+            "gfk > de > financial market services > household insurance > 3: high ",
+            "gfk > de > financial market services > private liability insurance > 3: high ",
+            "gfk > de > financial market services > residential building insurance > 3: high ",
+            "gfk > de > financial market services > unit-linked life insurance > 3: high ",
+            "gfk > de > financial market services > private accident insurance > 3: high ",
+            "schober > de > b2c > insurance > additional private health insurance ",
+            "schober > de > b2c > insurance > private health insurance ",
+            "schober > de > b2c > insurance > legal expenses insurance ",
+            "schober > de > b2c > insurance > household and building insurance ",
+            "adsquare data alliance > fr > interests > personal finance > insurance seekers ",
+            "adsquare data alliance > de > interests > personal finance > insurance seekers ",
+            "adsquare data alliance > es > interests > business and finance > insurance seekers ",
+            "adsquare data alliance > de > covid-19 audiences (corona pandemic) > covid-19 personal finance  > insurance seekers ",
+            "adsquare data alliance > it > interests > business and finance > insurance seekers ",
+            "adsquare data alliance > fr > place visits > by brand > business and services > commercial services > finance and insurance > axa ",
+            "adsquare data alliance > fr > place visits > by brand > business and services > commercial services > finance and insurance > allianz ",
+            "adsquare data alliance > de > place visits > by brand > business and services > commercial services > finance and insurance > barmer gek ",
+            "adsquare data alliance > es > place visits > by brand > business and services > commercial services > finance and insurance > caixa catalunya ",
+            "adsquare data alliance > it > place visits > by brand > business and services > commercial services > finance and insurance > generali "
+        ],
+        "The ADEX GmbH": [
+            "custom segments > adex|germany|gutefrage|interests|personalfinance|insurance",
+            "custom segments > schober b2b mobile data germany - banks, insurance companies and financial service providers - 1st and 2nd management level - gps data"
+        ],
+        "Audiens S.R.L.": [
+            "data owners > ketchup adv > it > intent personal finance > intent insurance"
+        ],
+        "Semasio GmbH (Data Provider)": [
+            "semasio - at: classic extended audience - finance - interest in insurance",
+            "semasio - ch (de): classic extended audience - finance - interest in insurance",
+            "semasio - de: performance advertising - finance - interest in insurance",
+            "semasio - de: finance - interest in insurance"
+        ],
+        "Eyeota": [
+            "eyeota - miq - uk kantar tgi - insurance - car insurance provider - lv",
+            "eyeota - uk kantar - insurance - car insurance provider - lv"
+        ],
+        "Weborama SA (Data Provider)": [
+            "audience 78323, es > insurance",
+            "audience 78488, es > insurance churning"
+        ],
+        "Semcasting (Data Provider)": [
+            "root_insurance_-_high_ltp_lal_in-mt_device_cookie",
+            "root_insurance_-_high_ltp_-_in-mt_lookalike_cookie"
+        ]
+    },
+    "shallow ?pocket": {},
+    "urban ?survivor": {},
+    "tight ?money": {},
+    "tough ?times": {},
+    "retir(ement|int|ee)": {
+        "Lotame": [
+            "international_eu - france retirement planning ",
+            "international_eu - germany retirement planning ",
+            "international_eu - italy retirement planning ",
+            "international_eu - spain retirement planning "
+        ],
+        "Grapeshot": [
+            "xaxisbel_gs_retirement_nl ",
+            "xaxisbel_gs_retirement_fr ",
+            "litereacit_generali_retirement_it "
+        ],
+        "Audiences by Oracle (BlueKai, Datalogix, AddThis)": [
+            "oracle country-specific audiences > germany (de) > financial services > investing > interest (affinity) > retirement ",
+            "oracle country-specific audiences > italy (it) > financial services > investing > interest (affinity) > retirement ",
+            "oracle country-specific audiences > france (fr) > financial services > investing > interest (affinity) > retirement ",
+            "oracle country-specific audiences > germany > financial services > investing > in-market > retirement ",
+            "oracle country-specific audiences > italy > financial services > investing > in-market > retirement ",
+            "oracle country-specific audiences > spain > financial services > investing > in-market > retirement ",
+            "oracle country-specific audiences > france > financial services > investing > in-market > retirement ",
+            "oracle country-specific audiences > france (fr) > life stages and events > education and career > retirement ",
+            "oracle country-specific audiences > germany (de) > life stages and events > education and career > retirement ",
+            "oracle country-specific audiences > italy (it) > life stages and events > education and career > retirement ",
+            "oracle country-specific audiences > spain (es) > life stages and events > education and career > retirement ",
+            "branded data > conexance > france - conexance demographics > lifestyle > successful mature families > wealthy retirees ",
+            "oracle country-specific audiences > spain (es) > financial services > investing > interest (affinity) > retirement "
+        ],
+        "Nielsen Marketing Cloud": [
+            "sharethis - ca, fr, de, uk, au, hk - finance - financial planning & management - retirement & pension",
+            "sharethis - ca, fr, de, uk, au, hk - people & society - seniors & retirement",
+            "sharethis - ca, fr, de, uk, au, hk - life event - retirement planning",
+            "nielsen france - social - lifestage - retirement"
+        ],
+        "Adsquare (Data Provider)": [
+            "conexance > fr > households > typology > typology conexance c > g2 fragile seniors retirees over 65 medium-s ",
+            "conexance > fr > households > typology > typology conexance h > h2 quiet singles worker / retirees with mode ",
+            "conexance > fr > households > typology > typology conexance a > a3 older retirees good income ",
+            "conexance > fr > households > typology > typology conexance g > g2 fragile seniors retirees over 65 medium-s ",
+            "nordic data resources > se > i latecomers in flats > i28 golden retirement ",
+            "schober > de > b2c > demography > conservative retiree "
+        ],
+        "Weborama SA (Data Provider)": [
+            "audience 78451, es > retirement period"
+        ]
+    },
+    "royalty": {
+        "Nielsen Marketing Cloud": [
+            "sharethis - ca, fr, de, uk, au, hk - law & government - government - royalty"
+        ]
+    },
+    "diamonds": {
+        "Factual Inc": [
+            "saxons_diamonds_-_bel_air "
+        ]
+    },
+    "pearls": {},
+    "champagne": {
+        "Audiences by Oracle (BlueKai, Datalogix, AddThis)": [
+            "geographic > ip based > country > europe > western europe > france > champagne-ardenne ",
+            "branded data > conexance > france - conexance demographics > demographics > region > champagne-ardenne "
+        ],
+        "ShareThis Inc.": [
+            "sharethis > world localities > europe > western europe > france > east france > champagne-ardenne"
+        ],
+        "Adsquare (Data Provider)": [
+            "gfk > de > purchasing power for retail product lines > champagne > 3: high "
+        ]
+    },
+    "luxury": {
+        "Lotame": [
+            "international_eu - france luxury cars ",
+            "international_eu - france online shoppers luxury ",
+            "international_eu - france shoppers cosmetics luxury ",
+            "international_eu - france shoppers mens clothing luxury ",
+            "international_eu - france shoppers womens clothing luxury ",
+            "international_eu - germany luxury cars ",
+            "international_eu - germany online shoppers luxury ",
+            "international_eu - germany shoppers cosmetics luxury ",
+            "international_eu - germany shoppers mens clothing luxury ",
+            "international_eu - germany shoppers womens clothing luxury ",
+            "international_eu - italy luxury cars ",
+            "international_eu - italy online shoppers luxury ",
+            "international_eu - italy shoppers cosmetics luxury ",
+            "international_eu - italy shoppers mens clothing luxury ",
+            "international_eu - italy shoppers womens clothing luxury ",
+            "international_eu - spain luxury cars ",
+            "international_eu - spain online shoppers luxury ",
+            "international_eu - spain shoppers cosmetics luxury ",
+            "international_eu - spain shoppers mens clothing luxury ",
+            "international_eu - spain shoppers womens clothing luxury ",
+            "lotame > custom > es > luxury wealth audience",
+            "lotame > custom > fr > luxury wealth audience",
+            "lotame > custom > de > luxury wealth audience",
+            "lotame > custom > nl > luxury wealth audience"
+        ],
+        "Grapeshot": [
+            "xaxswitz_vw_tiguan_luxury_fr ",
+            "xaxswitz_vw_tiguan_luxury_de ",
+            "xaxswitz_audi_q2_auto_luxury_de ",
+            "xaxswitz_vw_tiguan_luxury_it ",
+            "xaxisema_luxury_men_french ",
+            "xaxisema_luxury_women_french ",
+            "xaxisema_luxury_watches_french ",
+            "xaxisema_luxury_men_german ",
+            "xaxisema_luxury_women_german ",
+            "xaxisema_luxury_watches_german ",
+            "xaxisema_luxury_men_italian ",
+            "xaxisema_luxury_women_italian ",
+            "xaxisema_luxury_watches_italian ",
+            "xaxisema_luxury_men_spanish ",
+            "xaxisema_luxury_women_spanish ",
+            "xaxisema_luxury_watches_spanish ",
+            "xaxisuk_luxury_men_french ",
+            "xaxisuk_luxury_watches_french ",
+            "xaxisuk_luxury_women_french ",
+            "xaxisuk_luxury_men_german ",
+            "xaxisuk_luxury_watches_german ",
+            "xaxisuk_luxury_women_german ",
+            "xaxisuk_luxury_men_italian ",
+            "xaxisuk_luxury_women_italian ",
+            "xaxisuk_luxury_watches_italian ",
+            "xaxisuk_luxury_men_spanish ",
+            "xaxisuk_luxury_watches_spanish ",
+            "xaxisuk_luxury_women_spanish ",
+            "affiperf_katespade_luxuryfashionfrench ",
+            "unidesq_volvo_luxury_ch-fr ",
+            "unidesq_volvo_luxury_ch-de ",
+            "unidesq_volvo_luxury_ch-it ",
+            "xaxisro_gs_predicts_luxuryautoenthus ",
+            "xaxisbel_gs_predicts_luxuryautoenthus ",
+            "xaxises_gs_predicts_luxuryautoenthus ",
+            "xaxisde_gs_predicts_luxuryautoenthus ",
+            "xaxisdk_gs_predicts_luxuryautoenthus ",
+            "xaxispo_auto_luxury_xaxiscopy ",
+            "airfranc_af_luxury_people_es ",
+            "airfranc_af_luxury_people_fr ",
+            "airfranc_af_luxury_people_de ",
+            "mbbmedia_fr_fashion_luxury ",
+            "xaxispo_luxury_fashion ",
+            "tradespottinges_es_zagaleta_luxury_homes ",
+            "sublimeskinzltd_highspender_luxury_it ",
+            "tradespottinges_es_luxury_realestate ",
+            "xaxswitz_manor_men_30_59_luxury_fashion_it "
+        ],
+        "Audiences by Oracle (BlueKai, Datalogix, AddThis)": [
+            "branded data > experian > auto > purchase predictor > luxury car - european ",
+            "branded data > semasio > denmark > interest > automotive > luxury ",
+            "branded data > semasio > denmark > interest > luxury products ",
+            "branded data > semasio > sweden > interest > automotive > luxury ",
+            "branded data > semasio > sweden > interest > luxury products ",
+            "oracle country-specific audiences > italy (it) > auto, cars and trucks > interest (affinity) > body styles > cars > luxury cars ",
+            "oracle country-specific audiences > france (fr) > auto, cars and trucks > in-market > body styles > cars > luxury cars ",
+            "oracle country-specific audiences > france (fr) > auto, cars and trucks > interest (affinity) > body styles > cars > luxury cars ",
+            "oracle country-specific audiences > germany (de) > auto, cars and trucks > in-market > body styles > cars > luxury cars ",
+            "oracle country-specific audiences > germany (de) > auto, cars and trucks > interest (affinity) > body styles > cars > luxury cars ",
+            "oracle country-specific audiences > italy > autos > in-market > body styles > luxury crossovers ",
+            "oracle country-specific audiences > italy > autos > in-market > body styles > luxury suvs ",
+            "oracle country-specific audiences > spain > autos > in-market > body styles > luxury crossovers ",
+            "oracle country-specific audiences > spain > autos > in-market > body styles > luxury suvs ",
+            "oracle country-specific audiences > france > autos > in-market > body styles > luxury suvs ",
+            "oracle country-specific audiences > france > autos > in-market > body styles > luxury crossovers ",
+            "oracle country-specific audiences > germany > autos > in-market > body styles > luxury suvs ",
+            "oracle country-specific audiences > germany > autos > in-market > body styles > luxury crossovers ",
+            "branded data > nordic data resources > denmark > super target > cars > luxury cars ",
+            "oracle country-specific audiences > france (fr) > hobbies and interests (affinity) > shopping > luxury buyers ",
+            "oracle country-specific audiences > germany (de) > hobbies and interests (affinity) > shopping > luxury buyers ",
+            "oracle country-specific audiences > spain (es) > hobbies and interests (affinity) > shopping > luxury buyers ",
+            "oracle country-specific audiences > france (fr) > retail > shopping styles > type > luxury shoppers ",
+            "oracle country-specific audiences > germany (de) > retail > shopping styles > type > luxury shoppers ",
+            "oracle country-specific audiences > italy (it) > retail > shopping styles > type > luxury shoppers ",
+            "oracle country-specific audiences > spain (es) > retail > shopping styles > type > luxury shoppers ",
+            "branded data > factual - geopulse audiences > france > behavioral - auto > in-market auto intenders - luxury cars ",
+            "branded data > factual - geopulse audiences > germany > behavioral - retail > luxury goods shoppers (affluent consumer) ",
+            "branded data > factual - geopulse audiences > germany > behavioral - auto > in-market auto intenders - luxury cars ",
+            "branded data > factual - geopulse audiences > italy > behavioral - retail > luxury goods shoppers (affluent consumer) ",
+            "branded data > factual - geopulse audiences > spain > behavioral - auto > in-market auto intenders - luxury cars ",
+            "branded data > factual - geopulse audiences > italy > behavioral - auto > in-market auto intenders - luxury cars ",
+            "branded data > factual - geopulse audiences > france > behavioral - retail > luxury goods shoppers (affluent consumer) ",
+            "branded data > factual - geopulse audiences > spain > behavioral - retail > luxury goods shoppers (affluent consumer) ",
+            "branded data > nordic data resources > denmark > shopping > shops luxury products (super target) ",
+            "branded data > nordic data resources > finland > automotive > car segment > f: luxury cars (super target) ",
+            "branded data > nordic data resources > denmark > shopping > shops luxury products (power reach) ",
+            "branded data > nordic data resources > finland > automotive > car segment > f: luxury cars (power reach) ",
+            "oracle country-specific audiences > italy (it) > auto, cars and trucks > in-market > body styles > cars > luxury cars ",
+            "oracle country-specific audiences > spain (es) > auto, cars and trucks > in-market > body styles > cars > luxury cars ",
+            "oracle country-specific audiences > spain (es) > auto, cars and trucks > interest (affinity) > body styles > cars > luxury cars ",
+            "branded data > acquireweb - claritas > auto > auto purchase model > luxury european car "
+        ],
+        "Nielsen Marketing Cloud": [
+            "claritas auto  - midsize luxury/premium sporty car - europe",
+            "claritas auto  - midsize luxury/premium suv - europe",
+            "claritas auto  - small luxury/premium car - europe",
+            "claritas auto  - small luxury/premium suv - europe",
+            "claritas auto  - large luxury/premium car - europe",
+            "claritas auto  - compact luxury/premium suv - europe",
+            "claritas auto  - compact luxury/premium sporty car - europe",
+            "claritas auto  - midsize luxury/premium car - europe",
+            "claritas auto  - large luxury/premium suv - europe",
+            "claritas auto  - compact luxury/premium car - europe",
+            "nielsen uk - fmcg brand product - dairy - yogurt spoonable - fresh, danone oykos luxury greek style yogurt",
+            "sharethis - ca, fr, de, uk, au, hk - shopping - luxury goods",
+            "nielsen auto - intent - by region - europe - compact luxury suv",
+            "nielsen auto - intent - by region - europe - luxury suv",
+            "nielsen france - social - shopping - luxury shopper"
+        ],
+        "ZeoTap": [
+            "zeotap > spain > interest > lifestyle & luxury",
+            "zeotap > france > interest > luxury hotels fr",
+            "zeotap > spain > purchase intent > fashion & beauty > luxury",
+            "zeotap > spain > purchase intent > fashion & beauty > luxury",
+            "zeotap > spain > purchase intent > fashion & beauty > luxury",
+            "zeotap > italy > purchase intent > fashion & beauty > luxury",
+            "zeotap > spain > interest > fashion & beauty > luxury",
+            "zeotap > germany > interest > fashion & beauty > luxury",
+            "zeotap > france > interest > fashion & beauty > luxury",
+            "zeotap > spain > interest > fashion & beauty > luxury",
+            "zeotap > germany > interest > fashion & beauty > luxury",
+            "zeotap > france > interest > fashion & beauty > luxury",
+            "zeotap > spain > interest > fashion & beauty > luxury",
+            "zeotap > germany > interest > fashion & beauty > luxury",
+            "zeotap > france > interest > fashion & beauty > luxury",
+            "zeotap > spain > purchase intent > fashion & beauty > luxury",
+            "zeotap > spain > interest > fashion & beauty > luxury",
+            "zeotap > germany > interest > fashion & beauty > luxury",
+            "zeotap > france > interest > fashion & beauty > luxury",
+            "zeotap > spain > purchase intent > fashion & beauty > luxury",
+            "zeotap > spain > interest > fashion & beauty > luxury",
+            "zeotap > france > interest > fashion & beauty > luxury",
+            "zeotap > spain > purchase intent > fashion & beauty > luxury",
+            "zeotap > spain > interest > fashion & beauty > luxury",
+            "zeotap > france > interest > fashion & beauty > luxury",
+            "zeotap > spain > purchase intent > fashion & beauty > luxury",
+            "zeotap > spain > interest > fashion & beauty > luxury",
+            "zeotap > france > interest > fashion & beauty > luxury",
+            "zeotap > spain > interest > fashion & beauty > luxury",
+            "zeotap > france > interest > fashion & beauty > luxury",
+            "zeotap > spain > interest > fashion & beauty > luxury",
+            "zeotap > france > interest > fashion & beauty > luxury",
+            "zeotap > spain > interest > fashion & beauty > luxury",
+            "zeotap > france > interest > fashion & beauty > luxury",
+            "zeotap > france > interest > fashion & beauty > luxury",
+            "zeotap > france > interest > fashion & beauty > luxury",
+            "zeotap > france > purchase intent > fashion & beauty > luxury",
+            "zeotap > germany > purchase intent > fashion & beauty > luxury",
+            "zeotap > germany > purchase intent > shopping > luxury items",
+            "zeotap > italy > purchase intent > luxury furnishing",
+            "zeotap > italy > purchase intent > winter sales > luxury fashion",
+            "zeotap > france > interest > beauty & fashion > luxury",
+            "zeotap > spain > interest > automotive > luxury cars",
+            "zeotap > italy > interest > luxury",
+            "zeotap > germany > purchase intent > automotive > luxury cars",
+            "zeotap > germany > men, age 25-49 > interest luxury fashion",
+            "zeotap > germany > women, age 25-49 > interest luxury fashion",
+            "zeotap > germany > purchase intent > men's luxury fashion",
+            "zeotap > germany > purchase intent > women's luxury fashion",
+            "zeotap > spain > automotive > luxury cars",
+            "zeotap > spain > purchase intent > shopping > luxury items",
+            "zeotap > spain > purchase intent > automotive > luxury",
+            "zeotap > spain > interest > luxury sports",
+            "zeotap > spain > purchase intent > fashion & beauty > luxury ",
+            "zeotap > austria > purchase intent > fashion & beauty > luxury",
+            "zeotap > spain > interest > luxury (publisher) (1)",
+            "zeotap > spain > purchase intent > automotive > luxury (publisher) (2)",
+            "zeotap > germany > purchase intent > high-end and luxury home items",
+            "zeotap > spain > purchase intent > fashion & beauty > luxury (2)",
+            "zeotap > spain > purchase intent > automotive > luxury (2)",
+            "zeotap > spain > custom > sunmedia > automotive > luxury cars",
+            "zeotap > spain > custom > sunmedia > purchase intent > automotive > luxury",
+            "zeotap > spain > custom > xaxis > purchase intent > automotive > cars luxury",
+            "zeotap > spain > purchase intent > home & garden > luxury technology",
+            "zeotap > spain > automotive > luxury cars (2)",
+            "zeotap > spain > purchase intent > home & garden > luxury technology (1)",
+            "zeotap > spain > custom > irobot > spain > luxury wealth (interest & intent data)",
+            "zeotap > france > custom > irobot > france > luxury wealth (interest & intent data)",
+            "zeotap > germany > custom > irobot > germany > luxury wealth (interest & intent data)",
+            "zeotap > spain > custom > xaxis > purchase intent > home & garden > luxury technology",
+            "zeotap > italy > purchase intent > fashion & beauty > men's luxury fashion",
+            "zeotap > spain > interest > lifestyle & luxury (1)",
+            "zeotap > spain > interest > lifestyle & luxury (2)",
+            "zeotap > spain > interest & demographics > luxury (3)"
+        ],
+        "Adsquare (Data Provider)": [
+            "fidall > fr > car rental customers > gentleman luxury car ",
+            "schober > de > b2c > demography > luxury ",
+            "mobilewalla > de > automotive > luxury vehicle owners ",
+            "france_luxuryshoppers ",
+            "irobot - luxury wealth -  spain ",
+            "irobot - luxury wealth - france ",
+            "irobot - luxury wealth - germany ",
+            "irobot - luxury wealth -  netherlands ",
+            "adsquare data alliance > de > black friday 2020 audiences > black friday 2020 - luxury shoppers ",
+            "adsquare data alliance > fr > black friday 2020 audiences > black friday 2020 - luxury shoppers ",
+            "adsquare data alliance > it > black friday 2020 audiences > black friday 2020 - luxury shoppers ",
+            "adsquare data alliance > es > black friday 2020 audiences > black friday 2020 - luxury shoppers ",
+            "adsquare data alliance > fr > interests > style and fashion > jewellery and luxury watch buyers ",
+            "adsquare data alliance > de > interests > style and fashion > jewellery and luxury watch buyers ",
+            "adsquare data alliance > es > interests > style and fashion > jewellery and luxury watch buyers ",
+            "adsquare data alliance > it > interests > style and fashion > jewellery and luxury watch buyers ",
+            "adsquare data alliance > fr > interests > style and fashion > luxury shoppers ",
+            "adsquare data alliance > de > interests > style and fashion > luxury shoppers ",
+            "adsquare data alliance > es > interests > style and fashion > luxury shoppers ",
+            "adsquare data alliance > it > interests > style and fashion > luxury shoppers "
+        ],
+        "Oracle Customs (1st, BlueKai, Datalogix, AddThis)": [
+            "experian > xaxis > auto > purchase predictor > luxury car - european_experian > xaxis > auto > purchase predictor > luxury car - european",
+            "experian > xaxis > auto > purchase predictor > luxury car - european_experian > xaxis > auto > purchase predictor > luxury car - european"
+        ],
+        "LiveRamp Data Store": [
+            "claritas > auto > prospective european large luxury or premium suv buyer",
+            "claritas > auto > prospective european large luxury or premium buyer",
+            "claritas > auto > prospective european midsize luxury or premium car buyer",
+            "claritas > auto > prospective european compact luxury or premium car buyer",
+            "claritas > auto > prospective european compact luxury or premium suv buyer",
+            "claritas > auto > prospective small european luxury or premium car buyer",
+            "claritas > auto > prospective european midsize luxury or premium suv buyer",
+            "claritas > auto > prospective european compact luxury sporty car buyer",
+            "claritas > auto > prospective european small luxury or premium suv buyer",
+            "claritas > auto > prospective european midsize luxury or premium sporty car buyer"
+        ],
+        "Eyeota": [
+            "eyeota - us experian - reach - propensity models - auto - luxury car - european"
+        ],
+        "Semasio GmbH (Data Provider)": [
+            "semasio - at: classic extended audience - automotive - interest in luxury cars & collectors",
+            "semasio - fr: classic extended audience - automotive - interest in luxury cars & collectors",
+            "semasio - ch (de): classic extended audience - automotive - interest in luxury cars & collectors",
+            "semasio - ch (fr): classic extended audience - automotive - interest in luxury cars & collectors",
+            "semasio - de: performance advertising - automotive - interest in luxury cars & collectors",
+            "semasio - de: automotive - interest in luxury cars & collectors"
+        ],
+        "Weborama SA (Data Provider)": [
+            "audience 78492, es > luxury",
+            "audience 78520, es > sport & luxury cars"
+        ],
+        "Xandr": [
+            "xandr audiences - interest - luxury car - european - low",
+            "xandr audiences - interest - luxury car - european - high",
+            "xandr audiences - interest - luxury car - european - medium"
+        ],
+        "The ADEX GmbH": [
+            "custom segments > schober b2b mobile data germany - food, luxury food and beverages - 1st and 2nd management level - gps data"
+        ]
+    }
+}

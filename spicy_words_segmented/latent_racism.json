@@ -1,0 +1,406 @@
+{
+    "ethnic": {
+        "Epsilon Data Management, LLC.": [
+            "epsilon: demographics > ethnicity > eastern european",
+            "epsilon: demographics > ethnicity > western european",
+            "demographics > ethnicity > western european",
+            "demographics > ethnicity > eastern european"
+        ],
+        "LiveRamp Data Store": [
+            "datastream group>ethnic code>danish",
+            "stirista > voter > ethnicity > polish",
+            "webbula > demographic > individual > ethnicity code > czech",
+            "stirista > voter > ethnicity > slovenian",
+            "datastream group>ethnic group>eastern european",
+            "e-tech > ethnicity > finnish",
+            "webbula > demographic > individual > ethnicity code > slovakian",
+            "e-tech > ethnicity > latvian",
+            "stirista > voter > ethnicity > danish",
+            "infogroup > b2c > demographics > ethnicity > western european -- co-op sourced",
+            "sms > ethnic > slovenian",
+            "e-tech > ethnicity > austrian",
+            "webbula > demographic > individual > ethnicity code > polish",
+            "webbula > demographic > individual > ethnicity code > irish",
+            "webbula > demographic > individual > ethnicity code > italian",
+            "e-tech > ethnic group > western european",
+            "infogroup > b2c > demographics > ethnicity > central european -- co-op sourced",
+            "datastream group>ethnic code>italian",
+            "e-tech > ethnic group > eastern european",
+            "take 5 media > parent ethnicity > western european",
+            "take 5 media > ethnicity > western european",
+            "webbula > demographic > individual > ethnicity code > hungarian",
+            "sms > ethnic > romanian",
+            "e-tech > ethnicity > portuguese",
+            "sms > ethnic > luxembourgian",
+            "stirista > voter > ethnicity > french",
+            "webbula > demographic > individual > ethnicity code > lithuanian",
+            "stirista > voter > ethnicity > maltese",
+            "e-tech > ethnicity > danish",
+            "sms > ethnic > croatian",
+            "webbula > demographic > individual > ethnicity code > greek",
+            "webbula > demographic > individual > ethnicity code > belgian",
+            "sms > ethnic minority group > western european",
+            "datastream group>ethnic group>western european",
+            "webbula > demographic > individual > ethnicity code > finnish",
+            "stirista > voter > ethnicity > romanian",
+            "datastream group>ethnic code>austrian",
+            "sms > ethnic > swedish",
+            "e-tech > ethnicity > estonian",
+            "sms > ethnic > austrian",
+            "stirista > voter > ethnicity > dutch ",
+            "e-tech > ethnicity > swedish",
+            "e-tech > ethnicity > polish",
+            "e-tech > ethnicity > german",
+            "sms > ethnic > greek",
+            "stirista > voter > ethnicity > luxembourgian",
+            "stirista > voter > ethnicity > swedish",
+            "take 5 media > parent ethnicity > eastern european",
+            "webbula > demographic > individual > ethnicity code > danish",
+            "datastream group>ethnic code>bulgarian",
+            "stirista > voter > ethnicity > belgian",
+            "sms > ethnic > finnish",
+            "sms_new mover > ethnic_minority_group > eastern europe",
+            "e-tech > ethnicity > belgian",
+            "stirista > voter > ethnicity > greek",
+            "stirista > voter > ethnicity > hungarian",
+            "sms > ethnic > danish",
+            "stirista > voter > ethnicity > austrian",
+            "webbula > demographic > individual > ethnicity code > luxembourgian",
+            "datastream group>ethnic code>czech",
+            "sms > ethnic minority group > eastern european",
+            "webbula > demographic > individual > ethnicity group > western european",
+            "datastream group>ethnic code>maltese",
+            "webbula > demographic > individual > ethnicity code > portuguese",
+            "sms > ethnic > maltese",
+            "e-tech > ethnicity > hungarian",
+            "infogroup > b2b > demographics > ethnicity > western european",
+            "sms > ethnic > estonian",
+            "webbula > demographic > individual > ethnicity code > croatian",
+            "sms > ethnic > polish",
+            "sms_new mover > ethnic_minority_group > western europe",
+            "sms > ethnic > portuguese",
+            "take 5 media > ethnicity > eastern european",
+            "webbula > demographic > individual > ethnicity code > romanian",
+            "sms > ethnic > slovakian",
+            "webbula > demographic > individual > ethnicity code > french",
+            "webbula > demographic > individual > ethnicity code > slovenian",
+            "e-tech > ethnicity > dutch",
+            "datastream group>ethnic code>estonian",
+            "sms > ethnic > dutch",
+            "infogroup > b2c > demographics > ethnicity > eastern european",
+            "infogroup > b2c > demographics > ethnicity > northern european -- co-op sourced",
+            "datastream group>ethnic code>greek",
+            "sms > ethnic > italian",
+            "webbula > demographic > individual > ethnicity code > maltese",
+            "datastream group>ethnic code>romanian",
+            "infogroup > b2c > demographics > ethnicity > southern european -- co-op sourced",
+            "sms > ethnic > belgian",
+            "stirista > voter > ethnicity > latvian",
+            "stirista > voter > ethnicity > lithuanian",
+            "sms > ethnic > french",
+            "e-tech > ethnicity > romanian",
+            "datastream group>ethnic code>irish",
+            "datastream group>ethnic code>hungarian",
+            "stirista > voter > ethnicity > czech",
+            "stirista > voter > ethnicity > bulgarian",
+            "sms > ethnic > irish",
+            "datastream group>ethnic code>finnish",
+            "datastream group>ethnic code>french",
+            "l2 voter data > individual demographics > ethnicity > ethnic description > maltese",
+            "datastream group>ethnic code>slovakian",
+            "e-tech > demographic > ethnicity > french",
+            "datastream group>ethnic code>slovenian",
+            "stirista > voter > ethnicity > croatian",
+            "e-tech > demographic > ethnicity > italian",
+            "stirista > voter > ethnicity > finnish",
+            "webbula > demographic > individual > ethnicity code > dutch",
+            "datastream group>ethnic code>polish",
+            "datastream group>ethnic code>croatian",
+            "datastream group>ethnic code>dutch",
+            "e-tech > demographic > ethnicity > slovenian",
+            "e-tech > demographic > ethnicity > greek",
+            "e-tech > demographic > ethnicity > slovak",
+            "e-tech > demographic > ethnicity > czech",
+            "datastream group>ethnic code>portuguese",
+            "webbula > demographic > individual > ethnicity code > estonian",
+            "stirista > voter > ethnicity > irish",
+            "datastream group>ethnic code>latvian",
+            "webbula > demographic > individual > ethnicity code > austrian",
+            "webbula > demographic > individual > ethnicity code > swedish",
+            "stirista > voter > ethnicity > portuguese",
+            "webbula > demographic > individual > ethnicity code > latvian",
+            "stirista > voter > ethnicity > estonian",
+            "infogroup > consumer > us politics > demographics > ethnic origin > austrian",
+            "infogroup > consumer > us politics > demographics > ethnic origin > french",
+            "infogroup > consumer > us politics > demographics > ethnic origin > czech",
+            "infogroup > consumer > us politics > demographics > ethnic origin > german",
+            "infogroup > consumer > us politics > demographics > ethnic origin > irish",
+            "infogroup > consumer > us politics > demographics > ethnic origin > polish",
+            "infogroup > consumer > us politics > demographics > ethnic origin > dutch",
+            "infogroup > consumer > us politics > demographics > ethnic origin > hungarian",
+            "infogroup > consumer > us politics > demographics > ethnic origin > greek",
+            "infogroup > consumer > us politics > demographics > ethnic origin > italian",
+            "infogroup > consumer > us politics > demographics > ethnic origin > swedish",
+            "lbdigital > household demos > ethnicity > german",
+            "lbdigital > household demos > ethnicity  > french",
+            "lbdigital > household demos > ethnicity > italian",
+            "lbdigital > household demos > ethnicity > southern european",
+            "lbdigital > household demos > ethnicity > northern european",
+            "lbdigital > household demos > ethnicity > scottish / irish",
+            "l2 voter data > individual demographics > ethnicity > ethnicgroups ethnicgroup1desc > european",
+            "l2 voter data > individual demographics > ethnicity > ethnic description > austrian",
+            "l2 voter data > individual demographics > ethnicity > ethnic description > swedish",
+            "l2 voter data > individual demographics > ethnicity > ethnic description > luxembourgian",
+            "l2 voter data > individual demographics > ethnicity > ethnic description > slovenian",
+            "l2 voter data > individual demographics > ethnicity > ethnic description > irish",
+            "l2 voter data > individual demographics > ethnicity > ethnic description > finnish",
+            "l2 voter data > individual demographics > ethnicity > ethnic description > dutch ",
+            "l2 voter data > individual demographics > ethnicity > ethnic description > slovakian",
+            "l2 voter data > individual demographics > ethnicity > ethnic description > croatian",
+            "l2 voter data > individual demographics > ethnicity > ethnic description > danish",
+            "l2 voter data > individual demographics > ethnicity > ethnic description > italian",
+            "l2 voter data > individual demographics > ethnicity > ethnic description > czech",
+            "l2 voter data > individual demographics > ethnicity > ethnic description > belgian",
+            "l2 voter data > individual demographics > ethnicity > ethnic description > hungarian",
+            "l2 voter data > individual demographics > ethnicity > ethnic description > romanian",
+            "l2 voter data > individual demographics > ethnicity > ethnic description > french",
+            "l2 voter data > individual demographics > ethnicity > ethnic description > lithuanian",
+            "l2 voter data > individual demographics > ethnicity > ethnic description > estonian",
+            "l2 voter data > individual demographics > ethnicity > ethnic description > greek",
+            "l2 voter data > individual demographics > ethnicity > ethnic description > portuguese",
+            "l2 voter data > individual demographics > ethnicity > ethnic description > latvian",
+            "l2 voter data > individual demographics > ethnicity > ethnic description > polish",
+            "l2 voter data > individual demographics > ethnicity > ethnic description > bulgarian",
+            "l2 voter data > individual demographics > ethnicity > ethnic description > german",
+            "experian (xaxis) > ethnic insight > ethnic group > western european",
+            "experian (xaxis) > ethnic insight > ethnic group > eastern european",
+            "experian (xaxis) > ethnic insight > country of origin > spain"
+        ],
+        "Nielsen Marketing Cloud": [
+            "infogroup media solutions - b2c - consumer xchg - demographic - ethnicity - european - western ",
+            "infogroup media solutions - b2c - consumer xchg - demographic - ethnicity - european - eastern ",
+            "infogroup media solutions - b2c - consumer xchg - demographic - ethnicity - european - central ",
+            "infogroup media solutions - b2c - consumer xchg - demographic - ethnicity - european - south ",
+            "infogroup media solutions - b2c - consumer xchg - demographic - ethnicity - european - northern "
+        ],
+        "Bombora Inc.": [
+            "b2c > ethnicity > european"
+        ],
+        "Adsquare (Data Provider)": [
+            "nordic data resources > se > f struggling followers > f21 ethnic urban life "
+        ],
+        "Tru Optik (CTV)": [
+            "truoptik>webbula>demographics>ethnic group > eastern european",
+            "truoptik>webbula>demographics>ethnic group > western european",
+            "truoptik>webbula>demographics>ethnicity > austrian",
+            "truoptik>webbula>demographics>ethnicity > belgian",
+            "truoptik>webbula>demographics>ethnicity > bulgarian",
+            "truoptik>webbula>demographics>ethnicity > croatian",
+            "truoptik>webbula>demographics>ethnicity > czech",
+            "truoptik>webbula>demographics>ethnicity > danish",
+            "truoptik>webbula>demographics>ethnicity > dutch",
+            "truoptik>webbula>demographics>ethnicity > estonian",
+            "truoptik>webbula>demographics>ethnicity > finnish",
+            "truoptik>webbula>demographics>ethnicity > french",
+            "truoptik>webbula>demographics>ethnicity > german",
+            "truoptik>webbula>demographics>ethnicity > greek",
+            "truoptik>webbula>demographics>ethnicity > hungarian",
+            "truoptik>webbula>demographics>ethnicity > irish",
+            "truoptik>webbula>demographics>ethnicity > italian",
+            "truoptik>webbula>demographics>ethnicity > latvian",
+            "truoptik>webbula>demographics>ethnicity > lithuanian",
+            "truoptik>webbula>demographics>ethnicity > luxembourgian",
+            "truoptik>webbula>demographics>ethnicity > maltese",
+            "truoptik>webbula>demographics>ethnicity > polish",
+            "truoptik>webbula>demographics>ethnicity > portuguese",
+            "truoptik>webbula>demographics>ethnicity > romanian",
+            "truoptik>webbula>demographics>ethnicity > slovakian",
+            "truoptik>webbula>demographics>ethnicity > slovenian",
+            "truoptik>webbula>demographics>ethnicity > swedish"
+        ],
+        "Eyeota": [
+            "eyeota - us experian - reach - sociodemographic - ethnic group - european",
+            "eyeota - us experian - ethnic insight - ethnic group - western european",
+            "eyeota - us experian - ethnic insight - country of origin - spain",
+            "eyeota - us experian - ethnic insight - ethnic group - eastern european"
+        ],
+        "Oracle Customs (1st, BlueKai, Datalogix, AddThis)": [
+            "experian > xaxis > ethnic insight > ethnic group > eastern european_experian > xaxis > ethnic insight > ethnic group > eastern european",
+            "experian > xaxis > ethnic insight > ethnic group > eastern european_experian > xaxis > ethnic insight > ethnic group > eastern european",
+            "experian > xaxis > ethnic insight > ethnic group > western european_experian > xaxis > ethnic insight > ethnic group > western european",
+            "experian > xaxis > ethnic insight > ethnic group > western european_experian > xaxis > ethnic insight > ethnic group > western european"
+        ],
+        "Skydeo, Inc.": [
+            "skydeo > demographics > ethnic > belgian",
+            "skydeo > demographics > ethnic > swedish",
+            "skydeo > demographics > ethnic > romanian",
+            "skydeo > demographics > ethnic > slovakian",
+            "skydeo > demographics > ethnic > portuguese",
+            "skydeo > demographics > ethnic > italian",
+            "skydeo > demographics > ethnic > dutch",
+            "skydeo > demographics > ethnic > danish",
+            "skydeo > demographics > ethnic > finnish",
+            "skydeo > demographics > ethnic > hungarian",
+            "skydeo > demographics > ethnic > maltese",
+            "skydeo > demographics > ethnic > french",
+            "skydeo > demographics > ethnic > luxembourgian",
+            "skydeo > demographics > ethnic > polish",
+            "skydeo > demographics > ethnic > estonian",
+            "skydeo > demographics > ethnic > slovenian",
+            "skydeo > demographics > ethnic > greek",
+            "skydeo > demographics > ethnic > lithuanian",
+            "skydeo > demographics > ethnic > irish",
+            "skydeo > demographics > ethnic > german",
+            "skydeo > demographics > ethnic > austrian",
+            "skydeo > demographics > ethnic > bulgarian",
+            "skydeo > demographics > ethnic > croatian",
+            "skydeo > demographics > ethnic > czech",
+            "skydeo > demographics > ethnic > western european",
+            "skydeo > demographics > ethnic > eastern european"
+        ]
+    },
+    "migra(nt|ted|tion)": {
+        "Grapeshot": [
+            "revomsg_nclr_immigration_esp ",
+            "xaxisema_adobe_cloud_migration_kwlist_de ",
+            "xaxisema_adobe_migration_q4_german "
+        ],
+        "Nielsen Marketing Cloud": [
+            "sharethis - ca, fr, de, uk, au, hk - law & government - government - visa & immigration",
+            "sharethis - ca, fr, de, uk, au, hk - people & society - social issues & advocacy - immigration policy & border issues"
+        ],
+        "KBM Group": [
+            "kbm group - germany - schober | demographics | migrant background | migrant background"
+        ],
+        "Adsquare (Data Provider)": [
+            "bisnode > se > inmigration > 2: medium low ",
+            "bisnode > se > inmigration > 1: low ",
+            "bisnode > se > inmigration > 3: medium high ",
+            "bisnode > se > inmigration > 4: high "
+        ]
+    },
+    "minorit(y|ies)": {
+        "Audiences by Oracle (BlueKai, Datalogix, AddThis)": [
+            "oracle country-specific audiences > france > b2b > firmographic > business type > minority owned ",
+            "oracle country-specific audiences > germany > b2b > firmographic > business type > minority owned ",
+            "oracle country-specific audiences > italy > b2b > firmographic > business type > minority owned ",
+            "oracle country-specific audiences > spain > b2b > firmographic > business type > minority owned "
+        ],
+        "LiveRamp Data Store": [
+            "sms > ethnic minority group > western european",
+            "sms_new mover > ethnic_minority_group > eastern europe",
+            "sms > ethnic minority group > eastern european",
+            "sms_new mover > ethnic_minority_group > western europe"
+        ]
+    },
+    "multicultural": {
+        "Audiences by Oracle (BlueKai, Datalogix, AddThis)": [
+            "branded data > nordic data resources > sweden > mosaic > (g) multicultural followers ",
+            "branded data > nordic data resources > denmark > online mosaic > new 2017 mosaic > (i) multicultural city blocks ",
+            "branded data > nordic data resources > sweden > online mosaic > (g) multicultural followers "
+        ],
+        "KBM Group": [
+            "kbm group - germany - microm data | microm typology  - neighbourhood types | group d: inner-city problem areas | multicultural inner city areas"
+        ],
+        "Adsquare (Data Provider)": [
+            "nordic data resources > se > g multicultural followers > g23 multicultural families ",
+            "nordic data resources > se > g multicultural followers > g22 lower-income essentials ",
+            "nordic data resources > se > f struggling followers > f20 multicultural towers "
+        ]
+    },
+    "caucasian": {},
+    "african": {
+        "Adsquare (Data Provider)": [
+            "fidall > fr > airlines frequent flyers > south african airways "
+        ]
+    },
+    "hispanic": {},
+    "latin(o|a)": {
+        "ShareThis Inc.": [
+            "sharethis > world localities > europe > central & eastern europe > germany > rhineland-palatinate"
+        ],
+        "Grapeshot": [
+            "mbbmedia_fr_music_latino "
+        ],
+        "Adsquare (Data Provider)": [
+            "fidall > fr > airlines frequent flyers > aeromexico club premier platino level ",
+            "fidall > fr > airlines frequent flyers > aerolineas argentinas platino "
+        ]
+    },
+    "arabic": {
+        "ZeoTap": [
+            "zeotap > italy > interest > arabic "
+        ],
+        "Grapeshot": [
+            "mbbmedia_fr_music_arabic "
+        ]
+    },
+    "middle ?east": {},
+    "asian": {
+        "Adsquare (Data Provider)": [
+            "az direct > de > automotive > car ownership > by manufacturer > asian manufacturers > low share ",
+            "az direct > de > automotive > car ownership > by manufacturer > asian manufacturers > very high share ",
+            "az direct > de > automotive > car ownership > by manufacturer > asian manufacturers > medium share ",
+            "az direct > de > automotive > car ownership > by manufacturer > asian manufacturers > high share ",
+            "az direct > de > automotive > car ownership > by manufacturer > asian manufacturers > no cars of asian manufacturers ",
+            "az direct > de > automotive > car ownership > by manufacturer > asian manufacturers > very low share ",
+            "fidall > fr > airlines frequent flyers > asiana airlines club platinum ",
+            "fidall > fr > airlines frequent flyers > asiana airlines club diamond ",
+            "fidall > fr > airlines frequent flyers > asiana airlines club gold ",
+            "fidall > fr > airlines frequent flyers > asiana airlines club silver ",
+            "fidall > fr > airlines frequent flyers > asiana airlines club diamond plus "
+        ],
+        "Grapeshot": [
+            "mbbmedia_fr_music_asianpop ",
+            "mbbmedia_fr_music_pop_asian ",
+            "mbbmedia_fr_cinema_action_asian_films "
+        ]
+    },
+    "african ?american": {},
+    "indian": {},
+    "pacific ?islander": {},
+    "white": {
+        "Grapeshot": [
+            "xaxisro_colgate_teeth_whitening_ro ",
+            "mediaiq_new_belgium_white_kws ",
+            "xaxisdk_whiteaway-generisk-sem ",
+            "xaxisdk_whiteaway-generisk-sem-no ",
+            "xaxisdk_whiteaway-generisk-sem-se ",
+            "ultrahungary_signal_whitening ",
+            "xaxisdk_whiteaway_se_27-11-2019_gs ",
+            "xaxisdk_whiteaway_no_27-11-2019_gs ",
+            "xaxisdk_whiteaway_dk_27-11-2019_gs ",
+            "xaxaustria_innocentsmothieplusolvwhitelist ",
+            "xaxisdk_whiteaway_cookieless_gs "
+        ],
+        "Audiences by Oracle (BlueKai, Datalogix, AddThis)": [
+            "branded data > semasio > germany > interest > white goods ",
+            "oracle country-specific audiences > france (fr) > hobbies and interests (affinity) > home and garden > appliances (white goods) ",
+            "oracle country-specific audiences > germany (de) > hobbies and interests (affinity) > home and garden > appliances (white goods) ",
+            "oracle country-specific audiences > italy (it) > hobbies and interests (affinity) > home and garden > appliances (white goods) ",
+            "oracle country-specific audiences > spain (es) > hobbies and interests (affinity) > home and garden > appliances (white goods) ",
+            "oracle country-specific audiences > france (fr) > retail > in-market > home and garden > interior > appliances (white goods) ",
+            "oracle country-specific audiences > italy (it) > retail > in-market > home and garden > interior > appliances (white goods) ",
+            "oracle country-specific audiences > italy (it) > retail > purchase-based > categories > home and garden buyers > interior > appliances (white goods) ",
+            "oracle country-specific audiences > germany (de) > retail > in-market > home and garden > interior > appliances (white goods) ",
+            "oracle country-specific audiences > spain (es) > retail > in-market > home and garden > interior > appliances (white goods) ",
+            "oracle country-specific audiences > spain (es) > retail > purchase-based > categories > home and garden buyers > interior > appliances (white goods) "
+        ],
+        "Adsquare (Data Provider)": [
+            "fidall > fr > beauty products buyers > sephora white ",
+            "nordic data resources > fi > c responsibility with wealth > c10 established white-collars "
+        ],
+        "Nielsen Marketing Cloud": [
+            "nielsen ca - fmcg category - health, beauty & baby - toothpaste, polish & whiteners - all buyers toothpaste, polish & whiteners",
+            "nielsen ca - fmcg category - health, beauty & baby - toothpaste, polish & whiteners - heavy buyers toothpaste, polish & whiteners",
+            "nielsen ca - fmcg category - health, beauty & baby - toothpaste, polish & whiteners - light buyers toothpaste, polish & whiteners",
+            "nielsen ca - fmcg category - health, beauty & baby - toothpaste, polish & whiteners - medium buyers toothpaste, polish & whiteners"
+        ],
+        "digitalAudience": [
+            "gh-nl_gps_xandr_da_specific_demographic_zzp-white-collar_plain",
+            "gh-nl_gps_xandr_da_specific_demographic_zzp-white-collar_rich",
+            "gh-nl_gps_xandr_da_specific_demographic_zzp-white-collar_video"
+        ]
+    },
+    " native": {}
+}
