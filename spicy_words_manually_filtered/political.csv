@@ -1,0 +1,93 @@
+,id,hit,name,countries
+186,8267534,advoca(cy|te),"sharethis - ca, fr, de, uk, au, hk - people & society - social issues & advocacy - charity & philanthropy","['germany', 'france']"
+187,8267535,advoca(cy|te),"sharethis - ca, fr, de, uk, au, hk - people & society - social issues & advocacy - discrimination & identity relations","['germany', 'france']"
+188,8267536,advoca(cy|te),"sharethis - ca, fr, de, uk, au, hk - people & society - social issues & advocacy - drug laws & policy","['germany', 'france']"
+189,8267537,advoca(cy|te),"sharethis - ca, fr, de, uk, au, hk - people & society - social issues & advocacy - ethics","['germany', 'france']"
+190,8267538,advoca(cy|te),"sharethis - ca, fr, de, uk, au, hk - people & society - social issues & advocacy - green living & environmental issues","['germany', 'france']"
+191,8267539,advoca(cy|te),"sharethis - ca, fr, de, uk, au, hk - people & society - social issues & advocacy - housing & development","['germany', 'france']"
+192,8267540,advoca(cy|te),"sharethis - ca, fr, de, uk, au, hk - people & society - social issues & advocacy - human rights & liberties","['germany', 'france']"
+193,8267541,advoca(cy|te),"sharethis - ca, fr, de, uk, au, hk - people & society - social issues & advocacy - immigration policy & border issues","['germany', 'france']"
+194,8267542,advoca(cy|te),"sharethis - ca, fr, de, uk, au, hk - people & society - social issues & advocacy - poverty & hunger","['germany', 'france']"
+195,8267543,advoca(cy|te),"sharethis - ca, fr, de, uk, au, hk - people & society - social issues & advocacy - privacy issues","['germany', 'france']"
+430,18060829,animal ?rights,eyeota - se ndr - 11 interests kantar sifo - interested in: animal rights,['sweden']
+319,13715500,conservative,bisnode > se > persona > conservative ,['sweden']
+353,3577258,conservative,eyeota - de experian - sociodemographic - consumer typology - conservative values,['germany']
+561,22180669,conservative,eyeota - es experian - sociodemographic - automotive segmentation - tv1 - conservatives high status,['spain']
+556,21779780,conservative,eyeota - miq - de experian - sociodemographic - consumer typology - conservative values,['germany']
+246,11053918,conservative,kbm group - germany - microm data | microm cars and mobility | car owner typology | conservative lower middle-class driver,['germany']
+247,11053934,conservative,kbm group - germany - microm data | microm geo milieus | established conservative milieu,['germany']
+321,13724596,conservative,schober > de > b2c > demography > conservative retiree ,['germany']
+325,13724911,conservative,schober > de > b2c > fundraising > conservative values ,['germany']
+528,21273629,corona,affectv_neg_corona_death_dell_de ,['germany']
+527,21273571,corona,affectv_neg_corona_death_dell_fr ,['france']
+517,21220995,covid,xaxisfi_neg_covid19death ,['finland']
+518,21220997,covid,xaxisfi_neg_covid19death_en ,['finland']
+519,21221012,covid,xaxisfi_neg_covid19death_fi ,['finland']
+68,7579337,diesel(affae?re|gate),xaxisbel_dieselgate ,['belgium']
+64,7577118,diesel(affae?re|gate),xaxisbel_gs_auto_dieselgate_dutch ,"['belgium', 'netherlands']"
+66,7577145,diesel(affae?re|gate),xaxisbel_gs_auto_dieselgate_fr ,"['belgium', 'france']"
+65,7577143,diesel(affae?re|gate),xaxisbel_gs_auto_dieselgate_nl ,"['belgium', 'netherlands']"
+552,21764050,diesel(affae?re|gate),xaxisde2_neg_dieselaffaere ,['germany']
+245,11275974,diesel(affae?re|gate),xaxisde_dieselgate_toyota ,['germany']
+67,7578585,diesel(affae?re|gate),xaxisit_fca_dieselgate_negative_gen17 ,['italy']
+440,14760010,environment(al)?,acxiom germany > consuming & lifestyle > charity cause > 06: environment,['germany']
+558,21670329,environment(al)?,"audience 78507, es > social & environmental sustainability",['spain']
+334,15101508,environment(al)?,branded data > nordic data resources > sweden > interests > environmental care (power reach) ,['sweden']
+234,11153779,environment(al)?,branded data > nordic data resources > sweden > interests > environmental care (super target) ,['sweden']
+122,8013152,environment(al)?,branded data > nordic data resources > sweden > super target > interests > environmental care ,['sweden']
+3,4072934,environment(al)?,international_eu - france environmentalism ,['france']
+6,4074081,environment(al)?,international_eu - germany environmentalism ,['germany']
+9,4075097,environment(al)?,international_eu - italy environmentalism ,['italy']
+12,4070328,environment(al)?,international_eu - spain environmentalism ,['spain']
+121,8013151,equality,branded data > nordic data resources > sweden > super target > interests > equality ,['sweden']
+428,18059898,equality,eyeota - dk ndr - 08 kantar-gallup interests - interested in: equality,['denmark']
+25,3438433,equality,xaxisema_diesel_gender_equality_english ,['europe']
+26,3438610,equality,xaxisema_diesel_gender_equality_french ,"['france', 'europe']"
+27,3438611,equality,xaxisema_diesel_gender_equality_german ,"['germany', 'europe']"
+28,3438601,equality,xaxisema_diesel_gender_equality_italian ,"['italy', 'europe']"
+55,7040935,global ?warming,xaxisema_global_warming ,['europe']
+57,7041374,global ?warming,xaxisema_global_warming_de ,"['germany', 'europe']"
+248,11053958,liberal,kbm group - germany - microm data | microm geo milieus | liberal intellectual milieu,['germany']
+4,4072930,military,international_eu - france military ,['france']
+7,4074072,military,international_eu - germany military ,['germany']
+10,4075091,military,international_eu - italy military ,['italy']
+13,4070322,military,international_eu - spain military ,['spain']
+113,7868436,military,oracle country-specific audiences > france > b2b > firmographic > industry > government > military ,['france']
+115,7868466,military,oracle country-specific audiences > germany > b2b > firmographic > industry > government > military ,['germany']
+117,7868518,military,oracle country-specific audiences > italy > b2b > firmographic > industry > government > military ,['italy']
+119,7868663,military,oracle country-specific audiences > spain > b2b > firmographic > industry > government > military ,['spain']
+578,23446686,military,"peer39: negative>death, injury or military conflict - formerly death, war - available in english, spanish, french, german, portuguese, italian, dutch, japanese, chinese","['germany', 'spain', 'france', 'italy', 'netherlands', 'portugal']"
+627,23810883,military,"peer39: safe from death, injury or military conflict - available in english, spanish, french, german, portuguese, italian, dutch, japanese, chinese","['germany', 'spain', 'france', 'italy', 'netherlands', 'portugal']"
+20,4246862,newspaper,mediaiq_miq_de_bild_newspaper ,['germany']
+426,18059896,politic,eyeota - dk ndr - 08 kantar-gallup interests - interested in: economy-politics and society,['denmark']
+429,18059918,politic,eyeota - dk ndr - 08 kantar-gallup interests - interested in: politics,['denmark']
+432,18060864,politic,eyeota - se ndr - 11 interests kantar sifo - interested in: politics,['sweden']
+24,4528452,politic,gs_politics_bulgarian ,['bulgaria']
+17,1424909,politic,gs_politics_czech ,['czechia']
+15,973683,politic,gs_politics_danish ,['denmark']
+162,709785,politic,gs_politics_dutch ,['netherlands']
+23,3376532,politic,gs_politics_finnish ,['finland']
+163,709793,politic,gs_politics_french ,['france']
+164,709787,politic,gs_politics_german ,['germany']
+58,5831034,politic,gs_politics_greek ,['greece']
+54,5831033,politic,gs_politics_hungarian ,['hungary']
+165,709794,politic,gs_politics_italian ,['italy']
+166,1966935,politic,gs_politics_polish ,['poland']
+14,992676,politic,gs_politics_portuguese ,['portugal']
+16,1424911,politic,gs_politics_romanian ,['romania']
+22,3148591,politic,gs_politics_slovakian ,['slovakia']
+167,709789,politic,gs_politics_spanish ,['spain']
+21,2425137,politic,gs_politics_swedish ,['sweden']
+375,12609827,politic,xaxisit_safe_from_mps_politica_italiana ,['italy']
+327,14199335,politic,xchnglab_politics_neg_fr ,['france']
+172,8267459,terror,"sharethis - ca, fr, de, uk, au, hk - law & government - government - intelligence & counterterrorism","['germany', 'france']"
+47,4975872,terror,tradelab_peugeot_terrorism_belgium ,['belgium']
+328,14236754,terror,xaxisde_redbull_keywords_terror ,['germany']
+56,5955530,terror,xaxisema_emea_xerox_fr_terrorismattack ,"['france', 'europe']"
+85,8698793,terror,xaxisema_mands_terror_exclude_may17 ,['europe']
+84,8156802,terror,xaxisit_allclients_terror ,['italy']
+81,8147692,terror,xaxisit_versace_terrorism_es ,"['spain', 'italy']"
+78,8147653,terror,xaxisit_versace_terrorism_fr ,"['france', 'italy']"
+80,8147690,terror,xaxisit_versace_terrorism_ge ,['italy']
+77,8147651,terror,xaxisit_versace_terrorism_it ,['italy']
+79,8147658,terror,xaxisit_versace_terrorism_uk ,['italy']
