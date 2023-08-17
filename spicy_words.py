@@ -1,5 +1,5 @@
-sex = [
-    r'sex',
+sexuality = [
+    r' sex',
     r'gender',
     r'promiscu(ous|ity)',
     r' porn ',
@@ -13,7 +13,6 @@ sex = [
     r'penis',
     r'vagina',
     r'intimate',
-
     r'okcupid',
     r'grindr',
     r'lgbt',
@@ -23,6 +22,15 @@ sex = [
     r'trans(gender|sexual)',
     r'queer',
     r'non ?binary',
+    r'hetero',
+    r'attracted',
+    r'fuck',
+    r'phil[ei]',
+    r'identity',
+    r'divers[ei]',
+    r'abstinen',
+    r' ?pride ',
+    r'consent',
 ]
 
 financial = [
@@ -39,15 +47,16 @@ financial = [
     r'urban ?survivor',
     r'tight ?money',
     r'tough ?times',
-    r'retir(ement|int|ee)',
-    r'royalty',
+    r'retir(ement|ing|ed|ee)',
     r'diamonds',
     r'pearls',
     r'champagne',
     r'luxury',
+    r'income',
+    r'affluent',
 ]
 
-latent_racism = [
+race = [
     r'ethnic',
     r'migra(nt|ted|tion)',
     r'minorit(y|ies)',
@@ -64,6 +73,11 @@ latent_racism = [
     r'pacific ?islander',
     r'white',
     r' native',
+    r'foreign',
+    r'rac(e|ism)',
+    r'refuge',
+    r'inclusion',
+
 ]
 
 religion = [
@@ -84,6 +98,23 @@ religion = [
     r'mosque',
     r'synagog',
     r'temple',
+    r'kippa',
+    r'shabbat',
+    r'hijab',
+    r'niqab',
+    r'burqa',
+    r'chador',
+    r'belie[fv]',
+    r'orientation',
+    r'worship',
+    r'communion',
+    r'bibl(e|icial)',
+    r'ramadan',
+    r'hajj',
+    r' eid ',
+    r'sh?abbath?',
+    r'kosher',
+
 ]
 
 health = [
@@ -110,6 +141,10 @@ health = [
     r'prostate',
     r'assault',
     r'violence',
+    r' chronic ',
+    r'insulin',
+    r'hypertension',
+    r'dysfunction',
 
 
     r'obes(e|ity)',  # Obesity/heart
@@ -121,9 +156,7 @@ health = [
     r'stroke',
     r'coronary',
     r'artery',
-    r' dvt ',
     r'thrombo',
-
 
 
     r'alzheimer',  # Neurodegenerative
@@ -189,6 +222,9 @@ health = [
     r'panic',
     r'insomnia',
     r'sleep disorder',
+    r'neurodiver',
+
+
 ]
 
 personality = [
@@ -218,8 +254,10 @@ personality = [
     r'dealing ?with ?stress',
     r'romantic',
     r'divorce',
+    r'widow',
+    r'convict',
+    r' weak(ness| )',
 ]
-
 
 political = [
     r'unionized',
@@ -228,7 +266,7 @@ political = [
 
     r'advoca(cy|te)',  # advocacy
     r'support(er)?',
-    r' vot(er|ed|ing) ',
+    r'vot(er|ed|ing)',
     r'newspaper',
     r'subscri(ber|ption)',
 
@@ -272,73 +310,30 @@ political = [
     r'covid',
     r'corona',
     r'diesel(affae?re|gate)',
-]
-
-late_comers = [
-    r'child(ren)?',
-    r' kid\'?s? ',
-    r'widow',
-    r' minors? ',
-    r'under ?(1[3-8]|age)',
-    r'kippa',
-    r'shabbat',
-    r'hijab',
-    r'niqab',
-    r'burqa',
-    r'chador',
-    r'belie[fv]',
-    r'orientation',
-    r'convict',
-    r' neg ',
-    r'(positive|negative)',
-    r' weak(ness| )',
-    r'human ?rights',
-    
-]
-
-late_comers_v2 = [
-    r'income',
-    r'affluent',
-    r' m[ou]ms? ',
-    r'mother',
-    r'father',
-    r' dads? ',
-    r'hetero',
-    r'attracted',
-    r'fuck',
-    r'abstinen',
-    r'phil[ei]',
-    r'identity',
-    r'divers[ei]',
-    r' ?pride ',
-    r'consent',
-    r'worker[s\' ]*rights',
-    r'(labou?r|trade) ?union',
-    r'labou?r',
-    r' wages? ',
-    r'foreign',
-    r'rac(e|ism)',
-    r'refuge',
-    r'inclusion',
-    r'neurodiver',
-    r' chronic ',
-    r'insulin',
-    r'hypertension',
-    r'dysfunction',
-    r'worship',
-    r'communion',
-    r'bibl(e|icial)',
-    r'ramadan',
-    r'hajj',
-    r' eid ',
-    r'sh?abbath?',
-    r'kosher',
     r'justice',
     r'law ?and ?order',
     r'tradition',
     r'demograph',
     r'cannabis',
     r'gun ?(control|right)',
-    r'hijab',
+    r'human ?rights',
+
+
+    r'worker[s\' ]*rights',  # Union support
+    r'(labou?r|trade) ?union',
+    r'labou?r',
+    r' wages? ',
+
+]
+
+children = [
+    r'child(ren)?',
+    r' kid\'?s? ',
+    r' minors? ',
+    r'under ?(1[3-8]|age)',
+    r' m[ou]ms? ',
+    r'mother',
+    r'father',
+    r' dads? ',
 
 ]
