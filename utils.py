@@ -1,24 +1,28 @@
-import requests
-from bs4 import BeautifulSoup
-import pandas as pd
 import re
-import json
-import numpy as np
 from unidecode import unidecode
 
-
+# all of these characters have been found to separate words. In regEx searches, this set replaces space characters 
 word_separator = r"[\ \-–_\|\,]{1,4}"
 
 
 def list_to_regex(lst):
+    """Convert a list of strings into a regEx that matches either of the strings. All space characters
+    are replaced by a list of possible word-separators.
+
+    Arguments:
+        lst -- list of raw-formatted strings
+
+    Returns:
+        compiled regular expression
+    """
     lst = [el.replace(" ", word_separator) for el in lst]
-    return re.compile("|".join(lst))
+    return re.compile("|".join(lst), re.IGNORECASE)
 
 
 separator_hierarchy = [
-    re.compile(r">|:+| \- | – |\[|\]|\(|\)|\||\,"),  # > : :: - – _ | ( ) [ ]
-    re.compile(r"_|-|–|/"),
-    # r" ", # <space> kind of debatable if this should be included or not... i'm gonna go with no.
+    re.compile(r">|:+| \- | – |\_|\[|\]|\(|\)|\||\,"),  # > : :: - – _ ( ) [ ] | ,
+    re.compile(r"/|–|\-"), # / - – only use this, if all others fail. It otherwise causes quite a few false positive splits.
+    # r" ", # <space> kind of debatable if this should be used as a last resort... i'm gonna go with no.
 ]
 
 useless_segments_re = list_to_regex([r"\[null\]",               # [null]
@@ -29,26 +33,15 @@ useless_segments_re = list_to_regex([r"\[null\]",               # [null]
                                      r"automation\d{5,10}"])    # don't know what it is but it's useless
 
 
-def jsondump(df, name):
-    with open(name, "w") as f:
-        json.dump(df, indent=4)
-
-
-def scrape_table(url, index=0):
-    response = requests.get(url)
-    soup = BeautifulSoup(response.text, 'html.parser')
-    table = soup.find_all('table')[index]
-    df = pd.read_html(str(table))
-    df = pd.DataFrame(df[0])
-    return df
-
-
-def df_apply_function(df: pd.DataFrame, colname: str, func):
-    # Applies a function to a given column of the dataframe
-    df[colname] = df.apply(lambda x: func(x[colname]), axis=1)
-
-
 def clean_segment_name(name: str):
+    """Cleans a string, i.e. strips spaces and quotation marks, replaces non-unicode characters and converts to lowercase.
+
+    Arguments:
+        name -- unformatted segment name
+
+    Returns:
+        cleaned segment name
+    """
     name = str(name).strip().lower()
 
     # sometimes segment names are enquoted...
@@ -59,6 +52,14 @@ def clean_segment_name(name: str):
 
 
 def itemize_segment_name(name: str):
+    """Splits a string along a set of possible separators, and cleans up the resulting list
+
+    Arguments:
+        name -- segment name to be itemized
+
+    Returns:
+        list of strings
+    """
     for sep_re in separator_hierarchy:
         items = re.split(sep_re, name)
 
@@ -69,17 +70,3 @@ def itemize_segment_name(name: str):
     items = list(filter(None, items))  # remove empty entries
 
     return items
-
-
-def get_eu_names():
-    eu_countries = scrape_table(
-        "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:Country_codes").values
-    eu_countries = np.vstack(
-        [eu_countries[:, 0:2], eu_countries[:, 2:4], eu_countries[:, 4:6], eu_countries[:-1, 6:8]])
-    eu_countries[:, 0] = [countryname.strip().lower()
-                          for countryname in eu_countries[:, 0]]  # format all the names
-    # remove parentheses from abbreviations
-    eu_countries[:, 1] = [countrycode[1:3]
-                          for countrycode in eu_countries[:, 1]]
-    eu_countries = np.vstack([eu_countries, ["europe", "eu"]])
-    return eu_countries
