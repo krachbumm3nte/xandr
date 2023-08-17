@@ -334,6 +334,5 @@ children = [
     r' m[ou]ms? ',
     r'mother',
     r'father',
-    r' dads? ',
-
+    r' dads? '
 ]
