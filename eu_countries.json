@@ -1,6 +1,7 @@
 [
     {
         "name": "belgium",
+        "name_de": "Belgien",
         "strings": [
             "belgium",
             "belgian",
@@ -17,6 +18,7 @@
     },
     {
         "name": "bulgaria",
+        "name_de": "Bulgarien",
         "strings": [
             "bulgaria",
             "bulgarian",
@@ -30,6 +32,7 @@
     },
     {
         "name": "czechia",
+        "name_de": "Tschechische Republik",
         "strings": [
             "czechia",
             "czech",
@@ -46,6 +49,7 @@
     },
     {
         "name": "denmark",
+        "name_de": "D\u00e4nemark",
         "strings": [
             "denmark",
             "danish",
@@ -62,6 +66,7 @@
     },
     {
         "name": "germany",
+        "name_de": "Deutschland",
         "strings": [
             "germany",
             "german",
@@ -80,6 +85,7 @@
     },
     {
         "name": "estonia",
+        "name_de": "Estland",
         "strings": [
             "estonia",
             "estonian",
@@ -93,6 +99,7 @@
     },
     {
         "name": "ireland",
+        "name_de": "Irland",
         "strings": [
             "ireland",
             "irish"
@@ -105,6 +112,7 @@
     },
     {
         "name": "greece",
+        "name_de": "Griechenland",
         "strings": [
             "greece",
             "greek"
@@ -117,6 +125,7 @@
     },
     {
         "name": "spain",
+        "name_de": "Spanien",
         "strings": [
             "spain",
             "spanish"
@@ -133,6 +142,7 @@
     },
     {
         "name": "france",
+        "name_de": "Frankreich",
         "strings": [
             "france",
             "french",
@@ -151,6 +161,7 @@
     },
     {
         "name": "croatia",
+        "name_de": "Kroatien",
         "strings": [
             "croatia",
             "croatian"
@@ -163,6 +174,7 @@
     },
     {
         "name": "italy",
+        "name_de": "Italien",
         "strings": [
             "italy",
             "italian"
@@ -178,6 +190,7 @@
     },
     {
         "name": "cyprus",
+        "name_de": "Zypern",
         "strings": [
             "cyprus",
             "cypriot"
@@ -190,6 +203,7 @@
     },
     {
         "name": "latvia",
+        "name_de": "Lettland",
         "strings": [
             "latvia",
             "latvian"
@@ -202,6 +216,7 @@
     },
     {
         "name": "lithuania",
+        "name_de": "Litauen",
         "strings": [
             "lithuania",
             "lithuanian"
@@ -214,6 +229,7 @@
     },
     {
         "name": "luxembourg",
+        "name_de": "Luxemburg",
         "strings": [
             "luxembourg",
             "luxembourgian"
@@ -226,6 +242,7 @@
     },
     {
         "name": "hungary",
+        "name_de": "Ungarn",
         "strings": [
             "hungary",
             "hungarian"
@@ -241,6 +258,7 @@
     },
     {
         "name": "malta",
+        "name_de": "Malta",
         "strings": [
             "malta",
             "maltese"
@@ -253,6 +271,7 @@
     },
     {
         "name": "netherlands",
+        "name_de": "Niederlande",
         "strings": [
             "netherland",
             "dutch"
@@ -268,6 +287,7 @@
     },
     {
         "name": "austria",
+        "name_de": "\u00d6sterreich",
         "strings": [
             "austria",
             "austrian",
@@ -283,6 +303,7 @@
     },
     {
         "name": "poland",
+        "name_de": "Polen",
         "strings": [
             "poland",
             "polish"
@@ -297,6 +318,7 @@
     },
     {
         "name": "portugal",
+        "name_de": "Portugal",
         "strings": [
             "portugal",
             "portuguese"
@@ -311,6 +333,7 @@
     },
     {
         "name": "romania",
+        "name_de": "Rum\u00e4nien",
         "strings": [
             "romania",
             "romanian"
@@ -325,6 +348,7 @@
     },
     {
         "name": "slovenia",
+        "name_de": "Slovenien",
         "strings": [
             "slovenia",
             "slovenian"
@@ -337,6 +361,7 @@
     },
     {
         "name": "slovakia",
+        "name_de": "Slovakei",
         "strings": [
             "slovakia",
             "slovak"
@@ -349,6 +374,7 @@
     },
     {
         "name": "finland",
+        "name_de": "Finnland",
         "strings": [
             "finland",
             "finnish"
@@ -364,6 +390,7 @@
     },
     {
         "name": "sweden",
+        "name_de": "Schweden",
         "strings": [
             "sweden",
             "swedish"
@@ -380,6 +407,7 @@
     },
     {
         "name": "europe",
+        "name_de": "Europa",
         "strings": [
             "europe",
             "european"
