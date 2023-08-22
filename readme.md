@@ -65,7 +65,7 @@ In [03_find_spicy_segments.ipynb](03_find_spicy_segments.ipynb) the EU-dataset i
 
 
 ### 3.1. Manual filtering
-At this point, we had found a lot of segments that likely reference the EU, all of which contain a string that indicates that they might relate to personal charecteristics or even sensitive data. 
+At this point, we had found a lot of segments that likely reference the EU, all of which contain a string that indicates that they might relate to the categories we previously defined. 
 
 
 The number of false-positives was expectedly quite large, so we had to manually sift through the segments. Each segment has been vetted by two people. We dropped segments where we felt that the local relation was too ambiguous. Judging how personal the data behind a segment is, naturally is much more nuanced work. We chose not to include many of the edge-cases where the intention behind a segment was difficult to estimate. The fruits of our labor are found in [filtered_eu_segments_master.csv](filtered_eu_segments_master.csv).
@@ -75,9 +75,11 @@ Furthermore, we selected some some illustrative segments - the filet - which are
 
 ## 4. Post-processing and visualization
 
-Finally, we performed some minor post-processing for better readability and created files that could be directly uploaded to DataWrapper. This process is documented in [04_post_process_hand_filtered_dataset.ipynb](04_post_process_hand_filtered_dataset.ipynb).
+Finally, we performed some minor post-processing for better readability and created files that could be directly uploaded to DataWrapper. This process is documented in [04_post_process_hand_filtered_dataset.ipynb](04_post_process_hand_filtered_dataset.ipynb). This script also creates three folders in which the segments are structured into inidivual files by [broker](eu_segments_by_broker), by [category](eu_segments_by_category) and by [country](eu_segments_by_country).
 
 
+
+For the interpretation, analysis and limitations of our research, please refer to the article on netzpolitik.org
 
 
 # Credits
@@ -89,6 +91,3 @@ Johannes Gille and Sebastian Meineck for [netzpolitik.org](netzpolitik.org), Aug
 # License
 
 This project is released under the GPLv3 License.
-
-
-
