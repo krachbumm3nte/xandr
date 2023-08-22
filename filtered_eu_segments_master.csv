@@ -1,10 +1,10 @@
 id,category,country,name,hit
-13723689,Gesundheitsdaten,austria,gfk > at > purchasing power for retail product lines > alcoholic beverages > 3: high,alcohol
-13723906,Gesundheitsdaten,denmark,gfk > dk > purchasing power for retail product lines > alcoholic beverages > 3: high,alcohol
-13722605,Gesundheitsdaten,finland,gfk > fi > purchasing power for retail product lines > alcoholic beverages > 3: high,alcohol
-13723298,Gesundheitsdaten,germany,gfk > de > purchasing power for retail product lines > other alcoholic beverages > 3: high,alcohol
-13723775,Gesundheitsdaten,spain,gfk > es > purchasing power for retail product lines > alcoholic beverages > 3: high,alcohol
-13723510,Gesundheitsdaten,sweden,gfk > se > purchasing power for retail product lines > alcoholic beverages > 3: high,alcohol
+13723689,Gesundheit,austria,gfk > at > purchasing power for retail product lines > alcoholic beverages > 3: high,alcohol
+13723906,Gesundheit,denmark,gfk > dk > purchasing power for retail product lines > alcoholic beverages > 3: high,alcohol
+13722605,Gesundheit,finland,gfk > fi > purchasing power for retail product lines > alcoholic beverages > 3: high,alcohol
+13723298,Gesundheit,germany,gfk > de > purchasing power for retail product lines > other alcoholic beverages > 3: high,alcohol
+13723775,Gesundheit,spain,gfk > es > purchasing power for retail product lines > alcoholic beverages > 3: high,alcohol
+13723510,Gesundheit,sweden,gfk > se > purchasing power for retail product lines > alcoholic beverages > 3: high,alcohol
 4072934,politische Meinungen,france,international_eu - france environmentalism,(?!environ)mental
 4074081,politische Meinungen,germany,international_eu - germany environmentalism,(?!environ)mental
 4075097,politische Meinungen,italy,international_eu - italy environmentalism,(?!environ)mental
@@ -998,83 +998,83 @@ id,category,country,name,hit
 13724233,Finanzstatus,sweden,nordic data resources > se > j struggling latecomers > j30 lottery ticket and tenement living,struggl(ing|er)
 13724232,Finanzstatus,sweden,nordic data resources > se > j struggling latecomers > j31 low-key starters,struggl(ing|er)
 13724230,Finanzstatus,sweden,nordic data resources > se > m restrained traditionals > m37 low spending elders,tradition
-13723667,Gesundheitsdaten,austria,gfk > at > purchasing power for retail product lines > tobacco products > 3: high,tobacco
-15281638,Gesundheitsdaten,belgium,xaxisbel_gs_predicts_quitsmoking,smok(ing|er)
-15101157,Gesundheitsdaten,denmark,branded data > nordic data resources > denmark > interests > interested in weightloss (power reach),(over)?weight( loss)?
-11155830,Gesundheitsdaten,denmark,branded data > nordic data resources > denmark > interests > interested in weightloss (super target),(over)?weight( loss)?
-13723914,Gesundheitsdaten,denmark,gfk > dk > purchasing power for retail product lines > tobacco products > 3: high,tobacco
-14658679,Gesundheitsdaten,denmark,groupmnordic_nestle_negative_keywords_baby_infants_pregnancy_dk,pregnan(t|cy)
-14658346,Gesundheitsdaten,denmark,groupmnordic_nestle_negative_keywords_weight-loss_dk,(over)?weight( loss)?
-21328623,Gesundheitsdaten,denmark,mediaiq_neg_tomboladenmarkgamblingaddiction,addict
-14725398,Gesundheitsdaten,denmark,xaxisdk_baby_pregnant_no,pregnan(t|cy)
-15396016,Gesundheitsdaten,denmark,xaxisdk_gs_predicts_quitsmoking,smok(ing|er)
-21019194,Gesundheitsdaten,finland,eyeota - fi ndr - 21 kantar mind - kantar mind lifestyle - kantar quit smoking,smok(ing|er)
-13722589,Gesundheitsdaten,finland,gfk > fi > purchasing power for retail product lines > tobacco products > 3: high,tobacco
-21301533,Gesundheitsdaten,finland,xaxisfi_warner_bros_weight_loss_eng,(over)?weight( loss)?
-21301503,Gesundheitsdaten,finland,xaxisfi_warner_bros_weight_loss_fin,(over)?weight( loss)?
-13716567,Gesundheitsdaten,france,fidall > fr > pharmacy product buyers > la ligue contre le cancer,cancer
-13720353,Gesundheitsdaten,france,fidall > fr > retailers customers > weightwatchers,(over)?weight( loss)?
-4072998,Gesundheitsdaten,france,international_eu - france dieting and weight loss,(over)?weight( loss)?
-18114419,Gesundheitsdaten,france,mbbmedia_fr_culture_kwet_menopause_femmes45yo_custom,menopause
-15909240,Gesundheitsdaten,france,mediaiq_abbott_diabetes_kw_french,diabet(es|ic)
-25164121,Gesundheitsdaten,france,mediaiq_abbott_hcp_diabetes_fr,diabet(es|ic)
-617473,Gesundheitsdaten,france,mediaiq_gs_french_disability,disab(led|ility)
-18648965,Gesundheitsdaten,france,nielsen france - social - lifestyle - weight loss,(over)?weight( loss)?
-8576938,Gesundheitsdaten,france,oracle country-specific audiences > france (fr) > hobbies and interests (affinity) > health and fitness > wellness > dieting and weight loss,(over)?weight( loss)?
-15035558,Gesundheitsdaten,france,the weather channel (ibm) > france weather conditions > arthritis symptoms,arthritis
-15035559,Gesundheitsdaten,france,the weather channel (ibm) > france weather conditions > asthma symptoms,asthma
-15035561,Gesundheitsdaten,france,the weather channel (ibm) > france weather conditions > migraines symptoms,migraine
-25419978,Gesundheitsdaten,germany,adsquare data alliance > de > place visits > by brand > shopping > consumer goods > specialty store > amplifon,shopp(er|ing)
-24738177,Gesundheitsdaten,germany,adyoulikesa_neg_pmi_de_specific_health_family_covid_smoking,smok(ing|er)
-15669630,Gesundheitsdaten,germany,custom segments > adex|germany|gutefrage|interests|healthyliving|alternativemedicine,medic(al|ine)
-15669634,Gesundheitsdaten,germany,custom segments > adex|germany|gutefrage|interests|healthyliving|weightloss,(over)?weight( loss)?
-21790035,Gesundheitsdaten,germany,eyeota - miq - de kantar media tgi - lifestyle - has tried to give up smoking in last 12 months,smok(ing|er)
-21790040,Gesundheitsdaten,germany,eyeota - miq - de kantar media tgi - lifestyle - smoker,smok(ing|er)
-1388423,Gesundheitsdaten,germany,gamned_gamned_pregnancy_young_mom_de,pregnan(t|cy)
-13722782,Gesundheitsdaten,germany,gfk > de > purchasing power for retail product lines > tobacco products > 3: high,tobacco
-4074148,Gesundheitsdaten,germany,international_eu - germany dieting and weight loss,(over)?weight( loss)?
-8576955,Gesundheitsdaten,germany,oracle country-specific audiences > germany (de) > hobbies and interests (affinity) > health and fitness > wellness > dieting and weight loss,(over)?weight( loss)?
-11064463,Gesundheitsdaten,germany,roqad_diabetes_german,diabet(es|ic)
-437070,Gesundheitsdaten,germany,serranetga_diabetes_de,diabet(es|ic)
-26345102,Gesundheitsdaten,germany,sqreem_de_int_diabetes,diabet(es|ic)
-15036211,Gesundheitsdaten,germany,the weather channel (ibm) > germany weather conditions > arthritis symptoms,arthritis
-15036212,Gesundheitsdaten,germany,the weather channel (ibm) > germany weather conditions > asthma symptoms,asthma
-7654229,Gesundheitsdaten,germany,the weather channel (ibm) > germany weather conditions > migraines symptoms,migraine
-15286357,Gesundheitsdaten,germany,xaxisde_gs_predicts_quitsmoking,smok(ing|er)
-14236741,Gesundheitsdaten,germany,xaxisde_redbull_keywords_paedophilie,phil[ei]
-15043855,Gesundheitsdaten,germany,zeotap > germany > interest > smokers,smok(ing|er)
-24737938,Gesundheitsdaten,italy,adyoulikesa_neg_pmi_it_specific_health_family_covid_smoking,smok(ing|er)
-13773374,Gesundheitsdaten,italy,data owners > ketchup adv > it > intent family & parenting > intent adoption,parent(hood)?
-13597917,Gesundheitsdaten,italy,data owners > ketchup adv > it > intent family & parenting > intent babies & toddlers,parent(hood)?
-4075166,Gesundheitsdaten,italy,international_eu - italy dieting and weight loss,(over)?weight( loss)?
-13725594,Gesundheitsdaten,italy,mobilewalla > it > health &amp;  fitness > diet and weight loss,(over)?weight( loss)?
-8576972,Gesundheitsdaten,italy,oracle country-specific audiences > italy (it) > hobbies and interests (affinity) > health and fitness > wellness > dieting and weight loss,(over)?weight( loss)?
-18282951,Gesundheitsdaten,italy,zeotap > italy > purchase intent > weightloss,(over)?weight( loss)?
-1346747,Gesundheitsdaten,portugal,web3_lose-weight-pt,(over)?weight( loss)?
-9923610,Gesundheitsdaten,romania,xaxisro_en_bayer_elevit_pregnancy,pregnan(t|cy)
-15278380,Gesundheitsdaten,romania,xaxisro_gs_predicts_quitsmoking,smok(ing|er)
-9923591,Gesundheitsdaten,romania,xaxisro_ro_bayer_elevit_pregnancy,pregnan(t|cy)
-21670217,Gesundheitsdaten,spain,"audience 78463, es > cosmetic surgery",surgery
-8255413,Gesundheitsdaten,spain,experian sp - fmcg - cigarettes smoker,smok(ing|er)
-13723818,Gesundheitsdaten,spain,gfk > es > purchasing power for retail product lines > tobacco products > 3: high,tobacco
-4070362,Gesundheitsdaten,spain,international_eu - spain dieting and weight loss,(over)?weight( loss)?
-13725276,Gesundheitsdaten,spain,mobilewalla > es > health & fitness > diet and weight loss,(over)?weight( loss)?
-8577010,Gesundheitsdaten,spain,oracle country-specific audiences > spain (es) > hobbies and interests (affinity) > health and fitness > wellness > dieting and weight loss,(over)?weight( loss)?
-15035704,Gesundheitsdaten,spain,the weather channel (ibm) > spain weather conditions > arthritis symptoms,arthritis
-15035705,Gesundheitsdaten,spain,the weather channel (ibm) > spain weather conditions > asthma symptoms,asthma
-15035707,Gesundheitsdaten,spain,the weather channel (ibm) > spain weather conditions > migraines symptoms,migraine
-1346748,Gesundheitsdaten,spain,web3_loseweight-es,(over)?weight( loss)?
-15284415,Gesundheitsdaten,spain,xaxises_gs_predicts_quitsmoking,smok(ing|er)
-19481922,Gesundheitsdaten,spain,zeotap > spain > interest > health & fitness > menstrual period & ovulation,ovulat(e|ion)
-18427948,Gesundheitsdaten,spain,zeotap > spain > interest > health & fitness > menstrual period & ovulation (1),ovulat(e|ion)
-13776546,Gesundheitsdaten,spain,zeotap > spain > interest > health & fitness > menstrual period & ovulation (2),ovulat(e|ion)
-13776617,Gesundheitsdaten,spain,zeotap > spain > interest > smokers,smok(ing|er)
-26569332,Gesundheitsdaten,sweden,digitalaudience: sweden > spending intent > alcoholic beverages > above average,alcohol
-26569461,Gesundheitsdaten,sweden,digitalaudience: sweden > spending intent > tobacco > above average,tobacco
-13723437,Gesundheitsdaten,sweden,gfk > se > purchasing power for retail product lines > tobacco products > 3: high,tobacco
-21328974,Gesundheitsdaten,sweden,mediaiq_neg_tombolaswedengamblingaddiction,addict
-10474262,Gesundheitsdaten,sweden,xaxisema_emea_pfizer_se_stop_smoking_oct17,smok(ing|er)
-25487144,Gesundheitsdaten,sweden,xaxisse_pr_pregnancy,pregnan(t|cy)
+13723667,Gesundheit,austria,gfk > at > purchasing power for retail product lines > tobacco products > 3: high,tobacco
+15281638,Gesundheit,belgium,xaxisbel_gs_predicts_quitsmoking,smok(ing|er)
+15101157,Gesundheit,denmark,branded data > nordic data resources > denmark > interests > interested in weightloss (power reach),(over)?weight( loss)?
+11155830,Gesundheit,denmark,branded data > nordic data resources > denmark > interests > interested in weightloss (super target),(over)?weight( loss)?
+13723914,Gesundheit,denmark,gfk > dk > purchasing power for retail product lines > tobacco products > 3: high,tobacco
+14658679,Gesundheit,denmark,groupmnordic_nestle_negative_keywords_baby_infants_pregnancy_dk,pregnan(t|cy)
+14658346,Gesundheit,denmark,groupmnordic_nestle_negative_keywords_weight-loss_dk,(over)?weight( loss)?
+21328623,Gesundheit,denmark,mediaiq_neg_tomboladenmarkgamblingaddiction,addict
+14725398,Gesundheit,denmark,xaxisdk_baby_pregnant_no,pregnan(t|cy)
+15396016,Gesundheit,denmark,xaxisdk_gs_predicts_quitsmoking,smok(ing|er)
+21019194,Gesundheit,finland,eyeota - fi ndr - 21 kantar mind - kantar mind lifestyle - kantar quit smoking,smok(ing|er)
+13722589,Gesundheit,finland,gfk > fi > purchasing power for retail product lines > tobacco products > 3: high,tobacco
+21301533,Gesundheit,finland,xaxisfi_warner_bros_weight_loss_eng,(over)?weight( loss)?
+21301503,Gesundheit,finland,xaxisfi_warner_bros_weight_loss_fin,(over)?weight( loss)?
+13716567,Gesundheit,france,fidall > fr > pharmacy product buyers > la ligue contre le cancer,cancer
+13720353,Gesundheit,france,fidall > fr > retailers customers > weightwatchers,(over)?weight( loss)?
+4072998,Gesundheit,france,international_eu - france dieting and weight loss,(over)?weight( loss)?
+18114419,Gesundheit,france,mbbmedia_fr_culture_kwet_menopause_femmes45yo_custom,menopause
+15909240,Gesundheit,france,mediaiq_abbott_diabetes_kw_french,diabet(es|ic)
+25164121,Gesundheit,france,mediaiq_abbott_hcp_diabetes_fr,diabet(es|ic)
+617473,Gesundheit,france,mediaiq_gs_french_disability,disab(led|ility)
+18648965,Gesundheit,france,nielsen france - social - lifestyle - weight loss,(over)?weight( loss)?
+8576938,Gesundheit,france,oracle country-specific audiences > france (fr) > hobbies and interests (affinity) > health and fitness > wellness > dieting and weight loss,(over)?weight( loss)?
+15035558,Gesundheit,france,the weather channel (ibm) > france weather conditions > arthritis symptoms,arthritis
+15035559,Gesundheit,france,the weather channel (ibm) > france weather conditions > asthma symptoms,asthma
+15035561,Gesundheit,france,the weather channel (ibm) > france weather conditions > migraines symptoms,migraine
+25419978,Gesundheit,germany,adsquare data alliance > de > place visits > by brand > shopping > consumer goods > specialty store > amplifon,shopp(er|ing)
+24738177,Gesundheit,germany,adyoulikesa_neg_pmi_de_specific_health_family_covid_smoking,smok(ing|er)
+15669630,Gesundheit,germany,custom segments > adex|germany|gutefrage|interests|healthyliving|alternativemedicine,medic(al|ine)
+15669634,Gesundheit,germany,custom segments > adex|germany|gutefrage|interests|healthyliving|weightloss,(over)?weight( loss)?
+21790035,Gesundheit,germany,eyeota - miq - de kantar media tgi - lifestyle - has tried to give up smoking in last 12 months,smok(ing|er)
+21790040,Gesundheit,germany,eyeota - miq - de kantar media tgi - lifestyle - smoker,smok(ing|er)
+1388423,Gesundheit,germany,gamned_gamned_pregnancy_young_mom_de,pregnan(t|cy)
+13722782,Gesundheit,germany,gfk > de > purchasing power for retail product lines > tobacco products > 3: high,tobacco
+4074148,Gesundheit,germany,international_eu - germany dieting and weight loss,(over)?weight( loss)?
+8576955,Gesundheit,germany,oracle country-specific audiences > germany (de) > hobbies and interests (affinity) > health and fitness > wellness > dieting and weight loss,(over)?weight( loss)?
+11064463,Gesundheit,germany,roqad_diabetes_german,diabet(es|ic)
+437070,Gesundheit,germany,serranetga_diabetes_de,diabet(es|ic)
+26345102,Gesundheit,germany,sqreem_de_int_diabetes,diabet(es|ic)
+15036211,Gesundheit,germany,the weather channel (ibm) > germany weather conditions > arthritis symptoms,arthritis
+15036212,Gesundheit,germany,the weather channel (ibm) > germany weather conditions > asthma symptoms,asthma
+7654229,Gesundheit,germany,the weather channel (ibm) > germany weather conditions > migraines symptoms,migraine
+15286357,Gesundheit,germany,xaxisde_gs_predicts_quitsmoking,smok(ing|er)
+14236741,Gesundheit,germany,xaxisde_redbull_keywords_paedophilie,phil[ei]
+15043855,Gesundheit,germany,zeotap > germany > interest > smokers,smok(ing|er)
+24737938,Gesundheit,italy,adyoulikesa_neg_pmi_it_specific_health_family_covid_smoking,smok(ing|er)
+13773374,Gesundheit,italy,data owners > ketchup adv > it > intent family & parenting > intent adoption,parent(hood)?
+13597917,Gesundheit,italy,data owners > ketchup adv > it > intent family & parenting > intent babies & toddlers,parent(hood)?
+4075166,Gesundheit,italy,international_eu - italy dieting and weight loss,(over)?weight( loss)?
+13725594,Gesundheit,italy,mobilewalla > it > health &amp;  fitness > diet and weight loss,(over)?weight( loss)?
+8576972,Gesundheit,italy,oracle country-specific audiences > italy (it) > hobbies and interests (affinity) > health and fitness > wellness > dieting and weight loss,(over)?weight( loss)?
+18282951,Gesundheit,italy,zeotap > italy > purchase intent > weightloss,(over)?weight( loss)?
+1346747,Gesundheit,portugal,web3_lose-weight-pt,(over)?weight( loss)?
+9923610,Gesundheit,romania,xaxisro_en_bayer_elevit_pregnancy,pregnan(t|cy)
+15278380,Gesundheit,romania,xaxisro_gs_predicts_quitsmoking,smok(ing|er)
+9923591,Gesundheit,romania,xaxisro_ro_bayer_elevit_pregnancy,pregnan(t|cy)
+21670217,Gesundheit,spain,"audience 78463, es > cosmetic surgery",surgery
+8255413,Gesundheit,spain,experian sp - fmcg - cigarettes smoker,smok(ing|er)
+13723818,Gesundheit,spain,gfk > es > purchasing power for retail product lines > tobacco products > 3: high,tobacco
+4070362,Gesundheit,spain,international_eu - spain dieting and weight loss,(over)?weight( loss)?
+13725276,Gesundheit,spain,mobilewalla > es > health & fitness > diet and weight loss,(over)?weight( loss)?
+8577010,Gesundheit,spain,oracle country-specific audiences > spain (es) > hobbies and interests (affinity) > health and fitness > wellness > dieting and weight loss,(over)?weight( loss)?
+15035704,Gesundheit,spain,the weather channel (ibm) > spain weather conditions > arthritis symptoms,arthritis
+15035705,Gesundheit,spain,the weather channel (ibm) > spain weather conditions > asthma symptoms,asthma
+15035707,Gesundheit,spain,the weather channel (ibm) > spain weather conditions > migraines symptoms,migraine
+1346748,Gesundheit,spain,web3_loseweight-es,(over)?weight( loss)?
+15284415,Gesundheit,spain,xaxises_gs_predicts_quitsmoking,smok(ing|er)
+19481922,Gesundheit,spain,zeotap > spain > interest > health & fitness > menstrual period & ovulation,ovulat(e|ion)
+18427948,Gesundheit,spain,zeotap > spain > interest > health & fitness > menstrual period & ovulation (1),ovulat(e|ion)
+13776546,Gesundheit,spain,zeotap > spain > interest > health & fitness > menstrual period & ovulation (2),ovulat(e|ion)
+13776617,Gesundheit,spain,zeotap > spain > interest > smokers,smok(ing|er)
+26569332,Gesundheit,sweden,digitalaudience: sweden > spending intent > alcoholic beverages > above average,alcohol
+26569461,Gesundheit,sweden,digitalaudience: sweden > spending intent > tobacco > above average,tobacco
+13723437,Gesundheit,sweden,gfk > se > purchasing power for retail product lines > tobacco products > 3: high,tobacco
+21328974,Gesundheit,sweden,mediaiq_neg_tombolaswedengamblingaddiction,addict
+10474262,Gesundheit,sweden,xaxisema_emea_pfizer_se_stop_smoking_oct17,smok(ing|er)
+25487144,Gesundheit,sweden,xaxisse_pr_pregnancy,pregnan(t|cy)
 25421542,Kinder,austria,adsquare data alliance > at > place visits > by brand > shopping > clothing and accessories > children's apparel > c&a,shopp(er|ing)
 25422276,Kinder,austria,adsquare data alliance > at > place visits > by category > shopping > clothing and accessories > children's apparel,shopp(er|ing)
 4027700,Kinder,austria,international_eu - austria parenting,parent(hood)?
@@ -2009,38 +2009,38 @@ id,category,country,name,hit
 15741073,politische Meinungen,sweden,eyeota - se ndr - 03 consumer attitudes - social awareness,social
 15741019,politische Meinungen,sweden,eyeota - se ndr - 03 consumer attitudes - social awareness,social
 18060829,politische Meinungen,sweden,eyeota - se ndr - 11 interests kantar sifo - interested in: animal rights,animal ?rights
-15281607,religiöse oder weltanschauliche Überzeugungen,belgium,xaxisbel_gs_predicts_ramadan,ramadan
-11156468,religiöse oder weltanschauliche Überzeugungen,denmark,"branded data > nordic data resources > denmark > interests > interested in spiritual, religious (super target) ",spiritual
-15731819,religiöse oder weltanschauliche Überzeugungen,denmark,"eyeota - dk ndr - 08 interests - interested in spiritual, religious ",spiritual
-8066027,religiöse oder weltanschauliche Überzeugungen,denmark,nike_nike_religion_kwb_dk,religio(n|ous)
-15395876,religiöse oder weltanschauliche Überzeugungen,denmark,xaxisdk_gs_predicts_ramadan,ramadan
-19037820,religiöse oder weltanschauliche Überzeugungen,finland,eyeota - fi ndr - insight360 - values360 - 3 spiritual and religious well-doers,spiritual
-8066028,religiöse oder weltanschauliche Überzeugungen,finland,nike_nike_religion_kwb_fi,religio(n|ous)
-19503520,religiöse oder weltanschauliche Überzeugungen,france,mbbmedia_fr_catholicism,catholic
-19030810,religiöse oder weltanschauliche Überzeugungen,france,mbbmedia_fr_religion_theologie,religio(n|ous)
-617510,religiöse oder weltanschauliche Überzeugungen,france,mediaiq_gs_french_religion,religio(n|ous)
-8057296,religiöse oder weltanschauliche Überzeugungen,france,nike_nike_religion_kwb_fr,religio(n|ous)
-967329,religiöse oder weltanschauliche Überzeugungen,france,sekindo_jewishfrench,jew
-12165670,religiöse oder weltanschauliche Überzeugungen,france,tradelab_wu_ramadan_french,ramadan
-15669666,religiöse oder weltanschauliche Überzeugungen,germany,custom segments > adex|germany|gutefrage|interests|religionandspirituality,religio(n|ous)
-19266320,religiöse oder weltanschauliche Überzeugungen,germany,custom segments > schober b2b mobile data germany - churches and religious groups - 1st and 2nd management level - gps data,church
-8065581,religiöse oder weltanschauliche Überzeugungen,germany,nike_nike_religion_kwb_de,religio(n|ous)
-15286324,religiöse oder weltanschauliche Überzeugungen,germany,xaxisde_gs_predicts_ramadan,ramadan
-11507350,religiöse oder weltanschauliche Überzeugungen,greece,180bytwo > b2c > web > religion > greek orthodox,religio(n|ous)
-9899640,religiöse oder weltanschauliche Überzeugungen,greece,180bytwo > cookie > b2c > religion > greek orthodox,religio(n|ous)
-9910923,religiöse oder weltanschauliche Überzeugungen,greece,businesswatch network > b2c > religion > greek orthodox,religio(n|ous)
-18502938,religiöse oder weltanschauliche Überzeugungen,greece,datastream group>religion>greek orthodox,religio(n|ous)
-10047331,religiöse oder weltanschauliche Überzeugungen,greece,epsilon: demographics > religion > greek orthodox,religio(n|ous)
-9900856,religiöse oder weltanschauliche Überzeugungen,greece,infogroup > b2c > demographics > religion > greek orthodox,religio(n|ous)
-25995893,religiöse oder weltanschauliche Überzeugungen,greece,skydeo > demographics > religion > greek orthodox,religio(n|ous)
-13889597,religiöse oder weltanschauliche Überzeugungen,greece,truoptik>webbula>demographics>religion > greek orthodox,religio(n|ous)
-9905053,religiöse oder weltanschauliche Überzeugungen,greece,webbula > demographic > individual > religion > greek orthodox,religio(n|ous)
-8065600,religiöse oder weltanschauliche Überzeugungen,italy,nike_nike_religion_kwb_it,religio(n|ous)
-8065764,religiöse oder weltanschauliche Überzeugungen,netherlands,nike_nike_religion_kwb_nl,religio(n|ous)
-24625150,religiöse oder weltanschauliche Überzeugungen,portugal,lifestyle > faith > uk & portugal christianity - extended scale,faith
-24625040,religiöse oder weltanschauliche Überzeugungen,portugal,lifestyle > faith > uk & portugal christianity - extreme confidence,faith
-15278359,religiöse oder weltanschauliche Überzeugungen,romania,xaxisro_gs_predicts_ramadan,ramadan
-8057313,religiöse oder weltanschauliche Überzeugungen,spain,nike_nike_religion_kwb_es,religio(n|ous)
-15284385,religiöse oder weltanschauliche Überzeugungen,spain,xaxises_gs_predicts_ramadan,ramadan
-8013244,religiöse oder weltanschauliche Überzeugungen,sweden,branded data > nordic data resources > sweden > super target > interests > religion,religio(n|ous)
-8066030,religiöse oder weltanschauliche Überzeugungen,sweden,nike_nike_religion_kwb_se,religio(n|ous)
+15281607,Religion,belgium,xaxisbel_gs_predicts_ramadan,ramadan
+11156468,Religion,denmark,"branded data > nordic data resources > denmark > interests > interested in spiritual, religious (super target) ",spiritual
+15731819,Religion,denmark,"eyeota - dk ndr - 08 interests - interested in spiritual, religious ",spiritual
+8066027,Religion,denmark,nike_nike_religion_kwb_dk,religio(n|ous)
+15395876,Religion,denmark,xaxisdk_gs_predicts_ramadan,ramadan
+19037820,Religion,finland,eyeota - fi ndr - insight360 - values360 - 3 spiritual and religious well-doers,spiritual
+8066028,Religion,finland,nike_nike_religion_kwb_fi,religio(n|ous)
+19503520,Religion,france,mbbmedia_fr_catholicism,catholic
+19030810,Religion,france,mbbmedia_fr_religion_theologie,religio(n|ous)
+617510,Religion,france,mediaiq_gs_french_religion,religio(n|ous)
+8057296,Religion,france,nike_nike_religion_kwb_fr,religio(n|ous)
+967329,Religion,france,sekindo_jewishfrench,jew
+12165670,Religion,france,tradelab_wu_ramadan_french,ramadan
+15669666,Religion,germany,custom segments > adex|germany|gutefrage|interests|religionandspirituality,religio(n|ous)
+19266320,Religion,germany,custom segments > schober b2b mobile data germany - churches and religious groups - 1st and 2nd management level - gps data,church
+8065581,Religion,germany,nike_nike_religion_kwb_de,religio(n|ous)
+15286324,Religion,germany,xaxisde_gs_predicts_ramadan,ramadan
+11507350,Religion,greece,180bytwo > b2c > web > religion > greek orthodox,religio(n|ous)
+9899640,Religion,greece,180bytwo > cookie > b2c > religion > greek orthodox,religio(n|ous)
+9910923,Religion,greece,businesswatch network > b2c > religion > greek orthodox,religio(n|ous)
+18502938,Religion,greece,datastream group>religion>greek orthodox,religio(n|ous)
+10047331,Religion,greece,epsilon: demographics > religion > greek orthodox,religio(n|ous)
+9900856,Religion,greece,infogroup > b2c > demographics > religion > greek orthodox,religio(n|ous)
+25995893,Religion,greece,skydeo > demographics > religion > greek orthodox,religio(n|ous)
+13889597,Religion,greece,truoptik>webbula>demographics>religion > greek orthodox,religio(n|ous)
+9905053,Religion,greece,webbula > demographic > individual > religion > greek orthodox,religio(n|ous)
+8065600,Religion,italy,nike_nike_religion_kwb_it,religio(n|ous)
+8065764,Religion,netherlands,nike_nike_religion_kwb_nl,religio(n|ous)
+24625150,Religion,portugal,lifestyle > faith > uk & portugal christianity - extended scale,faith
+24625040,Religion,portugal,lifestyle > faith > uk & portugal christianity - extreme confidence,faith
+15278359,Religion,romania,xaxisro_gs_predicts_ramadan,ramadan
+8057313,Religion,spain,nike_nike_religion_kwb_es,religio(n|ous)
+15284385,Religion,spain,xaxises_gs_predicts_ramadan,ramadan
+8013244,Religion,sweden,branded data > nordic data resources > sweden > super target > interests > religion,religio(n|ous)
+8066030,Religion,sweden,nike_nike_religion_kwb_se,religio(n|ous)
